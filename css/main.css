@@ -19,7 +19,7 @@
   --btn-default-hover-border-color: #222;
 }
 html {
-  line-height: 1.15; /* 1 */
+  /*line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
 }
 body {
@@ -85,7 +85,7 @@ select,
 textarea {
   font-family: inherit; /* 1 */
   font-size: 100%; /* 1 */
-  line-height: 1.15; /* 1 */
+  /*line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
 }
 button,
@@ -118,6 +118,8 @@ button:-moz-focusring,
   outline: 1px dotted ButtonText;
 }
 fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
   padding: 0.35em 0.75em 0.625em;
 }
 legend {
@@ -125,6 +127,7 @@ legend {
   color: inherit; /* 2 */
   display: table; /* 1 */
   max-width: 100%; /* 1 */
+  border: 0; /* 1 */
   padding: 0; /* 3 */
   white-space: normal; /* 1 */
 }
@@ -175,11 +178,15 @@ body {
   height: 100%;
 }
 body {
-  background: var(--body-bg-color);
-  color: var(--text-color);
+  /*background: var(--body-bg-color);
+  color: var(--text-color);*/
+  color: #555;
+  background: #fff;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1em;
+  /*font-size: 1em;*/
+  font-size: 14px;
   line-height: 2;
+  position: relative;
 }
 @media (max-width: 991px) {
   body {
@@ -196,7 +203,8 @@ h6 {
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-weight: bold;
   line-height: 1.5;
-  margin: 20px 0 15px;
+  /*margin: 20px 0 15px;*/
+  margin: 0;
 }
 h1 {
   font-size: 1.5em;
@@ -217,7 +225,7 @@ h6 {
   font-size: 0.875em;
 }
 p {
-  margin: 0 0 20px 0;
+  margin: 0 0 25px 0;
 }
 a,
 span.exturl {

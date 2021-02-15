@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.3.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"www.structzhang.com","root":"/","scheme":"Mist","version":"7.8.0","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="没设计过体育场。春节期间路过永川体育中心，觉得蛮新鲜。场外转了一圈，做了一次体育场钢结构设计的考察，在此整理记录。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="春节返乡结构设计考察——永川体育中心">
+<meta property="og:url" content="http://www.structzhang.com/2017/02/2017_02_yongchuan_stadium/index.html">
+<meta property="og:site_name" content="StructZhang">
+<meta property="og:description" content="没设计过体育场。春节期间路过永川体育中心，觉得蛮新鲜。场外转了一圈，做了一次体育场钢结构设计的考察，在此整理记录。">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/0-path.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/05_swimming_indor_outdoor.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/01_stadium_grade.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/02_population.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/06_stadium_area_limit.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/03_grade_II_stadium.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/04_swmming_gym.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-1-top_Ink_LI.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-2-cantilever_Ink_LI.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-3-connet_earth_Ink_LI.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-4-joint.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-4-fenfeng_Ink_LI.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-1-fenfeng_Ink_LI.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-3-single_double_column_Ink_LI.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-2-stairs.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-4-wind_pressure.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-5-connection.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-6-fenfeng.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-7-RC-fenfeng.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-8-steel_angle_Ink_LI.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-9-bug.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-2-grid.jpg">
+<meta property="og:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/grid-2-deflection.jpg">
+<meta property="article:published_time" content="2017-02-07T00:17:14.000Z">
+<meta property="article:modified_time" content="2021-02-14T10:53:58.902Z">
+<meta property="article:author" content="StructZhang">
+<meta property="article:tag" content="永川 yongchuan">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/0-path.jpg">
+
+<link rel="canonical" href="http://www.structzhang.com/2017/02/2017_02_yongchuan_stadium/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>春节返乡结构设计考察——永川体育中心 | StructZhang</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">StructZhang</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container"></div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="algolia-results">
+  <div id="algolia-stats"></div>
+  <div id="algolia-hits"></div>
+  <div id="algolia-pagination" class="algolia-pagination"></div>
+</div>
+
+      
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://www.structzhang.com/2017/02/2017_02_yongchuan_stadium/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="StructZhang">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="StructZhang">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          春节返乡结构设计考察——永川体育中心
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2017-02-07 00:17:14" itemprop="dateCreated datePublished" datetime="2017-02-07T00:17:14Z">2017-02-07</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E7%BB%93%E6%9E%84-struct/" itemprop="url" rel="index"><span itemprop="name">结构 struct</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p>没设计过体育场。春节期间路过永川体育中心，觉得蛮新鲜。场外转了一圈，做了一次体育场钢结构设计的考察，在此整理记录。</p>
+<a id="more"></a>
+<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>以下摘自<a target="_blank" rel="noopener" href="http://yc.cq.gov.cn/art/2012/12/26/art_227_27879.html">永川区人民政府网站</a>：</p>
+<blockquote>
+<p> 永川区体育中心位于永川区红河大道539号，于2007年12月建成投入使用。该中心占地面积165亩，建筑高度为34米，建筑面积44000平方米。建有一个能容纳3万人观看的国家级体育赛事的中心体育场和一个能容纳500人观看赛事的室内游泳馆；另建有天然草坪足球场1块，人工草坪足球场1块，风雨门球场6块。</p>
+</blockquote>
+<p>以下摘自百度百科词条<a target="_blank" rel="noopener" href="http://baike.baidu.com/link?url=FuTnssJQLgmLNuksHREedlIQZ3ptrizh_dmo8oiVGuGuHz7kHXQfED58cPEGRiQnQjk1azzo9ni-fTGv7iyiDgzrAettunNSB-y1U31iILCHNF0idD4ucL2fClUdNcSDcc49pz-q0ce4iRdFVDRZ3K">“永川体育中心”</a>：</p>
+<blockquote>
+<p>永川体育中心占地面积19.47公顷，工程总投资约1.39亿元，是一座规模较大、功能合理、档次较高、环境优美的大型综合体育场馆，体育中心分为公园前区、体育运动区、公园生态区，建有一个可承接国家级体育赛事的2.5万人中心体育场和一个标准游泳馆，配套6块网球场、6块篮球场、4块门球场及相关设施。</p>
+</blockquote>
+<p>此次考察的行进路线按下图（为后文描述方便，命名为“图0”）中1<del>6顺序进行，其中1</del>3环绕游泳馆，4为游泳馆和体育场的分界处，5~6环绕体育场。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/0-path.jpg" alt="行进路线"></p>
+<h1 id="设计参数辨识"><a href="#设计参数辨识" class="headerlink" title="设计参数辨识"></a>设计参数辨识</h1><p>这次考察的对象，是体育场和游泳馆，它们的钢结构屋面形似一条舞动的飘带，是整个体育中心外形上的亮点。<br>从简介中可以看出：</p>
+<ol>
+<li>体育中心建筑高度为34m，为高层建筑；</li>
+<li>永川体育中心“体育场”（非“体育馆”）并无异议。《体规》根据室内室外对游泳场（池）/游泳馆进行划分，永川体育中心游泳设施四周并未封闭，但考虑到整个泳池有屋盖覆盖，暂列为“游泳馆”。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/05_swimming_indor_outdoor.jpg" alt="游泳馆和游泳池"></li>
+<li>对于体育馆建筑等级：永川体育中心从2011年开始连续承办国际女足邀请赛（国际A级赛事）（百度百科词条<a target="_blank" rel="noopener" href="http://baike.baidu.com/link?url=tVmT7Fz6VQOk2sEfJM68yPjTAmL7agm6JbmfvzbwqxYRmvlnVqC0MVBaNlKli9LfvlAdkBcc9cwpNAQSTDJfVxCQdQcFmoM4QXdk496wi6afiVvlFuj35gZTh4odClBsCGBluwkY2lJdh72XIjWz2-5Qj7WUGyVMTm8Jpcw_oBpKWR9LTr8MrL8p5BvjMrax">“永川国际女足邀请赛”</a>），可推测其定位至少是“举办全国性和单项国际比赛”，根据<a target="_blank" rel="noopener" href="http://wenku.baidu.com/link?url=m6nAK0qKWmXfaeFPyRMt5XuU40HmgIhcaqbml9f4M49qTqoq88TAy9Ugnkd7EkegJwxof4VKSEJQmWgGp4Tbwy6888Tukw_DK5hJgsKIe_m">《体育建筑设计规范 JGJ31-2003》</a>（以下简称《体规》）1.0.7，为甲级体育建筑，根据1.0.8，主体结构设计使用年限为50~100年，耐火等级≥二级。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/01_stadium_grade.jpg" alt="市级体育设施规模"></li>
+<li>对于体育场能容纳观众数，两处描述有差异，但这正是结构设计的关键点。目前永川城市人口为73万（<a target="_blank" rel="noopener" href="http://yc.cq.gov.cn/art/2017/1/26/art_1169_168969.html">《2017年重庆市永川区人民政府工作报告》</a>），按《体规》3.0.3，适合的体育场规模为2~3万座，游泳馆规模为2-3千座。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/02_population.jpg" alt="永川人口"><br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/06_stadium_area_limit.jpg" alt="体育设施用地规模限制"></li>
+<li><ol>
+<li>3条中体育场座位约数和报道相符。根据<a target="_blank" rel="noopener" href="http://wenku.baidu.com/view/b096c5e39b89680203d82516.html?re=view">《建筑工程抗震设防分类标准 GB50223-2008》</a>（以下简称《设防标》）6.0.3条文说明，“观众座位容量不少于30000人或每个结构区段的座位容量5000人”为人员密集，需确定为乙类建筑。查阅其它<a target="_blank" rel="noopener" href="http://cq.cqnews.net/cqqx/html/2015-10/16/content_35531647.htm">新闻报道</a>，推测永川体育中心的“3万人”为约数（新闻报道中为“近3万人”，和2.5万人相符），实际座位数在3万以下，因此以下分析暂不按乙类建筑考虑。按《体规》5.1.1，为中型体育场。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/03_grade_II_stadium.jpg" alt="抗规对人员密集体育建筑的规定"></li>
+</ol>
+</li>
+<li><ol start="2">
+<li>3条中的游泳馆座位约数和报道不符。目前未找到其余报道能说明游泳馆座位数，但根据当日现场拍摄照片（在图0的位置3观察，下图黄色高亮四边形区域约20x10=200座），座位数远超过500座，和2-3千座接近。根据《设防标》6.0.3条文说明（上图），“观众座位很多的大型体育馆（含游泳馆）指观众座位容量不少于4500人”，因此游泳馆为丙类建筑。按《体规》7.1.1，为中型游泳馆。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/04_swmming_gym.jpg" alt="游泳馆实景图"></li>
+</ol>
+</li>
+<li>永川区抗震设防参数为6度0.05g第一组，由《抗规》表8.1.3及条文说明可知钢结构抗震等级为小于四级，“其‘作用效应调整系数’和‘抗震构造措施’可按非抗震设计执行”。</li>
+</ol>
+<h1 id="游泳馆"><a href="#游泳馆" class="headerlink" title="游泳馆"></a>游泳馆</h1><p>在图0的位置1仰视，可见：</p>
+<ol>
+<li>采用正放四角锥网架。识别：双层，上层（红色）和下层（橙色）均为正放正方形，四根斜杆汇聚到一点。又因上下层正方形大小一致，因此为正方四角锥（否则可能为抽空四角锥）。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-1-top_Ink_LI.jpg" alt="1位置仰视图"></li>
+<li>双向网架尽可能让柱与柱直接相连以使传力直接（上图中蓝、紫色虚线），最直接的受力单元则为垂直飘带方向的柱间连接（图0中的绿色粗实线，上图蓝色虚线）；</li>
+<li>为屋面造型需求，网架略有上拱（上图蓝色虚线示意）。若造型为平面，大跨结构施工时也应预留适度上拱。另外，《空间网格结构技术规程 JGJ7-2010》（以下简称《网规》）规定了当有排水找坡需求时的处理办法：改变上弦节点小立柱高度、网架变厚度、网架整体结构找坡。</li>
+<li>由于柱位布置受限，角柱并未和边柱布置于一条直线（下图紫色虚线），此时网架并未随角柱发生弯折，仍随大面的正交方向布置。</li>
+<li>屋面覆膜固定于钢条上，钢条与网架间通过球节点上安放的立杆进行焊接（下图红框区域放大）。网架杆件间通过螺栓球节点进行连接。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-2-cantilever_Ink_LI.jpg" alt="悬挑角部网架布置"></li>
+</ol>
+<p>在图0的位置2观察：<br>飘带一角下沉，双向网格逐渐在此处交汇收于一点，并通过平板压力支座与混凝土矮墩相连。矮墩下大上小，其中一个斜面与网架面平行，利于将网架推力直接传递至基础。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-3-connet_earth_Ink_LI.jpg" alt="网架落地连接"><br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-4-joint.jpg" alt="螺栓球节点及压力支座"></p>
+<p>在图0的位置4观察：<br>分缝处可见游泳馆与体育场屋盖采用了不同的结构形式。想说的是：<strong>要分缝就分彻底</strong>。分缝处横穿的圆管为落水管，从体育场屋面引水至游泳馆最近的混凝土柱处下落。而在主结构上方用于架设屋面的钢条为薄壁型钢，连接刚度小，忽略其对分缝的影响。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-4-fenfeng_Ink_LI.jpg" alt="游泳馆和体育场间的分缝"></p>
+<h1 id="体育场"><a href="#体育场" class="headerlink" title="体育场"></a>体育场</h1><p>图0的位置4分缝处的另一侧为体育场，形式和游泳馆完全不同。<br>图0的位置5为体育场区域分缝处，在此处能观察到体育场结构的两种基本构成形式：以单混凝土柱+钢斜杆为竖向构件的悬挑桁架（下图右）；以双混凝土柱+钢斜杆为竖向构件的悬挑桁架（下图左）。再利用布置于内悬挑端部、柱顶、和大悬挑中部的环向桁架将各单榀结构进行连接，形成双向抗震体系，从而构成完整的体育场屋面。下图中：</p>
+<ul>
+<li>红色为钢筋混凝土柱，从下方混凝土看台升起；</li>
+<li>绿色为悬挑钢桁架，中部铰接于柱顶，根部铰接于钢斜杆顶；</li>
+<li>蓝色为钢斜杆，上下均为铰接，下部直接与基础相连。</li>
+</ul>
+<p>注：以上及以下在字面上不区分悬挑根部的钢斜杆为受压的钢柱/撑或是受拉的钢拉杆，统一称作“钢斜杆”。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-1-fenfeng_Ink_LI.jpg" alt="两种基本单榀结构"><br>设计要点如下：</p>
+<ol>
+<li>对悬挑桁架，上杆受拉而下杆受压，若采用单上杆+双下杆方案可以使杆件截面均匀。但双下杆不便于和柱连接（柱截面小于两杆间距），因此采用了单下杆+双上杆的方案。为何没采用单上杆+单下杆？估计是三角形截面较稳定吧。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-3-single_double_column_Ink_LI.jpg" alt="单柱受力分析"></li>
+<li>对悬挑单榀，无论悬挑大小及根柱远近，中柱始终受压，中柱可保持钢筋混凝土柱。</li>
+<li>体育场绝大部分区域均布置看台座位，为保持视线不受柱遮挡，中柱需布置于看台区域外围，此时屋面悬挑很大且根部竖向构件距离中柱较近，悬挑根部上翘使得竖向构件受拉，因此采用钢斜杆。</li>
+<li>少量无看台的消防通道出入口（平面位置见图0中A、B两处）可将中柱前移，减小悬挑长度的同时也增大了和根柱的距离，此时可考虑采用双混凝土柱。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-2-stairs.jpg" alt="消防通道口的双柱"></li>
+<li>从结构设计上看，设置双混凝土柱的地方似无必要再设置外侧钢斜杆。抑或为保持外观的一致性，是否所有区域都应采用单混凝土柱+钢斜杆方案？可参考的解释为：能加双混凝土柱的消防通道处同时正好是钢屋面的分缝位置，分缝两端通常位移较大，需要加强，做成双混凝土柱+钢斜杆，增加了超静定次数，刚度更大。</li>
+<li>由于屋面覆膜且看台开敞，因此风力在屋面内外两侧产生压-吸力的叠加导致吸力增大，这在《荷载规范》中有所体现（下图）。当风力产生的吸力大于悬挑重力时，可能导致桁架上下拉压杆及柱所受内力反号。因此在屋面悬挑侧设置拉索以抵抗可能的风吸力（上上图）。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-4-wind_pressure.jpg" alt="开敞式结构的风吸力增大"></li>
+<li>学习一下钢斜杆顶部和底部的<strong>单向铰接节点</strong>做法。根据加工的便利程度来决定各连接处哪一侧做单板哪一侧做双板。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-5-connection.jpg" alt="钢斜杆顶底连接做法"></li>
+<li>关于<strong>结构伸缩缝</strong>，钢结构和混凝土结构有不同的要求，可见混凝土限制较严。下图（可点击放大）：左-高层混凝土结构设计规程，右-钢结构设计规范。更多阅读可见此文<a target="_blank" rel="noopener" href="http://blog.163.com/clq_1998/blog/static/304564172008111103151743/">《结构缝分类和设置 》</a>。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-6-fenfeng.jpg" alt="高规和钢规对伸缩缝的规定"><br>在图0中位置4及5两处可见钢结构分缝（照片见前所示），而混凝土分缝更加常见（未统计各处位置，以后有机会补上平面示意图）。可见分缝处为双柱，双柱顶共同托起一榀悬挑桁架。但<strong>双柱顶和桁架如何连接？</strong><br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-7-RC-fenfeng.jpg" alt="混凝土结构分缝"></li>
+<li>关于钢斜杆角度：环绕体育场一周，能见到不同倾斜程度的钢斜杆（下图为图0中位置6处），有何因素影响倾斜程度？结合下图手绘示意图尝试解释如下：</li>
+</ol>
+<ul>
+<li>钢斜杆与混凝土柱共用基础，可利用斜杆拉力减小中柱对基础的压力，减小基础尺寸；</li>
+<li>当钢屋面外围突出混凝土看台边界不多时（左示意图），拉杆力F1小，拉杆截面尺寸小，同时拉杆力的水平分量H1小，基础抗侧设计容易满足。</li>
+<li>当钢屋面外围突出混凝土看台边界较多时（右示意图），为满足悬挑要求V2=V1，此时若仍将斜杆底部与柱底相连，则倾斜角度变大，H2&gt;H1且F2&gt;F1，对基础抗侧不利，且可能增加斜拉杆、基础及节点的材料用量和设计难度。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-8-steel_angle_Ink_LI.jpg" alt="不同角度的钢斜杆"></li>
+</ul>
+<h1 id="两处bug的处理方式"><a href="#两处bug的处理方式" class="headerlink" title="两处bug的处理方式"></a>两处bug的处理方式</h1><p>以下两处似乎是设计时的遗憾，然而也能将错就错学到新东西。</p>
+<ul>
+<li>左：斜杆穿过玻璃挑檐，可见即使有防水处理，密封性也不好。可学到和周边整块玻璃不一样的架设方式。</li>
+<li>右：近处斜杆穿过消防楼梯边缘，远处斜杆位于楼梯内部。居然这样也能做？！？虽然侧边有障碍，但将梯梁设置于避开障碍物，周边做成翻边遮蔽梯梁，也能满足要求。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-9-bug.jpg" alt="两处bug"></li>
+</ul>
+<h1 id="《网规》学习要点摘录"><a href="#《网规》学习要点摘录" class="headerlink" title="《网规》学习要点摘录"></a>《网规》学习要点摘录</h1><p>除前几节所述涉及《网规》的部分内容外，此次学习到的以下内容也属于空间网格结构设计需要掌握的基本点，摘录如下：</p>
+<ol>
+<li>不同形式的网架示意图如下（yjk软件自带图片）。更直观的立体图片见《网规》附录A/B。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-2-grid.jpg" alt="不同种类的网架结构形式"></li>
+<li>《网规》2.1.2、2.1.7：平面或略微上拱的空间网格结构称为“网架”，主要承受弯曲内力，而对曲面弧度较大的空间网格结构则称为“网壳”，主要承受整体薄膜内力。</li>
+<li>《网规》3.1.8：<strong>单层网壳必须采用刚接节点。</strong></li>
+<li>《网规》1.0.2条文说明：**&gt;60m时为大跨度，30~60m为中跨度，&lt;30m为小跨度。**</li>
+<li>《网规》规定了如下要点：网架分类（3.1.2<del>3.1.6）；不同平面形状、长宽比和支承情况的适宜选型（3.2.1</del>3.2.4）；矢跨比（3.2.5、3.3.1<del>3.3.4、3.4.1</del>3.4.3）。</li>
+<li><strong>矢跨比及厚度经验取值</strong>：网架矢跨比1/10<del>1/18；网壳矢跨比1/2</del>1/9不等，厚度可取宽度的1/20<del>1/60不等；立体桁架矢跨比1/12</del>1/16；立体拱架矢跨比1/3<del>1/6，厚度可取跨度的1/20</del>1/30；张弦立体拱架……</li>
+<li>《网规》3.5.1：<strong>容许挠度及预起拱</strong>要求：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/grid-2-deflection.jpg" alt="容许挠度及预起拱"></li>
+<li>《网规》4.2.4：可不考虑<strong>温度应力</strong>的条件：构造允许足够的侧移值、周边独立柱支承且跨度&lt;40m、柱顶水平位移较大。</li>
+<li>《网规》4.3：需进行<strong>稳定性计算</strong>的情况：单层网壳及厚度小于跨度的1/50的双层网壳。初始缺陷分布采用一阶屈曲模态，数值取跨度的1/300。安全系数K根据弹/弹塑性计算机跨度和结构形式的不同可取2~4.2，特定的小跨度网壳可按附录E的允许应力法进行稳定性设计）。</li>
+<li>《网规》4.4：需进行<strong>抗震验算</strong>的情况：8度周边支承的小跨度网架需竖震，其余≥8度的网架需水震+竖震。7度矢跨比≥1/5的网壳需水震，其余≥7度的网壳需水震+竖震。阻尼比取0.02<del>0.03（4.4.10），振型至少10</del>15（网架）/25~30（网壳）。</li>
+<li>《网规》6.3~6.9：<strong>安装方法</strong>：高空散装法、分条或分块安装法、滑移法、整体吊装法、整体提升法、整体顶升法、折叠展开式整体提升法。</li>
+<li>《网规》5.2~5.8：杆件的<strong>连接节点</strong>可分为：</li>
+</ol>
+<ul>
+<li>焊接空心球节点</li>
+<li>螺栓球节点：连接网架和双层网壳的圆钢管</li>
+<li>嵌入式毂节点：跨度不大的单层球、柱面网壳</li>
+<li>铸钢节点：汇交密集、受力复杂且可靠性要求高的关键部位</li>
+<li>销轴式节点：约束线位移、放松角位移</li>
+<li>组合结构的节点</li>
+<li>预应力索节点</li>
+<li>支座节点：分为压/拉力支座节点、可滑移与转动的弹性支座节点、兼受轴力、弯矩与剪力的刚性支座节点</li>
+</ul>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E6%B0%B8%E5%B7%9D-yongchuan/" rel="tag"># 永川 yongchuan</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2017/02/2017_01_homesick/" rel="prev" title="张王家的往事">
+      <i class="fa fa-chevron-left"></i> 张王家的往事
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2017/05/2017_03_new_song-1/" rel="next" title="struct zhang 参与的第二个音乐作品《河》——（1）给父母的歌">
+      struct zhang 参与的第二个音乐作品《河》——（1）给父母的歌 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AE%80%E4%BB%8B"><span class="nav-number">1.</span> <span class="nav-text">简介</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%AE%BE%E8%AE%A1%E5%8F%82%E6%95%B0%E8%BE%A8%E8%AF%86"><span class="nav-number">2.</span> <span class="nav-text">设计参数辨识</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%B8%B8%E6%B3%B3%E9%A6%86"><span class="nav-number">3.</span> <span class="nav-text">游泳馆</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BD%93%E8%82%B2%E5%9C%BA"><span class="nav-number">4.</span> <span class="nav-text">体育场</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%A4%E5%A4%84bug%E7%9A%84%E5%A4%84%E7%90%86%E6%96%B9%E5%BC%8F"><span class="nav-number">5.</span> <span class="nav-text">两处bug的处理方式</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E3%80%8A%E7%BD%91%E8%A7%84%E3%80%8B%E5%AD%A6%E4%B9%A0%E8%A6%81%E7%82%B9%E6%91%98%E5%BD%95"><span class="nav-number">6.</span> <span class="nav-text">《网规》学习要点摘录</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="StructZhang"
+      src="/images/avatar.jpg">
+  <p class="site-author-name" itemprop="name">StructZhang</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">19</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">5</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">16</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/structzhang" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;structzhang" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:zhangyh06@qq.com" title="E-Mail → mailto:zhangyh06@qq.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 2016 – 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">StructZhang</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://mist.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Mist</a> 强力驱动
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="//cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+<script src="//cdn.jsdelivr.net/npm/instantsearch.js@4/dist/instantsearch.production.min.js"></script>
+<script src="/js/algolia-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>
