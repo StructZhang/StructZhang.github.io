@@ -1,60 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>mark一篇新发的sci</title>
-    <url>/2016/10/2016-04-a-new-sci/</url>
-    <content><![CDATA[<p>冯老师告知，一篇新发的sci在官网上已公开。虽是承袭于硕士期间研究成果，但也让我完成了一年发表一篇文章的目标。mark一下。</p>
-<a id="more"></a>
-
-<h1 id="关于研究内容"><a href="#关于研究内容" class="headerlink" title="关于研究内容"></a>关于研究内容</h1><p>这篇文章是硕士研究成果的总结，在毕业后进行整理深化和翻译的基础上在近期发表。首先感谢冯老师对我研究工作的指导和帮助，以及两位师弟师妹先后参与其中所做的贡献。<br>PDF下载地址：<a href="http://www.sciencedirect.com/science/article/pii/S0263823116303160">点此打开网页后可选择下载PDF</a><br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/20161028_a_new_sci/thin-walled.PNG" alt="cover of thin-walled structure"></p>
-<p>我的硕士研究的课题是“FRP抗屈曲加固轴压钢构件的研究”，研究手段是试验+理论分析+有限元模拟：</p>
-<ul>
-<li>力学行为研究：通过试验验证“外套FRP套管+内填砂浆”[1]和“内填竹材外包FRP纤维布”[2]两种方法对抗屈曲加固钢构件的有效性；</li>
-<li>力学机理研究：通过理论分析和有限元模拟研究加固机理，拓展常规试验所涉及不到的参数分析范围；</li>
-<li>应用技术研究：基于以上研究成果，提出FRP抗屈曲加固钢构件的设计方法。</li>
-</ul>
-<p>[1] 砂浆试验文章： <a href="http://or.nsfc.gov.cn/bitstream/00001903-5/73262/1/1000004726746.pdf">Feng Peng, Zhang Yanhua, Bai Yu, et al. 2013. Strengthening of steel members in compression by mortar-filled FRP tubes[J]. Thin-Walled Structures, 64(3): 1-12. </a><br>[2] 竹材试验文章：<a href="https://www.researchgate.net/publication/263126210_Combination_of_Bamboo_Filling_and_FRP_Wrapping_to_Strengthen_Steel_Members_in_Compression">Feng Peng, Zhang Yanhua, Bai Yu, et al. 2013. Combination of bamboo filling and FRP wrapping to strengthen steel members in compression[J]. Journal of Composites for Construction (ASCE), 17(3): 347-356. </a></p>
-<p>研究相关成果会编入即将发布的<a href="http://wenku.baidu.com/link?url=PgQAUB-Bv2YuPRJ7GUBfq4UFro999Z-ZaMLkiBNe0L6G2x5TT8-Za5LZtbeUZ6WHTa-DNBv6c-Sxt_0MYyhxv1IMja6IeC8Wp5yn0055OXC">《纤维增强复合材料加固钢结构技术规程》</a>的相关章节,从而转化到工程实际应用中。</p>
-<h1 id="一些感受"><a href="#一些感受" class="headerlink" title="一些感受"></a>一些感受</h1><ul>
-<li>冯老师在课题组QQ群里说，“发表了一篇重要的论文”，不管研究本身的意义，但至少让我硕士阶段的研究更加完整。如果说本科阶段更多的是学习知识，硕士阶段则是创造知识，尤其是毕业后的现在，回顾时更能感受到这种差别。我想，无论研究成果是否足够好，既然有一点真实的成果，就可以和大家分享。好则传播，为别人的研究提供新思路，不够好则聆听同行的批评指点，以弥补缺失更进一步。</li>
-<li>通过对计算机行业的接触，我真切地感受到“分享”在不同行业内的差异。计算机行业的热门不是偶然，内因是基于它和各行各业联系的紧密性，这给它带来了广泛的改变世界的能力。许多有想象力和野心的人的加入，带动了这个行业充满活力，不管在知乎还是stackoverflow，总能看到很多程序员的讨论和互动。联想到曾经的网易结构论坛和okok钢结构论坛，曾经的繁荣时期恰好是在基础建设火热时期。而今，前者随网易终止论坛服务而终结，后者的发帖量也早已大不如前。并不是有疑问的人少了，总是有新人到来，而是愿意分享的人不再活跃了。毕竟经济基础决定上层建筑，当行业不再景气，愿意分享的氛围也会不复存在，反过来行业加速前进的动力自然受到影响。</li>
-<li>但我仍是看好“分享”的。在分享过程中会有自己的总结和沉淀，会有别人的反馈和带来的再思考，这会提升个人战斗力。同时，结识一批有同样技术水平或思想的人，更让我们有可能形成集群战斗力。很多问题不是靠一个人闭门造车就能解决了，如何发现和组建合适的团队，得靠每个人的分享自我。从朋友圈到知乎到stackoverflow，从分享日常琐碎到分享生活经验和专业经验，分享不一定偶遇，但不分享就一定不会相逢。</li>
-</ul>
-<p>所以，开始分享吧，从我做起，从现在做起：）</p>
-]]></content>
-      <categories>
-        <category>结构 struct</category>
-      </categories>
-      <tags>
-        <tag>清华 Tsinghua</tag>
-        <tag>文章 paper</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2016/10/2016_01_hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<a id="more"></a>
-
-<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>computer</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>教程 course</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Markdown 常用语法 - for hexo</title>
     <url>/2016/10/2016_02_syntax_of_markdown/</url>
     <content><![CDATA[<p>以hexo为平台，介绍适合于本网站的markdown的常用语法。</p>
@@ -184,6 +130,60 @@ print(sum)
       <tags>
         <tag>markdown</tag>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>mark一篇新发的sci</title>
+    <url>/2016/10/2016-04-a-new-sci/</url>
+    <content><![CDATA[<p>冯老师告知，一篇新发的sci在官网上已公开。虽是承袭于硕士期间研究成果，但也让我完成了一年发表一篇文章的目标。mark一下。</p>
+<a id="more"></a>
+
+<h1 id="关于研究内容"><a href="#关于研究内容" class="headerlink" title="关于研究内容"></a>关于研究内容</h1><p>这篇文章是硕士研究成果的总结，在毕业后进行整理深化和翻译的基础上在近期发表。首先感谢冯老师对我研究工作的指导和帮助，以及两位师弟师妹先后参与其中所做的贡献。<br>PDF下载地址：<a href="http://www.sciencedirect.com/science/article/pii/S0263823116303160">点此打开网页后可选择下载PDF</a><br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/20161028_a_new_sci/thin-walled.PNG" alt="cover of thin-walled structure"></p>
+<p>我的硕士研究的课题是“FRP抗屈曲加固轴压钢构件的研究”，研究手段是试验+理论分析+有限元模拟：</p>
+<ul>
+<li>力学行为研究：通过试验验证“外套FRP套管+内填砂浆”[1]和“内填竹材外包FRP纤维布”[2]两种方法对抗屈曲加固钢构件的有效性；</li>
+<li>力学机理研究：通过理论分析和有限元模拟研究加固机理，拓展常规试验所涉及不到的参数分析范围；</li>
+<li>应用技术研究：基于以上研究成果，提出FRP抗屈曲加固钢构件的设计方法。</li>
+</ul>
+<p>[1] 砂浆试验文章： <a href="http://or.nsfc.gov.cn/bitstream/00001903-5/73262/1/1000004726746.pdf">Feng Peng, Zhang Yanhua, Bai Yu, et al. 2013. Strengthening of steel members in compression by mortar-filled FRP tubes[J]. Thin-Walled Structures, 64(3): 1-12. </a><br>[2] 竹材试验文章：<a href="https://www.researchgate.net/publication/263126210_Combination_of_Bamboo_Filling_and_FRP_Wrapping_to_Strengthen_Steel_Members_in_Compression">Feng Peng, Zhang Yanhua, Bai Yu, et al. 2013. Combination of bamboo filling and FRP wrapping to strengthen steel members in compression[J]. Journal of Composites for Construction (ASCE), 17(3): 347-356. </a></p>
+<p>研究相关成果会编入即将发布的<a href="http://wenku.baidu.com/link?url=PgQAUB-Bv2YuPRJ7GUBfq4UFro999Z-ZaMLkiBNe0L6G2x5TT8-Za5LZtbeUZ6WHTa-DNBv6c-Sxt_0MYyhxv1IMja6IeC8Wp5yn0055OXC">《纤维增强复合材料加固钢结构技术规程》</a>的相关章节,从而转化到工程实际应用中。</p>
+<h1 id="一些感受"><a href="#一些感受" class="headerlink" title="一些感受"></a>一些感受</h1><ul>
+<li>冯老师在课题组QQ群里说，“发表了一篇重要的论文”，不管研究本身的意义，但至少让我硕士阶段的研究更加完整。如果说本科阶段更多的是学习知识，硕士阶段则是创造知识，尤其是毕业后的现在，回顾时更能感受到这种差别。我想，无论研究成果是否足够好，既然有一点真实的成果，就可以和大家分享。好则传播，为别人的研究提供新思路，不够好则聆听同行的批评指点，以弥补缺失更进一步。</li>
+<li>通过对计算机行业的接触，我真切地感受到“分享”在不同行业内的差异。计算机行业的热门不是偶然，内因是基于它和各行各业联系的紧密性，这给它带来了广泛的改变世界的能力。许多有想象力和野心的人的加入，带动了这个行业充满活力，不管在知乎还是stackoverflow，总能看到很多程序员的讨论和互动。联想到曾经的网易结构论坛和okok钢结构论坛，曾经的繁荣时期恰好是在基础建设火热时期。而今，前者随网易终止论坛服务而终结，后者的发帖量也早已大不如前。并不是有疑问的人少了，总是有新人到来，而是愿意分享的人不再活跃了。毕竟经济基础决定上层建筑，当行业不再景气，愿意分享的氛围也会不复存在，反过来行业加速前进的动力自然受到影响。</li>
+<li>但我仍是看好“分享”的。在分享过程中会有自己的总结和沉淀，会有别人的反馈和带来的再思考，这会提升个人战斗力。同时，结识一批有同样技术水平或思想的人，更让我们有可能形成集群战斗力。很多问题不是靠一个人闭门造车就能解决了，如何发现和组建合适的团队，得靠每个人的分享自我。从朋友圈到知乎到stackoverflow，从分享日常琐碎到分享生活经验和专业经验，分享不一定偶遇，但不分享就一定不会相逢。</li>
+</ul>
+<p>所以，开始分享吧，从我做起，从现在做起：）</p>
+]]></content>
+      <categories>
+        <category>结构 struct</category>
+      </categories>
+      <tags>
+        <tag>清华 Tsinghua</tag>
+        <tag>文章 paper</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2016/10/2016_01_hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<a id="more"></a>
+
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>computer</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>教程 course</tag>
       </tags>
   </entry>
   <entry>
@@ -433,137 +433,6 @@ print(sum)
       </tags>
   </entry>
   <entry>
-    <title>2016土木建管系学生节合唱演出（一）——经验</title>
-    <url>/2016/11/2016_08_performance_in_student_festival_I/</url>
-    <content><![CDATA[<p>学生节过了，大节点over，需要好好总结。</p>
-<a id="more"></a>
-
-<p>先上视频：<br><embed src='http://player.youku.com/player.php/sid/XMTgzNTQxMzAzMg==/v.swf' allowFullScreen='true' quality='high' width='100%'  height='450px' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed></p>
-<h1 id="进度"><a href="#进度" class="headerlink" title="进度"></a>进度</h1><p>凡事预则立，这次学生节的准备是有条不紊的，11月初入团仪式刚结束就制定了计划。从11月第一周拿到谱子到演出的4周时间的安排如下：</p>
-<ul>
-<li>第一周周中：分声部排《春天里》</li>
-<li>第一周周末：合练《春天里》</li>
-<li>第二周周中：分声部排《月琴》</li>
-<li>第二周周末：合练《月琴》</li>
-<li>第三周周中：声乐课</li>
-<li>第三周周末：合练两首</li>
-<li>第四周周中：加伴奏和打击的合练</li>
-<li>演出前：彩排及临场开声和复习<br>时间紧，但有信心。原因在于：</li>
-<li>有往年的集训经历</li>
-<li>今年6字班的给力</li>
-<li><strong>责任和能力对等，压力和资源对等。不管多重的任务，给予与其匹配经验和能力的人，进行合理的安排和有保障的物质支持，不能说总能100%达到目标，但总能让人没有遗憾。反对不给予（时间、物质、人力等）资源而一味强调其责任的做法</strong></li>
-</ul>
-<h1 id="时间统计"><a href="#时间统计" class="headerlink" title="时间统计"></a>时间统计</h1><p>加练和排练的时间统计优先在上一次排练时达成一致，临时统计用“问卷星”省力：</p>
-<ul>
-<li>姓名（可根据各人的回复，有针对性地私下再联系确认时间是否可行）</li>
-<li>声部（快速得知各声部回复情况）</li>
-<li>可能的排练时间（统计具体：平时为晚，假日分上、下、晚）</li>
-<li>选最可能的1-2天，统计晚间排练时刻（7-8,8-9,9-10,10-11,&gt;11）</li>
-<li>问卷需限定回复时间，且在时间将近时群内催促</li>
-<li>遇个别人时间冲突，<strong>一定要私下询问具体情况，个别沟通是联系工作中很重要的方面，私下联系得多，公事也会好办</strong>，通常冲突来自于夜间有课的同学对于9点前后排练的认识的不同，只要9点下课后开练，基本能协调开</li>
-</ul>
-<h1 id="分声部加练"><a href="#分声部加练" class="headerlink" title="分声部加练"></a>分声部加练</h1><ol>
-<li>在新团员识谱能力有限的情况下，为提高合练效率，有必要进行周中分声部排练。事实上，带《春天里》分声部的过程很纠结，让我产生了一丝怀疑是否选歌适合于新生。还好周末合练时效果很好，几乎一遍框架就下来了。这一定程度上体现了分声部的作用，也说明了合唱曲目最省力的学习办法是从相关声部找音高、节奏和进口。从此分声部即使不顺畅也不会纠结（当然要想办法尽量顺畅）。</li>
-<li>分声部解决：结构、音、接口、节奏、词的问题。</li>
-</ol>
-<p>– 对结构，划分好段落，分段学习，再处理各段接口；<br>– 对音，用首调，加上大跳和接口处的单独分析，用临近的本声部和紧前声部找音；<br>– 对简单的音和节奏，不单独学，直接唱，团员的进度往往超乎想象；<br>– 对词，按节奏念下来即可。<br>3. <strong>时刻提醒自己目标值，不把过多时间浪费在除以上几点以外的地方。此处着力过多会造成其他地方着力机会的减少。谨遵129排练时刘西拉老师的观点，提倡高效和专业，一件事做完后要能迅速切换角色投入到另一件工作中</strong>一次分声部安排在1-1.5小时，结束后连贯演唱，其录音当做学习成果发群供课后学习</p>
-<h1 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h1><p>在第二周末两首歌结束学习后，向团员布置了自己录制完整两首歌音频发老团员检查的任务：</p>
-<ol>
-<li>为保证演出质量进行的督促；</li>
-<li>揭露团员整体情况：女生和男低作业提交积极，男高堪忧；</li>
-<li>通过单独作业，了解各人音色、音准和乐感，为solo选拔打好基础；</li>
-<li>允许不超过2人的集体作业的提交，以防有团员学得不令自己满意而自我放弃。<br>在演出前（或在学习一定量曲目之后）的作业制度要坚持。</li>
-</ol>
-<h1 id="声乐课"><a href="#声乐课" class="headerlink" title="声乐课"></a>声乐课</h1><p>所有学歌初步完成后需要声乐训练，这确实起到了纠正发声方法及解决这两首歌声乐方面难题的作用，虽然时间不长，但刘洋老师的讲解很有针对性。具体参考前一篇日志。</p>
-<h1 id="PPT"><a href="#PPT" class="headerlink" title="PPT"></a>PPT</h1><p><a href="http://of35dg2v1.bkt.clouddn.com/2016%E5%9C%9F%E6%9C%A8%E5%BB%BA%E7%AE%A1%E7%B3%BB%E5%AD%A6%E7%94%9F%E8%8A%82-%E5%B8%88%E7%94%9F%E5%90%88%E5%94%B1%E5%9B%A2-final-zyh.pptx">点此链接下载ppt</a></p>
-<ol>
-<li>主题选择尽量和曲目原意相贴切，更充分地利用歌词传递的原意。《月琴》本意为表达对曲艺艺术流传的担忧，但ppt构思时一度希望其表达思乡之情。在做ppt时，怎么做怎么觉得思乡之情配合的素材不搭，果断改为原意进行表达，就恰当多了；</li>
-<li>素材的选择可更接地气。往年的ppt至少有一首歌会选择展示合唱团历史及本学期活动，最初ppt构思时《春天里》就如此。但最终选择了系里各个班级的同学照片。相比于展示我们，展示他们的活动，更容易有亲切感，从而吸引和打动他们。 </li>
-<li><strong>ppt提倡早做，以利于多轮迭代。即使某一稿很满意了，过段时间再看，仍会有新想法进行改进</strong>。ppt不会一蹴而就，通常按照下面的步骤：</li>
-</ol>
-<p>– 首次构思：确定主题后明确需要什么样的素材<br>– 试找素材：通常首次构思很不成熟，对是否能找到契合主题的素材以及素材质量没有概念，因此需要小规模试找；<br>– 构思优化，对方向做出调整；<br>– 再构思完成后，进行大规模素材搜集；<br>– 素材码放和文字排版；<br>– 制作动画。个人习惯简单的淡入淡出，且能用切换实现的过度不用动画实现；<br>– 对着音乐调整切换及动画细节。<br>4. <strong>ppt提倡合作</strong>，以利于充分利用时间和人力。<br>– 确定ppt制作核心团队，首先对主题达成一致；<br>– 一人主导搭好整体框架，并进行任务分解。推荐按章节划分任务，而统一各ppt制作流程（如找素材、构思文字、细节调整等）的要求；<br>– 讨论各部分由谁负责，负责人分别与各部制作人细致沟通确保已完全理解希望呈现的效果；<br>– 各制作人按自己方便的时间进行制作，但在目标时间前完成并汇总到负责人处；<br>– 负责人汇总，调整完成后分发至各制作人（及ppt放映人）处，大家一起对完整的ppt提出意见；<br>– 后期微调<br>– 补充幻灯片备注（如何时切换），和ppt放映人良好交接，最好能提前预演。<br>将工作分解后，不至于任务集中于一人，且由于大家有空的时间段不一致，有时正好能错开时间进行工作。青春痣那年学生节和小新、喵合作制作ppt，就深感合作制作ppt的好处。<strong>一定要有负责人进行协调！负责人一定要给力，把进度和质量抓起来！（论一名好设总的重要性）</strong></p>
-<h1 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h1><p>排练间隙10分钟，见元标在写线代作业，他说他的习惯是要<strong>今日事今日毕</strong>，要尽量做到。</p>
-]]></content>
-      <categories>
-        <category>音乐 music</category>
-      </categories>
-      <tags>
-        <tag>师生合唱团 cecm chorus</tag>
-        <tag>排练 rehersal</tag>
-        <tag>演出 performance</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2016土木建管系学生节合唱演出（二）——教训</title>
-    <url>/2016/11/2016_10_performance_in_student_festival_II/</url>
-    <content><![CDATA[<p>教训太多，这篇才是重点。</p>
-<a id="more"></a>
-
-<p>好话不多说，别人说太多。缺点很多：</p>
-<h1 id="队形"><a href="#队形" class="headerlink" title="队形"></a>队形</h1><p>往年台上除了器乐，供合唱队员使用的能有4个话筒，今年只有3个。<br>走台时发现声音小，虽然设计了话筒摆放位置和队形，然而演出时还是差点崩掉：</p>
-<ol>
-<li>实际演出在夜间，场暗时舞台很暗，慌乱中实际摆放出的定位和彩排稍有偏差。</li>
-<li>彩排时没和工作人员刻意强调<strong>话筒朝向</strong>，演出时话筒摆放内收，正好和外放的队形相反，现场也没能很敏感地留意到，使得话筒能收音的范围大大减小。</li>
-<li><strong>整体站位偏右</strong>，致使男高多名队员偏移出话筒收音区，音效上低声部浓烈，高声部（旋律声部）淡薄，合声感受影响。</li>
-</ol>
-<p>实际站位如下：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161125_performance_in_student_festival_II/position_in_the_performance.jpg" alt="实际站位"></p>
-<p>站位分析图：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161125_performance_in_student_festival_II/opsition_this_time.PNG" alt="站位分析图"></p>
-<p>摸摸可怜的团长、原妈、陆大腿、木林、雅祺、丁丁，以及俊宁、元标、傲天等超过一半的男高被团灭。</p>
-<p>彩排前团长就建议说，要不要尝试一下团簇式站位，现在看来，要想加强话筒收音可能还真得这样。</p>
-<ul>
-<li>队员按照3个话筒分为3簇，各簇前三后四，对着话筒站立（而非对着指挥）</li>
-<li>话筒尾对指挥，且适当拉开团员和指挥间的距离，使团员方便看指挥手势</li>
-<li>左右分别为高、低声部，中间为高低混合声部</li>
-<li>各簇前排靠中为女生（大腿），两边为女生及男生大腿，后排靠中为男生大腿</li>
-</ul>
-<p>改进后站位：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161125_performance_in_student_festival_II/position_optimize1.PNG" alt="改进后站位1"></p>
-<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161125_performance_in_student_festival_II/position_optimize2.PNG" alt="改进后站位2"></p>
-<p>一个美好的愿望：什么时候宝宝们发声能力增长，使得不需要依靠电声就能唱响礼堂的时候，话筒的问题算是可以彻底解决了 ：）</p>
-<h1 id="和谐"><a href="#和谐" class="headerlink" title="和谐"></a>和谐</h1><p>也有观众提到声音的和谐度。这是一个大问题，但心里还算有数。<br>一方面在于平时排练所听给予的信心，音准是历届以来最好的一届。话筒所对的倩倩和栋爷都是音准担当，才不至于在话筒bug的情况下造成演出翻车。<br>另一方面在于此前排练抓识谱和音准，发声并没过多强调，有这样的效果已经满意。接下来的学习会开始抓和谐度，比如音色的统一，咬字的统一，基本功一项一项来训练。也因此上周和本周选了《the road home》和《红》，两首歌共同的特点是：考验气息保持、咬字、合声感强，希望能在轻声演唱（而不是如春天里等习惯性嘶吼）中听到各声部间声音的融合。</p>
-<h1 id="磨合"><a href="#磨合" class="headerlink" title="磨合"></a>磨合</h1><p>这是比较头疼的一方面。包括队员（特别是大腿）、指挥、伴奏的磨合。<br>大腿有经验，唱得肯定，只要大腿对，小腿也就没问题。<br>彩排时清晰地感受到，由于没有返送，因此：</p>
-<ul>
-<li>台上只有靠近钢琴的队员能听到琴声</li>
-<li>队员都往前发声，台两侧的队员几乎听不到互相的声音，钢琴也听不见队员的声音</li>
-<li>只有指挥和观众因为同时面向钢琴和队员，所以能听到所有人的声音</li>
-</ul>
-<p>这时候，听从指挥的指导就显得尤为关键了。而这次演出暴露出三个问题：</p>
-<ol>
-<li>队员（包括大腿）对指挥的手势不敏感，尤其是进口、收口、延长音的地方</li>
-<li>指挥的手势可能还不够明确</li>
-<li>大腿对于bug的处理还不够娴熟，大家之间缺乏默契</li>
-</ol>
-<p>针对以上问题，是否可从以下方面努力：</p>
-<ol>
-<li>首先队员和指挥商议出能被队员准确无误地理解的表示不同处理的明确的手势（如进口、收口、延长音、合拍与分拍等），并贯穿于平时排练中尽可能地使用，让所有人习惯</li>
-<li>所有人对全曲及所有处理熟悉，并了解曲目中容易出bug的地方（如进口、收口、变节奏、延长音、转调）</li>
-<li>当个别人出现bug时，指挥给予相应的人以直接的眼神提示，相应的人有所反应</li>
-<li>由于大腿领悟力和影响力较大，因此可以和指挥提前和议出易错之处如果出错需要怎么处理。例如，由于各种原因，若该进的地方没进，那是选择按照正确的进口的方式唱下去，还是推迟进口再从头开始唱。大家商议好了，才会有默契</li>
-<li>排练时进行应急训练，大腿商议好来一次故意集体出错的模拟练习，以让新团员有所适应，并了解他们的反应</li>
-</ol>
-<h1 id="声乐和钢琴"><a href="#声乐和钢琴" class="headerlink" title="声乐和钢琴"></a>声乐和钢琴</h1><p>鉴于演出前的一次排练才给钢伴谱，在没有提前练习的情况下合了这一次，那钢伴和指挥的磨合程度可想而知，也由此导致了彩排现场没有指挥时的混乱以及彩排后钢伴和指挥紧急联系进行各处特殊处理的确认。<br>对此，文烨的建议很有道理：<br>在通常的排练中，由于没有伴奏，指挥只能代理钢琴，没有合唱手势，大家只有到临近演出带伴奏排练了，才知道指挥在各处的手势是怎样的，熟悉的时间很短。只有有了伴奏，指挥的双手才会解放出来。<br>因此，并不是要到演出前一次才请钢琴伴奏来合，而是提倡定期（如一月一次）来和大家合，只要排练了一定的新曲目量，就可以进行，不但解决了以上问题，也让伴奏尽早拿到谱子，熟悉了排练曲目。<br>由此也想到了声乐训练，并不是到演出前才临时抱佛脚，也可以和伴奏类似，排了一定的曲目量就请刘洋老师来进行指导。</p>
-<h1 id="感谢"><a href="#感谢" class="headerlink" title="感谢"></a>感谢</h1><p>说了这么多，虽然有bug，但不管是演员还是观众，还是很享受演出的，最后还得：</p>
-<ul>
-<li>感谢指挥和演出的宝宝们</li>
-<li>感谢钢琴伴奏文烨，打击伴奏华昕</li>
-<li>感谢声乐指导刘洋老师</li>
-<li>感谢ppt工作组团长、团嫂、前团长</li>
-<li>感谢两首曲目的词曲、编曲，特别感谢邓指</li>
-<li>感谢提供素材的李导、科导、帅导</li>
-<li>感谢摄影摄像的钧哥及好友</li>
-<li>感谢想来但是没能来演出的老团员们</li>
-<li>感谢一直关心团里的老朋友们和观众们</li>
-</ul>
-<p>预计12月底的新年演出，咱们再见！</p>
-]]></content>
-      <categories>
-        <category>音乐 music</category>
-      </categories>
-      <tags>
-        <tag>师生合唱团 cecm chorus</tag>
-        <tag>演出 performance</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2016秋季学期声乐训练课-I</title>
     <url>/2016/11/2016_07_voice_training_2016_I/</url>
     <content><![CDATA[<p>周二参加的合唱团乐理课，想趁此机会总结一下声乐训练的流程，为以后带团员做个积累。</p>
@@ -651,6 +520,67 @@ print(sum)
       </tags>
   </entry>
   <entry>
+    <title>2016土木建管系学生节合唱演出（一）——经验</title>
+    <url>/2016/11/2016_08_performance_in_student_festival_I/</url>
+    <content><![CDATA[<p>学生节过了，大节点over，需要好好总结。</p>
+<a id="more"></a>
+
+<p>先上视频：<br><embed src='http://player.youku.com/player.php/sid/XMTgzNTQxMzAzMg==/v.swf' allowFullScreen='true' quality='high' width='100%'  height='450px' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed></p>
+<h1 id="进度"><a href="#进度" class="headerlink" title="进度"></a>进度</h1><p>凡事预则立，这次学生节的准备是有条不紊的，11月初入团仪式刚结束就制定了计划。从11月第一周拿到谱子到演出的4周时间的安排如下：</p>
+<ul>
+<li>第一周周中：分声部排《春天里》</li>
+<li>第一周周末：合练《春天里》</li>
+<li>第二周周中：分声部排《月琴》</li>
+<li>第二周周末：合练《月琴》</li>
+<li>第三周周中：声乐课</li>
+<li>第三周周末：合练两首</li>
+<li>第四周周中：加伴奏和打击的合练</li>
+<li>演出前：彩排及临场开声和复习<br>时间紧，但有信心。原因在于：</li>
+<li>有往年的集训经历</li>
+<li>今年6字班的给力</li>
+<li><strong>责任和能力对等，压力和资源对等。不管多重的任务，给予与其匹配经验和能力的人，进行合理的安排和有保障的物质支持，不能说总能100%达到目标，但总能让人没有遗憾。反对不给予（时间、物质、人力等）资源而一味强调其责任的做法</strong></li>
+</ul>
+<h1 id="时间统计"><a href="#时间统计" class="headerlink" title="时间统计"></a>时间统计</h1><p>加练和排练的时间统计优先在上一次排练时达成一致，临时统计用“问卷星”省力：</p>
+<ul>
+<li>姓名（可根据各人的回复，有针对性地私下再联系确认时间是否可行）</li>
+<li>声部（快速得知各声部回复情况）</li>
+<li>可能的排练时间（统计具体：平时为晚，假日分上、下、晚）</li>
+<li>选最可能的1-2天，统计晚间排练时刻（7-8,8-9,9-10,10-11,&gt;11）</li>
+<li>问卷需限定回复时间，且在时间将近时群内催促</li>
+<li>遇个别人时间冲突，<strong>一定要私下询问具体情况，个别沟通是联系工作中很重要的方面，私下联系得多，公事也会好办</strong>，通常冲突来自于夜间有课的同学对于9点前后排练的认识的不同，只要9点下课后开练，基本能协调开</li>
+</ul>
+<h1 id="分声部加练"><a href="#分声部加练" class="headerlink" title="分声部加练"></a>分声部加练</h1><ol>
+<li>在新团员识谱能力有限的情况下，为提高合练效率，有必要进行周中分声部排练。事实上，带《春天里》分声部的过程很纠结，让我产生了一丝怀疑是否选歌适合于新生。还好周末合练时效果很好，几乎一遍框架就下来了。这一定程度上体现了分声部的作用，也说明了合唱曲目最省力的学习办法是从相关声部找音高、节奏和进口。从此分声部即使不顺畅也不会纠结（当然要想办法尽量顺畅）。</li>
+<li>分声部解决：结构、音、接口、节奏、词的问题。</li>
+</ol>
+<p>– 对结构，划分好段落，分段学习，再处理各段接口；<br>– 对音，用首调，加上大跳和接口处的单独分析，用临近的本声部和紧前声部找音；<br>– 对简单的音和节奏，不单独学，直接唱，团员的进度往往超乎想象；<br>– 对词，按节奏念下来即可。<br>3. <strong>时刻提醒自己目标值，不把过多时间浪费在除以上几点以外的地方。此处着力过多会造成其他地方着力机会的减少。谨遵129排练时刘西拉老师的观点，提倡高效和专业，一件事做完后要能迅速切换角色投入到另一件工作中</strong>一次分声部安排在1-1.5小时，结束后连贯演唱，其录音当做学习成果发群供课后学习</p>
+<h1 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h1><p>在第二周末两首歌结束学习后，向团员布置了自己录制完整两首歌音频发老团员检查的任务：</p>
+<ol>
+<li>为保证演出质量进行的督促；</li>
+<li>揭露团员整体情况：女生和男低作业提交积极，男高堪忧；</li>
+<li>通过单独作业，了解各人音色、音准和乐感，为solo选拔打好基础；</li>
+<li>允许不超过2人的集体作业的提交，以防有团员学得不令自己满意而自我放弃。<br>在演出前（或在学习一定量曲目之后）的作业制度要坚持。</li>
+</ol>
+<h1 id="声乐课"><a href="#声乐课" class="headerlink" title="声乐课"></a>声乐课</h1><p>所有学歌初步完成后需要声乐训练，这确实起到了纠正发声方法及解决这两首歌声乐方面难题的作用，虽然时间不长，但刘洋老师的讲解很有针对性。具体参考前一篇日志。</p>
+<h1 id="PPT"><a href="#PPT" class="headerlink" title="PPT"></a>PPT</h1><p><a href="http://of35dg2v1.bkt.clouddn.com/2016%E5%9C%9F%E6%9C%A8%E5%BB%BA%E7%AE%A1%E7%B3%BB%E5%AD%A6%E7%94%9F%E8%8A%82-%E5%B8%88%E7%94%9F%E5%90%88%E5%94%B1%E5%9B%A2-final-zyh.pptx">点此链接下载ppt</a></p>
+<ol>
+<li>主题选择尽量和曲目原意相贴切，更充分地利用歌词传递的原意。《月琴》本意为表达对曲艺艺术流传的担忧，但ppt构思时一度希望其表达思乡之情。在做ppt时，怎么做怎么觉得思乡之情配合的素材不搭，果断改为原意进行表达，就恰当多了；</li>
+<li>素材的选择可更接地气。往年的ppt至少有一首歌会选择展示合唱团历史及本学期活动，最初ppt构思时《春天里》就如此。但最终选择了系里各个班级的同学照片。相比于展示我们，展示他们的活动，更容易有亲切感，从而吸引和打动他们。 </li>
+<li><strong>ppt提倡早做，以利于多轮迭代。即使某一稿很满意了，过段时间再看，仍会有新想法进行改进</strong>。ppt不会一蹴而就，通常按照下面的步骤：</li>
+</ol>
+<p>– 首次构思：确定主题后明确需要什么样的素材<br>– 试找素材：通常首次构思很不成熟，对是否能找到契合主题的素材以及素材质量没有概念，因此需要小规模试找；<br>– 构思优化，对方向做出调整；<br>– 再构思完成后，进行大规模素材搜集；<br>– 素材码放和文字排版；<br>– 制作动画。个人习惯简单的淡入淡出，且能用切换实现的过度不用动画实现；<br>– 对着音乐调整切换及动画细节。<br>4. <strong>ppt提倡合作</strong>，以利于充分利用时间和人力。<br>– 确定ppt制作核心团队，首先对主题达成一致；<br>– 一人主导搭好整体框架，并进行任务分解。推荐按章节划分任务，而统一各ppt制作流程（如找素材、构思文字、细节调整等）的要求；<br>– 讨论各部分由谁负责，负责人分别与各部制作人细致沟通确保已完全理解希望呈现的效果；<br>– 各制作人按自己方便的时间进行制作，但在目标时间前完成并汇总到负责人处；<br>– 负责人汇总，调整完成后分发至各制作人（及ppt放映人）处，大家一起对完整的ppt提出意见；<br>– 后期微调<br>– 补充幻灯片备注（如何时切换），和ppt放映人良好交接，最好能提前预演。<br>将工作分解后，不至于任务集中于一人，且由于大家有空的时间段不一致，有时正好能错开时间进行工作。青春痣那年学生节和小新、喵合作制作ppt，就深感合作制作ppt的好处。<strong>一定要有负责人进行协调！负责人一定要给力，把进度和质量抓起来！（论一名好设总的重要性）</strong></p>
+<h1 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h1><p>排练间隙10分钟，见元标在写线代作业，他说他的习惯是要<strong>今日事今日毕</strong>，要尽量做到。</p>
+]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>师生合唱团 cecm chorus</tag>
+        <tag>排练 rehersal</tag>
+        <tag>演出 performance</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>这周唱&lt;红&gt;歌</title>
     <url>/2016/11/2016_09_the_RED_song/</url>
     <content><![CDATA[<p>终于要教小6们唱这首“临时”团歌了。</p>
@@ -681,6 +611,76 @@ print(sum)
       </categories>
       <tags>
         <tag>师生合唱团 cecm chorus</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2016土木建管系学生节合唱演出（二）——教训</title>
+    <url>/2016/11/2016_10_performance_in_student_festival_II/</url>
+    <content><![CDATA[<p>教训太多，这篇才是重点。</p>
+<a id="more"></a>
+
+<p>好话不多说，别人说太多。缺点很多：</p>
+<h1 id="队形"><a href="#队形" class="headerlink" title="队形"></a>队形</h1><p>往年台上除了器乐，供合唱队员使用的能有4个话筒，今年只有3个。<br>走台时发现声音小，虽然设计了话筒摆放位置和队形，然而演出时还是差点崩掉：</p>
+<ol>
+<li>实际演出在夜间，场暗时舞台很暗，慌乱中实际摆放出的定位和彩排稍有偏差。</li>
+<li>彩排时没和工作人员刻意强调<strong>话筒朝向</strong>，演出时话筒摆放内收，正好和外放的队形相反，现场也没能很敏感地留意到，使得话筒能收音的范围大大减小。</li>
+<li><strong>整体站位偏右</strong>，致使男高多名队员偏移出话筒收音区，音效上低声部浓烈，高声部（旋律声部）淡薄，合声感受影响。</li>
+</ol>
+<p>实际站位如下：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161125_performance_in_student_festival_II/position_in_the_performance.jpg" alt="实际站位"></p>
+<p>站位分析图：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161125_performance_in_student_festival_II/opsition_this_time.PNG" alt="站位分析图"></p>
+<p>摸摸可怜的团长、原妈、陆大腿、木林、雅祺、丁丁，以及俊宁、元标、傲天等超过一半的男高被团灭。</p>
+<p>彩排前团长就建议说，要不要尝试一下团簇式站位，现在看来，要想加强话筒收音可能还真得这样。</p>
+<ul>
+<li>队员按照3个话筒分为3簇，各簇前三后四，对着话筒站立（而非对着指挥）</li>
+<li>话筒尾对指挥，且适当拉开团员和指挥间的距离，使团员方便看指挥手势</li>
+<li>左右分别为高、低声部，中间为高低混合声部</li>
+<li>各簇前排靠中为女生（大腿），两边为女生及男生大腿，后排靠中为男生大腿</li>
+</ul>
+<p>改进后站位：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161125_performance_in_student_festival_II/position_optimize1.PNG" alt="改进后站位1"></p>
+<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161125_performance_in_student_festival_II/position_optimize2.PNG" alt="改进后站位2"></p>
+<p>一个美好的愿望：什么时候宝宝们发声能力增长，使得不需要依靠电声就能唱响礼堂的时候，话筒的问题算是可以彻底解决了 ：）</p>
+<h1 id="和谐"><a href="#和谐" class="headerlink" title="和谐"></a>和谐</h1><p>也有观众提到声音的和谐度。这是一个大问题，但心里还算有数。<br>一方面在于平时排练所听给予的信心，音准是历届以来最好的一届。话筒所对的倩倩和栋爷都是音准担当，才不至于在话筒bug的情况下造成演出翻车。<br>另一方面在于此前排练抓识谱和音准，发声并没过多强调，有这样的效果已经满意。接下来的学习会开始抓和谐度，比如音色的统一，咬字的统一，基本功一项一项来训练。也因此上周和本周选了《the road home》和《红》，两首歌共同的特点是：考验气息保持、咬字、合声感强，希望能在轻声演唱（而不是如春天里等习惯性嘶吼）中听到各声部间声音的融合。</p>
+<h1 id="磨合"><a href="#磨合" class="headerlink" title="磨合"></a>磨合</h1><p>这是比较头疼的一方面。包括队员（特别是大腿）、指挥、伴奏的磨合。<br>大腿有经验，唱得肯定，只要大腿对，小腿也就没问题。<br>彩排时清晰地感受到，由于没有返送，因此：</p>
+<ul>
+<li>台上只有靠近钢琴的队员能听到琴声</li>
+<li>队员都往前发声，台两侧的队员几乎听不到互相的声音，钢琴也听不见队员的声音</li>
+<li>只有指挥和观众因为同时面向钢琴和队员，所以能听到所有人的声音</li>
+</ul>
+<p>这时候，听从指挥的指导就显得尤为关键了。而这次演出暴露出三个问题：</p>
+<ol>
+<li>队员（包括大腿）对指挥的手势不敏感，尤其是进口、收口、延长音的地方</li>
+<li>指挥的手势可能还不够明确</li>
+<li>大腿对于bug的处理还不够娴熟，大家之间缺乏默契</li>
+</ol>
+<p>针对以上问题，是否可从以下方面努力：</p>
+<ol>
+<li>首先队员和指挥商议出能被队员准确无误地理解的表示不同处理的明确的手势（如进口、收口、延长音、合拍与分拍等），并贯穿于平时排练中尽可能地使用，让所有人习惯</li>
+<li>所有人对全曲及所有处理熟悉，并了解曲目中容易出bug的地方（如进口、收口、变节奏、延长音、转调）</li>
+<li>当个别人出现bug时，指挥给予相应的人以直接的眼神提示，相应的人有所反应</li>
+<li>由于大腿领悟力和影响力较大，因此可以和指挥提前和议出易错之处如果出错需要怎么处理。例如，由于各种原因，若该进的地方没进，那是选择按照正确的进口的方式唱下去，还是推迟进口再从头开始唱。大家商议好了，才会有默契</li>
+<li>排练时进行应急训练，大腿商议好来一次故意集体出错的模拟练习，以让新团员有所适应，并了解他们的反应</li>
+</ol>
+<h1 id="声乐和钢琴"><a href="#声乐和钢琴" class="headerlink" title="声乐和钢琴"></a>声乐和钢琴</h1><p>鉴于演出前的一次排练才给钢伴谱，在没有提前练习的情况下合了这一次，那钢伴和指挥的磨合程度可想而知，也由此导致了彩排现场没有指挥时的混乱以及彩排后钢伴和指挥紧急联系进行各处特殊处理的确认。<br>对此，文烨的建议很有道理：<br>在通常的排练中，由于没有伴奏，指挥只能代理钢琴，没有合唱手势，大家只有到临近演出带伴奏排练了，才知道指挥在各处的手势是怎样的，熟悉的时间很短。只有有了伴奏，指挥的双手才会解放出来。<br>因此，并不是要到演出前一次才请钢琴伴奏来合，而是提倡定期（如一月一次）来和大家合，只要排练了一定的新曲目量，就可以进行，不但解决了以上问题，也让伴奏尽早拿到谱子，熟悉了排练曲目。<br>由此也想到了声乐训练，并不是到演出前才临时抱佛脚，也可以和伴奏类似，排了一定的曲目量就请刘洋老师来进行指导。</p>
+<h1 id="感谢"><a href="#感谢" class="headerlink" title="感谢"></a>感谢</h1><p>说了这么多，虽然有bug，但不管是演员还是观众，还是很享受演出的，最后还得：</p>
+<ul>
+<li>感谢指挥和演出的宝宝们</li>
+<li>感谢钢琴伴奏文烨，打击伴奏华昕</li>
+<li>感谢声乐指导刘洋老师</li>
+<li>感谢ppt工作组团长、团嫂、前团长</li>
+<li>感谢两首曲目的词曲、编曲，特别感谢邓指</li>
+<li>感谢提供素材的李导、科导、帅导</li>
+<li>感谢摄影摄像的钧哥及好友</li>
+<li>感谢想来但是没能来演出的老团员们</li>
+<li>感谢一直关心团里的老朋友们和观众们</li>
+</ul>
+<p>预计12月底的新年演出，咱们再见！</p>
+]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>师生合唱团 cecm chorus</tag>
+        <tag>演出 performance</tag>
       </tags>
   </entry>
   <entry>
@@ -755,51 +755,6 @@ print(sum)
       </tags>
   </entry>
   <entry>
-    <title>张王家的往事</title>
-    <url>/2017/02/2017_01_homesick/</url>
-    <content><![CDATA[<p>每年春节回家，央视都会播放纪录片《记住乡愁》，今年已第三季。耳畔响起雷佳的《乡愁》，心中荡起浓浓的思乡情。片尾曲一直在变，而片头曲却始终如一。<br>今晚拜见外公，一起看完一集《记住乡愁》，看黄姚镇居民的乐善好德，听他们祖辈流传的祖训家规，突然迫切地想了解自己家族的历史。<br>父亲姓张，母亲姓王，张王两家的历史，我都想了解。我想探寻家族变迁的过程，以及在这漫漫历史长河中，传承家族文化、维持家族兴旺的魂。<br>于是在这间温暖的小屋里，今年89岁高寿的外公，雪白的头发，花白的眉毛，不紧不慢地向我讲述着，我从未听过的一些事。</p>
-<a id="more"></a>
-
-<p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/homesick_LeiJia.mp3" controls="controls" title="乡愁-雷佳" autoplay="autoplay"></audio></p>
-<h1 id="王氏"><a href="#王氏" class="headerlink" title="王氏"></a>王氏</h1><p>外公这一脉王氏的起源为某王姓丞相，大约为唐宋时期。</p>
-<blockquote>
-<p>名词“丞相”和“宰相”有区别，但估计外公并不区分。上网查询，唐宋时期的丞相/宰相，姓氏为“王”的有11位（唐5宋6，参见百度百科词条“<a href="http://baike.baidu.com/link?url=kzuB4_wfp3Ypy7YnKBofLkRKgIl9pF2tODCOhQYNNIGLuzHsJ6PIvYJ47q3JadYtnl8ec6gwMKshhkPwtPUT9wfPnxMvkiMJ3AU_TmTm5jG">丞相</a>”）。<br>外公说王氏起源在家谱里有记载。家谱写着字辈轮次的排列，写着家规家训，想必不管哪个家族，唯有由德高望重的人定下的规矩，才会在家族如此流传。这次回京仓促，但和外公做了约定，下次回家得借读一番以便细细了解。</p>
-</blockquote>
-<p>最初发于山西，后迁往湖北麻城孝感，后转至四川。</p>
-<blockquote>
-<p>此孝感非指目前湖北省孝感市，而是指湖北省麻城市古孝感乡，目前已并入其他乡镇。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/wuhan_xiaogan_macheng.jpg" alt="麻城孝感位置"><br>麻城是<a href="http://www.macheng.gov.cn/about/whmc/mcxgx.htm">中国古代‘八大移民发源地’之一，是‘湖广填四川’的起始地和集散地”</a>）。“要问祖籍在何方？湖广麻城孝感乡”（<a href="http://news.163.com/16/0403/04/BJMU84LL00014AED.html">《麻城孝感乡 究竟是怎么回事？》</a>）。<br>网上仍散落着寻找麻城孝感王氏宗族的帖子（如<a href="http://www.mala.cn/thread-6817032-1-1.html">《寻1650年湖北麻城迁入四川广安的王氏家族宗亲》</a>），可惜按外公的字辈和他们并不一致，不是同一分支。<br>重庆渝中区的<a href="http://baike.baidu.com/link?url=3ejDtUmIHfQsZ1O58tLdAmJYrCDGskfQlgia692JRG3d3Fv0_VBrxzQdudPjGXR-NqjPN8n37-Mr9zpVx3AT-f-tiTTO7Qc2g-s_7SnKSUlEj0u_5Teu3YXzmtbEXa5kbQIlFndZg-ELt9KxE2iUqq">湖广会馆</a>，现含一座湖广填四川移民博物馆，距离解放碑和朝天门并不太远，有机会去了解了解那段历史。</p>
-</blockquote>
-<p>外公出生于重庆璧山灯油坪（音）寨子，6岁多时母亲跑回了娘家，就剩他和父亲两人在家。8岁时迁往永川陈食，15岁时被父亲以三担谷子为交换给国民党当壮丁，编入国民革命军第三十二军一三九师四一五团一营炮一排，抗战时还在宜昌打过日本鬼子。</p>
-<blockquote>
-<p>当前正热播的电视剧《宜昌保卫战》，其中用相当的篇幅描写了国民党军队。外公对于国民党军队在抗日正面战场的贡献是认同的，并为当前国内越来越公开地讲述国共两党共同的抗战史表示肯定。<br>武汉失守后，以宜昌为中心的战场上,先后发生了随枣会战、枣宜会战、反攻宜昌战役、鄂西会战、常德会战等大规模正面作战（<a href="http://news.cn3x.com.cn/content/2015-01/20/content_656360.htm">《宜昌抗战在中国抗日战争中的重要地位》</a>，其中有胜有败，有英勇也有悲壮（<a href="http://www.360doc.com/content/14/0627/11/8102575_390205394.shtml">宜昌沦陷始末</a>），抗战时中国战区殉国的级别最高的将领张自忠就是在枣宜会战中牺牲。<br>从外公所讲述的战斗时间以及部队番号，推测参加的是1943年的<a href="http://baike.baidu.com/link?url=k6gBLNs0_YO9nFdlyxNYloOISAswcGcsC5Z1l3Lze5yacTPB2o2NHo1sduQjyzMrlOll_X68MLGF67RGfqhyR7EwWfd4P0CIfR3yebd3SXkiSJyrQMm3MG7RYzQIzK3-9sGq4jp7Ot44jLpjNFVUF06-3_VaE_b73nPy3p1zCUjBi_w9W6Sk1toD_f2rZ5Po6E-yPNblEvALauEqiS_Ud_">“鄂西会战”</a>，第32军军长宋肯唐，139师师长孙定超，他们后来都去了台湾。</p>
-</blockquote>
-<p>新兵每次吃饭时间不足5分钟，基本都喝含少量谷子稗子的米汤，也不管粥的滚烫。日本投降后一年多，国民党颓势已现，外公想要外逃，但被抓回，肩上被捅了一刀。</p>
-<blockquote>
-<p>外公会感叹始终没想明白一个问题：“以前中国只有不到4亿人口，尚且生活条件这么差，好多人吃不饱。而现在中国的人口有13亿多，生活条件却有如此大的改善。”中国盘子大，经得住折腾，但也不能有大折腾。和平稳定的环境对于中国的重要性不言而喻，只有这样，才有机会迎来发展机遇。</p>
-</blockquote>
-<p>一年后，部队被遣入河南新乡，准备调往北方，但中途被解放军阻击。阴差阳错，外公始得离开部队回到家乡，认识了外婆。</p>
-<blockquote>
-<p>这次和外公只聊到这，这次整理谈话内容的过程中发现所遗漏的细节，下次还待和外公确认。外公感叹现在的记忆力已不如前，以后访谈用录音的形式，估计较为妥当。<br>以上整理也参考了老妈的记录。本此次访谈老妈并不在场，回来整理过程中被老妈发现，给了我这张曾经和外公交谈时的记录，原来老妈一直记得了解外公的生活历程这件事，感动crying~<img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/mum_record.jpg" alt="老妈记录外公讲述"></p>
-</blockquote>
-<h1 id="张氏"><a href="#张氏" class="headerlink" title="张氏"></a>张氏</h1><p>爷爷在我来京上大学后不久去世，很遗憾我无法亲口向他求证，只能凭借我和父辈们的记忆。<br>爷爷姓张，出生于浙江湖州，后随家人到上海生活。小时候偶尔能听到爷爷用上海话和那边的亲戚通话，也知道爷爷喜欢吃酸甜口味的江浙口味。初三毕业时，爷爷带我和父亲去江浙，让我有机会见到上海的长辈亲戚们。</p>
-<blockquote>
-<p>浙江湖州临近太湖，介绍可见<a href="http://baike.baidu.com/link?url=dj5d5B8RigvgKzbLucv_-ddaHIyedZXUxIpPGK42ZJAZJHRjbEWYuAs_DAbqOQS3zYi0w7FcMdhNuqByL__zZsGIXs-sCpBk_YFLH03p7zS">百度百科词条“湖州”</a>。<img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/huzhou-shanghai.jpg" alt="湖州上海位置关系"><br>记得爷爷提到老家名称中带“兴”字，看地图湖州下辖吴兴区和长兴县，具体位置还待和知道的长辈们确认。</p>
-</blockquote>
-<p>抗战时，爷爷参加了“二野军大”，随刘邓大军挺近大西南，这才到了重庆。偶尔会听爷爷自豪地说起这四个字，记得相册中还保有爷爷参加战友聚会时的合影。</p>
-<blockquote>
-<p>二野军大的简介可见此（<a href="http://www.lbctzjng.com/html/mhhy/zzwz/15/02/630.html">《二野军大是我军最有特色的军校》</a>），可推测出爷爷17岁左右随军来到重庆。当时的革命青年们，为了祖国建设的前景远离故土，也是让人为之动容。</p>
-</blockquote>
-<p>说到张家家谱，我不记得曾见过，父亲也是，只有寄希望于上海的亲戚们了。听说上海的叔辈曾经寻访过湖州老家，那边还有亲戚健在。</p>
-<h2 id="……"><a href="#……" class="headerlink" title="……"></a>……</h2><p>有新的资料我会及时补充，希望构建起一大家人共同的回忆。</p>
-]]></content>
-      <categories>
-        <category>生活 life</category>
-      </categories>
-      <tags>
-        <tag>家庭 family</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>the sound of silence 寂静之声</title>
     <url>/2016/12/2016_11_the_sound_of_silence/</url>
     <content><![CDATA[<p>加班之余，为演出找点灵感。</p>
@@ -851,72 +806,48 @@ print(sum)
       </tags>
   </entry>
   <entry>
-    <title>关于外公的故事</title>
-    <url>/2017/11/2017_05_grandfather/</url>
-    <content><![CDATA[<p>老妈曾说，她最爱听刘和刚的《父亲》，也曾听过她动情地演唱。而直到现在我终于完全了解其中的原因，完全体会到了老妈的情感，那是作为小女儿对父亲的依恋和敬佩。<br>断断续续地，为老妈整理出这篇访谈记录 ，看着老人们过去几十年走过的路，感叹现时的珍贵。<br>珍惜时光，珍惜家人……</p>
+    <title>张王家的往事</title>
+    <url>/2017/02/2017_01_homesick/</url>
+    <content><![CDATA[<p>每年春节回家，央视都会播放纪录片《记住乡愁》，今年已第三季。耳畔响起雷佳的《乡愁》，心中荡起浓浓的思乡情。片尾曲一直在变，而片头曲却始终如一。<br>今晚拜见外公，一起看完一集《记住乡愁》，看黄姚镇居民的乐善好德，听他们祖辈流传的祖训家规，突然迫切地想了解自己家族的历史。<br>父亲姓张，母亲姓王，张王两家的历史，我都想了解。我想探寻家族变迁的过程，以及在这漫漫历史长河中，传承家族文化、维持家族兴旺的魂。<br>于是在这间温暖的小屋里，今年89岁高寿的外公，雪白的头发，花白的眉毛，不紧不慢地向我讲述着，我从未听过的一些事。</p>
 <a id="more"></a>
 
-<p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/%E5%88%98%E5%92%8C%E5%88%9A-%E7%88%B6%E4%BA%B2.mp3" controls="controls" title="乡愁-雷佳" autoplay="autoplay"></audio></p>
-<h1 id="我的父亲"><a href="#我的父亲" class="headerlink" title="我的父亲"></a>我的父亲</h1><p>一九二八年二月十八日，我父亲王钦海出生在璧山县广普村登右坪寨子一个很普通的家庭。登右坪寨子是一座约有两个半村子大小的城堡，璧山和江津两县境内的城堡面积各占一半，有近二十个寨门和四千多人口。寨子和山下的村庄没有区别，有学校、商店，各种生活设施应有尽有。</p>
-<p>从寨底山脚往上大约五里路程，有座大庙叫枇罗寺，人们常在这儿烧香拜佛，祈求平安，盼望来年有个好收成。关于枇罗寺还流传了一个典故。父亲听爷爷说：维修寺庙的工人在翻新房顶瓦片时，曾发现瓦片上写有一首诗：</p>
+<p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/homesick_LeiJia.mp3" controls="controls" title="乡愁-雷佳" autoplay="autoplay"></audio></p>
+<h1 id="王氏"><a href="#王氏" class="headerlink" title="王氏"></a>王氏</h1><p>外公这一脉王氏的起源为某王姓丞相，大约为唐宋时期。</p>
 <blockquote>
-<p>枇罗遍地开花<br>乾坤二九加八<br>但看龙蛇走马<br>八洋大闹中华</p>
+<p>名词“丞相”和“宰相”有区别，但估计外公并不区分。上网查询，唐宋时期的丞相/宰相，姓氏为“王”的有11位（唐5宋6，参见百度百科词条“<a href="http://baike.baidu.com/link?url=kzuB4_wfp3Ypy7YnKBofLkRKgIl9pF2tODCOhQYNNIGLuzHsJ6PIvYJ47q3JadYtnl8ec6gwMKshhkPwtPUT9wfPnxMvkiMJ3AU_TmTm5jG">丞相</a>”）。<br>外公说王氏起源在家谱里有记载。家谱写着字辈轮次的排列，写着家规家训，想必不管哪个家族，唯有由德高望重的人定下的规矩，才会在家族如此流传。这次回京仓促，但和外公做了约定，下次回家得借读一番以便细细了解。</p>
 </blockquote>
-<p>这位匠人预测将要发生的事情，过后都一一应验。人们都说这是一位高人，有远见，是位了不起的匠人。<br>就是这样一个有故事的地方，我的父亲在这里出生了，并且生活了九年。</p>
-<hr>
-<p>我父亲排行老三，头上有大姐王钦玉，二哥王钦汉，还有弟弟王钦臣。从我父亲记事起就听奶奶说，爷爷王显庭常年在贵州做布匹生意，但在动荡的年代生意惨淡，爷爷只能偶尔拿些钱回家来补贴家用。虽然勉强度日，但一家人在一起，也感觉到无比的温暖和快乐。后来，爷爷做布匹生意越发艰难，家里经常吃了上顿没下顿。为了减轻家里负担，我那还不满十八岁的大娘早早地就嫁人了。</p>
-<p>一天，在贵州和爷爷一起经商的人带信回来说，爷爷做生意亏得连回家的路费都没有了。虽然奶奶在家务农，种了一小块萝卜和牛皮菜地，但卖不了几个钱，换回的口粮远远不够全家老小度日。眼见家里日子实在过不下去，奶奶毅然决定把我二伯送到大娘那去。回来后的第二天早上，吃过早饭后，奶奶一边收拾东西，一边擦着眼泪把我父亲叫到身边说：“三娃啊，家里实在是吃不起饭了，一家人在一起只有等饿死。你也不小了都快满七岁了，要学会自己照顾自己，你就在家把家照看好，我要带着你弟弟到你外婆那里一段时间。你如果饿了，土里种有萝卜和牛皮菜，如果晚上害怕，就去叫邻居叶宝宝（叶兰宣）来给你搭个伴。”就这样，奶奶提着行李，背着年幼的幺爸，含着眼泪无助地走在回娘家的路上。可怜我那还不满七岁的父亲，只能眼睁睁地望着自己母亲和弟弟远去的背影。回头望望空空如也、空无一人的破旧的房子，父亲当时就恐惧得嚎啕大哭，只觉天昏地暗、天旋地转。不知何时父亲醒来，只觉肚里饥肠辘辘。寒冷和饥饿迫使父亲在这残酷的现实面前，为了生存，不得不面对现实。于是踉踉跄跄地拖着那瘦小的身躯，走到种有萝卜的土里，扯起一根萝卜就狼吞虎咽地吃了起来。我父亲还是个懵懂少年，就在这样饥寒交迫的日子里坚强地度过了三个多月。</p>
-<p>三个月过后的一天，奶奶带着我幺爸回来了。父亲听奶奶说，她在娘家的那段日子里学会了织布的手艺。回家后，奶奶就帮别人织布。万幸的是，后来爷爷也回到了家，家里有能力种起了更多的农作物，父亲这才能上了小学。</p>
-<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/2017%E5%A4%96%E5%85%AC%E7%85%A7123.jpg">占位文字：无图片时显示</a></p>
-<p>父亲八岁那年，爷爷又先后两次带着父亲一起到贵州土城去做生意。当时交通不便，只能走路，父亲跟着爷爷走了六、七天的路程才最后到了那里。爷爷给父亲找了个帮别人卖米粑的活儿，包吃包住，就又到别处做生意去了。过了一段日子，因为生意不好做，爷爷又带着父亲一起回家了。</p>
-<p>父亲九岁那年，爷爷的两个弟弟（即二爷三爷，他们都住永川陈食场）过来叫爷爷一家人搬到了陈食场。陈食场有一条大约两里路长的街道，住着几千人口，每逢赶场日都很热闹。爷爷一家就在陈食场租了一套房子，父亲也继续上起了小学。家里做起了生意，炸油条、麻花，收入还不错。有了一定积蓄后，家里改行奶奶织布、爷爷弹棉花，日子越过越红火。那是父亲感觉最幸福和快乐的一段时光。</p>
-<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/01%E5%85%A8%E5%AE%B6%E7%A6%8F1.jpg">占位文字：无图片时显示</a></p>
-<p>可好景不长，爷爷儿时的伙伴在贵州做生意回来，打听到爷爷做生意赚了钱，就千方百计地向爷爷吹嘘，说现在贵州的生意是如何的好做。爷爷经不住诱惑，不顾奶奶的反对再次前往贵州，并把几年积攒下来的积蓄全都投入了进去。过了一年多，爷爷回来了，听说他被合伙人算计，本钱全赔了进去。那时家里连房租都交不上了，父亲一家人只能搬到乡下的苏家院子去住。那年父亲已经十三岁。经人介绍，以包吃包住和一年另送一匹布的条件，父亲被叫到双河口一家中农人家放牛。父亲十五岁那年，国民党在陈食场抓壮丁，每家每户“三丁抽一、五丁抽二”。那时家里的实际情况是：二伯被送到了大娘家，父亲在双河口放牛，而幺爷还小，所以家里没男丁可抓。邻居了解到爷爷家吃了上顿没下顿的窘迫状况，就和爷爷商量，他有个条件比较好的亲戚家这次被抓了一个壮丁，想用三担谷子换我父亲去顶替他的位置。爷爷同意后，就到双河口把父亲叫回来，用三担谷子作为交换，把父亲卖给国民党当兵去了。</p>
-<p>父亲才进部队就去了宜昌桃坪村的一座山上作为新兵训练了半年，那里距离宜昌还有十多里路程。父亲当时在那里是年龄最小的，才去时很不习惯，每天五点出操训练，吃的是又稀又烫、里面掺杂着谷子、稗子和沙子的稀饭，还必须在五分钟之内吃完。父亲常常吃不饱，一天到晚训练却又累又饿，但却开始思念那生他养他的那个家，即使在家会过着朝不保夕的生活，即使家人用三担谷子卖了他。常言道，儿不嫌母丑狗不嫌家贫，亲情和血缘怎么也割舍不断母子之情。我父亲就这样日思夜想，终于有一天再也撑不住了，一头栽倒在地上昏死过去。战友们都以为父亲死去了。父亲的班长曹辉成是松溉人（和父亲一个县），叫了两个兵，把父亲抬到后山上，挖了一个坑，就把他扔了进去。然而，在落下去的一刹那，班长看见父亲动了一下，于是叫两个兵赶紧把父亲又抬了回去。经过这次生死的转变，父亲竟一天天恢复了精力，逐渐好转起来。</p>
-<p>后来父亲去了宜昌军队一三九师四一五团一营炮一排（迫击炮排），当兵就打日本人。部队驻扎在宜昌桃坪，一打就是一年多，一直和日本人对着干。四四年日本兵投降后，部队准备迁往北京，但到新乡后，就和八路军打起来了，每天从白天打到黑夜。父亲当时就不明白，日本侵略我国领土时，我国军民团结一心全民抗日，把日本人赶出了我国领土，而现在却是自己人打自己人，还不知何时是个头。于是父亲又开始想家，开始逃跑，但被其它国民党部队抓回去就是一顿毒打，几次被打后还是想家，于是又跑。一次被抓后，父亲被吊在楼梯上一顿毒打，还惨无人道地在右后肩被刺刀捅了一个洞。父亲惨叫一声，当时就昏迷过去了。由于伤口感染化脓，到现在还留下很大一块疤痕。</p>
-<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/%E5%A4%96%E5%85%AC%E7%9A%84%E4%BC%A4%E7%96%A4.jpg">占位文字：无图片时显示</a></p>
-<p>后来国民党部队撤退到西安驻防，解放军打过来后，部队辗转到四川绵竹。终于，父亲所在的部队在中江起义，叫父亲去开整编会。当时父亲并不了解解放军和国民党部队的性质是完全不一样的，由于四川离家近，父亲又思乡心切，便又往家跑。而这次，父亲轻松地就跑回了家。</p>
-<hr>
-<p>五零年九月回家后，由参加了地下党的二爸介绍，父亲当上了税务局的交易员，并于五一年二月正式转为财税局干部。后来财税分家后，父亲在财政局上班，工作稳定后结婚生子，养育了我们四个女儿。我们四姐妹出生在陈食场街上，从我记事以来就知道父亲每逢双休、节假日都要回家帮做家务。那个年代每家每户都是烧柴火，有一次父亲叫上大姐二姐，拿了几个生红苕，一人背了一个背筐，就到二郎山上找柴火。因路途遥远，天黑之后，他们才汗流浃背地拖着疲惫的身躯回到家里。又有时，父亲到作坊式的煤厂去挑煤，同样路途遥远，爬坡上坎都很是辛苦。</p>
-<p>在我十六岁那年，考虑到我们家庭成员分散，父亲单位的王局长就想办法帮忙让我们全家搬到永川县城，终于我们又能每天生活在一起，一直至今。</p>
-<p>父亲一直教导我们，要脚踏实地地做人，要成为一个正直、勤劳、善良的人。而他自己更是以身作则，工作认真负责，有着一丝不苟的工作态度。那时，父亲是单位企财股股长，管理着县里所有的国有企业。当时五金公司的自行车、缝纫机都需要他手上发放的票证才能买到，而我们家就需要这样的工具。母亲和姐姐们给他做工作想拿到票证，但他怎么都不给。他说，我是党员，国家有制度，有比我们家更需要的人，只有他们才能得到。</p>
-<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/2017%E5%A4%96%E5%85%AC%E7%85%A712.jpg">占位文字：无图片时显示</a></p>
-<p>我父亲现在已是九十高龄，还每天坚持锻炼，也喜欢观看新闻，关心国家大事。同时，他也对女儿们关怀备至，呵护有加，每个子女都是他老人家的心头肉。在我五十岁那年，我生了一场大病，我知道，我就是父亲最心疼、最牵挂的人。常言道，“皇帝爱长子，百姓爱幺儿”，他鼓励我要坚强，教会了我他多年来积累下来的战胜病魔有丰富经验的养生之道，让我受用至今。最最让我感动的是他跟我说的一句简单而朴实的话：“你健康比我强”。</p>
-<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/2017%E5%A4%96%E5%85%AC%E7%85%A754.jpg">占位文字：无图片时显示</a></p>
-<p>这就是我那无私奉献的父亲。有老有小你手里捧着孝顺，再苦再累你脸上挂着温馨。生活的苦涩有三分，你却吃了十分。这辈子做你的女儿我没有做够，央求你下辈子还做我的父亲。</p>
-<p>小女儿：王次娟<br>2017年10月1日</p>
+<p>最初发于山西，后迁往湖北麻城孝感，后转至四川。</p>
+<blockquote>
+<p>此孝感非指目前湖北省孝感市，而是指湖北省麻城市古孝感乡，目前已并入其他乡镇。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/wuhan_xiaogan_macheng.jpg" alt="麻城孝感位置"><br>麻城是<a href="http://www.macheng.gov.cn/about/whmc/mcxgx.htm">中国古代‘八大移民发源地’之一，是‘湖广填四川’的起始地和集散地”</a>）。“要问祖籍在何方？湖广麻城孝感乡”（<a href="http://news.163.com/16/0403/04/BJMU84LL00014AED.html">《麻城孝感乡 究竟是怎么回事？》</a>）。<br>网上仍散落着寻找麻城孝感王氏宗族的帖子（如<a href="http://www.mala.cn/thread-6817032-1-1.html">《寻1650年湖北麻城迁入四川广安的王氏家族宗亲》</a>），可惜按外公的字辈和他们并不一致，不是同一分支。<br>重庆渝中区的<a href="http://baike.baidu.com/link?url=3ejDtUmIHfQsZ1O58tLdAmJYrCDGskfQlgia692JRG3d3Fv0_VBrxzQdudPjGXR-NqjPN8n37-Mr9zpVx3AT-f-tiTTO7Qc2g-s_7SnKSUlEj0u_5Teu3YXzmtbEXa5kbQIlFndZg-ELt9KxE2iUqq">湖广会馆</a>，现含一座湖广填四川移民博物馆，距离解放碑和朝天门并不太远，有机会去了解了解那段历史。</p>
+</blockquote>
+<p>外公出生于重庆璧山灯油坪（音）寨子，6岁多时母亲跑回了娘家，就剩他和父亲两人在家。8岁时迁往永川陈食，15岁时被父亲以三担谷子为交换给国民党当壮丁，编入国民革命军第三十二军一三九师四一五团一营炮一排，抗战时还在宜昌打过日本鬼子。</p>
+<blockquote>
+<p>当前正热播的电视剧《宜昌保卫战》，其中用相当的篇幅描写了国民党军队。外公对于国民党军队在抗日正面战场的贡献是认同的，并为当前国内越来越公开地讲述国共两党共同的抗战史表示肯定。<br>武汉失守后，以宜昌为中心的战场上,先后发生了随枣会战、枣宜会战、反攻宜昌战役、鄂西会战、常德会战等大规模正面作战（<a href="http://news.cn3x.com.cn/content/2015-01/20/content_656360.htm">《宜昌抗战在中国抗日战争中的重要地位》</a>，其中有胜有败，有英勇也有悲壮（<a href="http://www.360doc.com/content/14/0627/11/8102575_390205394.shtml">宜昌沦陷始末</a>），抗战时中国战区殉国的级别最高的将领张自忠就是在枣宜会战中牺牲。<br>从外公所讲述的战斗时间以及部队番号，推测参加的是1943年的<a href="http://baike.baidu.com/link?url=k6gBLNs0_YO9nFdlyxNYloOISAswcGcsC5Z1l3Lze5yacTPB2o2NHo1sduQjyzMrlOll_X68MLGF67RGfqhyR7EwWfd4P0CIfR3yebd3SXkiSJyrQMm3MG7RYzQIzK3-9sGq4jp7Ot44jLpjNFVUF06-3_VaE_b73nPy3p1zCUjBi_w9W6Sk1toD_f2rZ5Po6E-yPNblEvALauEqiS_Ud_">“鄂西会战”</a>，第32军军长宋肯唐，139师师长孙定超，他们后来都去了台湾。</p>
+</blockquote>
+<p>新兵每次吃饭时间不足5分钟，基本都喝含少量谷子稗子的米汤，也不管粥的滚烫。日本投降后一年多，国民党颓势已现，外公想要外逃，但被抓回，肩上被捅了一刀。</p>
+<blockquote>
+<p>外公会感叹始终没想明白一个问题：“以前中国只有不到4亿人口，尚且生活条件这么差，好多人吃不饱。而现在中国的人口有13亿多，生活条件却有如此大的改善。”中国盘子大，经得住折腾，但也不能有大折腾。和平稳定的环境对于中国的重要性不言而喻，只有这样，才有机会迎来发展机遇。</p>
+</blockquote>
+<p>一年后，部队被遣入河南新乡，准备调往北方，但中途被解放军阻击。阴差阳错，外公始得离开部队回到家乡，认识了外婆。</p>
+<blockquote>
+<p>这次和外公只聊到这，这次整理谈话内容的过程中发现所遗漏的细节，下次还待和外公确认。外公感叹现在的记忆力已不如前，以后访谈用录音的形式，估计较为妥当。<br>以上整理也参考了老妈的记录。本此次访谈老妈并不在场，回来整理过程中被老妈发现，给了我这张曾经和外公交谈时的记录，原来老妈一直记得了解外公的生活历程这件事，感动crying~<img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/mum_record.jpg" alt="老妈记录外公讲述"></p>
+</blockquote>
+<h1 id="张氏"><a href="#张氏" class="headerlink" title="张氏"></a>张氏</h1><p>爷爷在我来京上大学后不久去世，很遗憾我无法亲口向他求证，只能凭借我和父辈们的记忆。<br>爷爷姓张，出生于浙江湖州，后随家人到上海生活。小时候偶尔能听到爷爷用上海话和那边的亲戚通话，也知道爷爷喜欢吃酸甜口味的江浙口味。初三毕业时，爷爷带我和父亲去江浙，让我有机会见到上海的长辈亲戚们。</p>
+<blockquote>
+<p>浙江湖州临近太湖，介绍可见<a href="http://baike.baidu.com/link?url=dj5d5B8RigvgKzbLucv_-ddaHIyedZXUxIpPGK42ZJAZJHRjbEWYuAs_DAbqOQS3zYi0w7FcMdhNuqByL__zZsGIXs-sCpBk_YFLH03p7zS">百度百科词条“湖州”</a>。<img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/huzhou-shanghai.jpg" alt="湖州上海位置关系"><br>记得爷爷提到老家名称中带“兴”字，看地图湖州下辖吴兴区和长兴县，具体位置还待和知道的长辈们确认。</p>
+</blockquote>
+<p>抗战时，爷爷参加了“二野军大”，随刘邓大军挺近大西南，这才到了重庆。偶尔会听爷爷自豪地说起这四个字，记得相册中还保有爷爷参加战友聚会时的合影。</p>
+<blockquote>
+<p>二野军大的简介可见此（<a href="http://www.lbctzjng.com/html/mhhy/zzwz/15/02/630.html">《二野军大是我军最有特色的军校》</a>），可推测出爷爷17岁左右随军来到重庆。当时的革命青年们，为了祖国建设的前景远离故土，也是让人为之动容。</p>
+</blockquote>
+<p>说到张家家谱，我不记得曾见过，父亲也是，只有寄希望于上海的亲戚们了。听说上海的叔辈曾经寻访过湖州老家，那边还有亲戚健在。</p>
+<h2 id="……"><a href="#……" class="headerlink" title="……"></a>……</h2><p>有新的资料我会及时补充，希望构建起一大家人共同的回忆。</p>
 ]]></content>
       <categories>
         <category>生活 life</category>
       </categories>
       <tags>
         <tag>家庭 family</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>struct zhang 参与的第二个音乐作品《河》——（2）创作感悟</title>
-    <url>/2017/06/2017_04_new_song-2/</url>
-    <content><![CDATA[<p>学生节演出后紧接着郑州项目的超限沟通会，几天的紧张准备好在最终有了不错的结果。端午放假再说《河》，为上半年的艺术上的任性作结，记下创作中的感悟。</p>
-<a id="more"></a>
-
-<p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/music/2017_03_river_1/accompany.mp3" controls="controls" title="河-伴奏" autoplay="autoplay"></audio></p>
-<h1 id="关于创新"><a href="#关于创新" class="headerlink" title="关于创新"></a>关于创新</h1><p>去年7月去深圳拜见邓指，记住了一句话：不管做什么，创新最重要。<br>寒假回家和创业的表姐聊了一下午，记住的也是：人不要自我设限，没那么多不成之事，事在人为。<br>这些话时常记起。当我遇到选择，会自然地以此为标准。<br>宝宝团今年8岁，有13年《青春痣》的鼎盛，也有谷底。人生起伏是常态，组织的发展必不总是一帆风顺，当平稳心态。总结经验，建章立制，让发展有迹可循，算是防守；而创新发展形式，则是进攻。所以这次走出土木演出，是扩大宣传，丰富团员来源渠道；所以这次要自己写歌，让表达的情感更贴近生活，让音域和表演形式更适合团员特点。去年底对《silence》的改编开了小头，今年想要突破，从起初打算在《lilies》重新填中文词演唱，到后来索性步子迈大一些，从头写新作品，激励我的，就是上面两句。没填过词，没作过曲，没试试怎知不行？人生中的第一次多了去了。没创作过，不要紧，也唱了那么多年了，好歌还是能分辨的。现在想，多亏了这次的实践，为以后的艺术创作和工作生活都打开了一扇窗。那些看似很理想化的话，有时觉得站着说话不腰疼，但真的努力，就可能成真。<br>三月设计郑州项目的大跨转换时，脑中想的就是“不怕创新，不怕麻烦”。从单向梁式转换到变截面双向梁式转换，从斜柱转换再做到现在的桁架转换，还是有很大的好奇心去尝试没做过的方案。搜集论文，反复计算，争取把每种方案都推进到相对深入的层次，从而更准确地把握设计细节。去年年中总结的文章里就说过，希望今年做一个有特点的项目。郑州项目，最有特点的就是这个转换，当然要珍惜机会。不怕做出花，有底气的创新才显示出成长。怕做得平庸，怕毫无设计感，那才是对项目的巨大浪费。在消化院总及领导们的意见后，桁架方案逐渐成熟，在上周得到了超限专家组的认可，我想这也会成为对工作中继续坚持创新的激励。</p>
-<h1 id="关于灵感"><a href="#关于灵感" class="headerlink" title="关于灵感"></a>关于灵感</h1><p>以前听说，艺术创作需要灵感，觉得很抽象。实践之后，感到的则是灵感闪现时的无比兴奋。</p>
-<ul>
-<li>曾经，《学民》的段2始终写不出满意的旋律，而第二天就是二审节点。周六排练完回单位加班路上，随口哼出的旋律居然让我从午间困意清醒，于是真的出现这一幕——停下单车，用手机录下唱出的旋律。我明白了，灵感（机会）可能不经意出现，要随时准备好抓住它。</li>
-<li>在得到钧哥的“《学民》主题欠妥”的反馈后，很快就想到了家的主题。一晚上写出《河》的故事框架和主要歌词。如何表达对家庭的情感，是我一直在思考的一件事，往年的学生节也想过唱有关家的主题的合唱作品，这次正好实现。我明白了，我们要有一些想要实现的事。即使长期没有付诸实践，但只要时机合适，推进速度可能比想象中快很多。</li>
-<li>起初创作《河》段1的旋律也很纠结。和斯指约定写合声的前一天，忙乱抓瞎之际在网上胡乱搜索“如何快速作曲”的字眼。尝试着科普贴里的“鱼咬尾”、“音符要有一定起伏”等原则，在钢琴上随机地敲击着键盘，突然惊喜地捕捉到一个合适的片段，演化成了一个让我能想起《父亲的草原母亲的河》的片段，最终顺利地发展出了整段旋律。</li>
-</ul>
-<p>我又明白了，门外汉所说的灵感有时会是一门成熟的技术。觉得是灵感，只是因为对规律的乏识。掌握得越多，产生“灵感”的几率也就越大。所以也在反思，为什么起初给施院汇报转换的时候，施院很自然地会问有没有试过桁架转换？为什么总院评审过后，猛哥很自然地会问有没有试过变截面双向转换？设计是个何等靠经验的行当，积累越多，不是说灵感的空间越少，而是产生的灵感会越来越变得常人难以想到，而这就是独创。</p>
-<h1 id="关于积淀"><a href="#关于积淀" class="headerlink" title="关于积淀"></a>关于积淀</h1><p>出于对彩虹合唱团进行学习的初衷，创作前期曾反复聆听了他们几首大热作品，作品的创作和演绎确实很有讲究，曲子的变化和各段落想要表达的情感相得益彰。也发现一些有趣的东西——金大师的几个作品之间存在着联系，比如“快意飞马”这个词被多次使用，《掏空》里有《士超》的旋律，最近的《美凯龙》也有《指南》的旋律。可以说，做出了一个好作品，以后在合适的地方可以多次“致敬”。PS: 最近看了网评很高的音乐剧《汉密尔顿》，发现《美凯龙》、《指南》共有的那段和《汉》里的某段有相似的动机，也是有趣。看来大热的东西，有其共通之处。<br>想到郑州项目，老外的建筑方案为什么会被甲方看重？因为人家是几十年积累沉淀的结果。这次的方案，和大连城堡、珠海横琴湾有诸多相似之处，但外方就是这样小改小改，讨着甲方的欢心。像中国制造，学习国外的多快，高铁发展多块，但建筑设计领域，为什么国外方案还如此吃香？想来还是，国内的积淀不够。什么火做什么，老调整发展方向，不够专业不够坚持。院里鼓励专业化发展，我觉得很对，初期需要上层多协调支持，但长久会走得通畅。选定好方向，一定要坚持，别内耗。<br>忧心之处还在于设计行业的发展。从前年开始，各方开始看衰，到去年不断听闻有人离开，再到今年周围的人开始离开。我不认为这个领域没有专业人才的用武之地，但设计行业在现有设计模式下，其本身已经承载不了这么多专业人才，而大家也用各自的方式实现了对专业知识的再利用。洗牌的过程可能很长。21世纪初期计算机行业由热转衰再到现在的大热，靠的是其能渗透进各行各业广泛而深刻地创造价值，而我们仍在自己封闭的圈子里“等待”着外界的革新。要主动拥抱其它领域，依靠新技术，实现自我的蜕变，甚至主动渗透入其它领域，才能创造出高一量级的价值。</p>
-<h1 id="关于总监的角色"><a href="#关于总监的角色" class="headerlink" title="关于总监的角色"></a>关于总监的角色</h1><p>一个音乐作品完成演出，需要作词、作曲、编曲、配器、指挥、伴奏、演员等角色的共同努力，就像建筑作品的诞生，离不开建筑、结构、水、暖、电等专业的通力合作。术业有专攻，大家在自己的领域做着擅长的事，达到各自部分的最优，而制片人/艺术总监/设计总监则可凭借他们的全局把控来达到整体最优。<br>《河》的创作，让我从专业外体会到了建筑领域设总的辛劳和重要性。要公允，要讲求工作能力的全面性，思考判断重于处处实干，该妥协的要妥协，该坚持的要坚持。<br>进度上，在学生会、斯指、喻作、天行、团员之间进行协调，只有我一个人清楚各方的进度要求和大家的实际进度，只有我一个人能在所有人之间建立联系，那么我就必须承担起这个责任。提前一天让天行和原妈准备二审，提前一天让杨老师和声部长们准备三审，提前一周给指挥定稿的旋律而一周之后就要合声和配器，非常压迫大家，但从我的角度来看，只能这样安排，才能刚好让这支队伍有惊无险地度过每个节点。好在大家太给力，也没计划之外的突发情况。所以在这之后我知道了，为了整体的利益，有时候需要暂时牺牲团队中个别成员的利益，或者那个人就是我。如果是别人，我会让他们在付出汗水的同时，看清咱们共同前进的方向和最终的目标，明白付出的意义，同时在事后给予他应得的利益和荣誉。如果是我，则反过来试着理解，而后至少给自己一个大大的奖励。<br>质量上，主题构思在我，那我也就有责任向参与创作的大家清晰地解释段落划分和情节发展。相比于自己写出好的词、曲、合声、配器，我更重要的工作是向其他人描绘好各自的创作目标，并判断其他人写出的部分是否都能为设定的主题氛围服务。当不能满足要求时，我要想办法让当事人明白这部分为什么不能满足整体要求，并且怎样才算是满足要求。当我经历了天行的段3的惊人创作，并现场感受了斯指和喻作对作曲的信手拈来，我真的对十周年信心倍增，因为大家的理解能力和相互间的默契配合已经得到了验证。缺少的只是一个蓝图。虽说蓝图难觅，但至少比各方面都心里没底要靠谱得多啊。<br>有时候会觉得，有人带是幸福的啊，跟着指引向前走，承担自己的小责任，而享受团体成功的欢乐。而现在觉得，做一个能力、品行和职责相称的负责人，真是幸福啊。自己得到最大的锻炼，感受别人感受不到的酸甜苦辣，同时也看到每一个人在奋斗中成长，并在最后各自分享团体成功的喜悦。<br>以后在多一些领域争取一些做总监的机会吧：）</p>
-<p>先写这么多，找机会再补充吧。</p>
-]]></content>
-      <categories>
-        <category>音乐 music</category>
-      </categories>
-      <tags>
-        <tag>合唱 chorus</tag>
       </tags>
   </entry>
   <entry>
@@ -984,16 +915,66 @@ print(sum)
       </tags>
   </entry>
   <entry>
-    <title>2021春节提笔-家的回忆</title>
-    <url>/2021/02/2021_01_spring%20festival/</url>
-    <content><![CDATA[<p>离上次发日志，已经三年。<br>每年年末，都有小伙伴催更，现在可以继续写写什么了。平时基本不看电影，但用一部电影作为宣告年终结束的仪式成为了惯例。16年是《珍珠港》，17年是《芳华》，今年是《阳光普照》。喜欢这部电影没有特别复杂的原因，只因为看到一个家庭的命运起伏。大家从不知道如何表达爱，到在经历种种曲折后逐渐相互理解，到最后互相搀扶着勇敢生活，让我有代入感。往年阖家团圆，今年身在异地，由此，也更加的想家。</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=1&id=82922082&auto=1&height=32"></iframe>
-
+    <title>struct zhang 参与的第二个音乐作品《河》——（2）创作感悟</title>
+    <url>/2017/06/2017_04_new_song-2/</url>
+    <content><![CDATA[<p>学生节演出后紧接着郑州项目的超限沟通会，几天的紧张准备好在最终有了不错的结果。端午放假再说《河》，为上半年的艺术上的任性作结，记下创作中的感悟。</p>
 <a id="more"></a>
 
-<p>现存最早的记忆大概2-3岁，在矮破的“老小学”职工宿舍2楼，一个黑魆魆的小屋，房屋结构早已没有了印象。那时的事，还记得两个场景。<br>一个是在门外走廊，爸爸在上班前做好一碗醪糟汤圆放在我身前的小桌上，很烫，而我坐在小凳上，大口哈着气，一边吃一边目送父亲远去。对南方人，汤圆是比饺子更有家的寓意的存在，毕竟团团圆圆。小时候多做醪糟汤圆，因为白面搓条掐块后直接下锅煮，省事，但过节总会吃包心汤圆，外婆每年精心制作完汤圆馅儿后分给各家，那种味道至今怀念。<br><img src="https://i.loli.net/2021/02/15/vfn6gSTP2REorZ3.jpg" alt="01_阳台.jpg"><br>另一个是妈妈给我唱童谣。记忆最早的一首叫《宝贝》。之前一直不知道这首歌的确切名字，只记得旋律和一部分歌词。去年底某天跑步时突然想起了这首歌，给妈妈发微信询问，妈妈唱了出来，熟悉、亲切、又让我激动。上网查，是一首印尼童谣。原版歌词是一位母亲唱给孩子等待参军的父亲归来：<br><em><code>“宝贝，你爸爸正在过着动荡的生活，他参加游击队打击敌人哪我的宝贝，他参加游击队打击敌人哪我的宝贝……”</code></em><br>妈妈唱出来的歌词更接地气，可能因此我才能依稀记到现在。<br><em><code>“宝贝，你爸爸正在工厂上班班，你妈妈正在家里给你做饭饭，你妈妈正在家里给你做饭饭……”</code></em><br>温柔朴实的歌，应该传唱下去，是吧 [微笑.jpg]<br><img src="https://i.loli.net/2021/02/15/ShZFLDBGRMuklgE.jpg" alt="02_100天合影.jpg"><br>没住多久，我们搬到了一栋60多平米的家属楼，和婆婆（北方叫“奶奶”）爷爷生活在一起。婆婆以前是小学教师，我从小的家庭知识教育大部分来自于她。<br>家里留存着小时候婆婆辅导我练字的方格本，一天一篇小楷，我写完后她会用红色笔在字旁批改，画一个圈表示写得好，两个圈就是非常好，最多是三个圈。打完圈后，婆婆会让我把每天的圈加和，看看是不是比之前的圈多，以此鼓励我不断进步。家里也有一块小黑板，藏在进门的门后，那是属于我的写字和画画的地方，擦擦写写画画，凝聚了我童年的快乐。<br><img src="https://i.loli.net/2021/02/15/zxknDqyd1J47b9B.jpg" alt="03_小黑板.jpg"><br>婆婆爷爷也教我劳作。每周休息日，我们会把家里整个打扫一遍，他们教我门缝要如何擦干净，凳子不要只擦表面还要擦平常看不见的底部，等等。待我长大一些，则教我如何用火花枪点燃灶火，如何做蛋炒饭、番茄炒蛋，而后则是如何用电饭锅、高压锅。每天放学后等到6点爸妈下班，我会从米桶里蒯出2小盅生米，用水淘过之后倒进电饭锅，而后小心翼翼地一边加水一边用手指触及米粒顶部，通过指节的深度来度量水量是否合适，等到电饭锅跳膛保温5分钟之后再拔插头，以防变硬烧糊。<br>后来我到市区读高中，有的生活技能用得少了，但每每想起，还是会感念家应该是什么样子。<br><img src="https://i.loli.net/2021/02/15/yCDWTijlceFBKa9.jpg" alt="04_全家福.jpg"><br>好几次朋友们问我，小时候家里人对我是不是很严厉？认真回忆后，记起来几件：<br>一次小学期中考试，爸爸说如果我考到98分就带我去歌乐山烈士陵园参观，但我语文只考了95分。回家找爸爸签字，爸爸严厉地批评我，参观的事儿自然没了着落，我豆大的泪珠立马流了下来。<br>一次小学交作业，身为自然课代表的我在报作业时错把数学作业本交了上去，导致数学作业无法上交，回家也没有找到作业本，于是得到了爸爸的毛巾伺候。<br>还有一次听妈妈和叔姨们说，爸爸为了让我喝粥，拿着针管状物对我说“吃饭还是打针？”当然我又流下了豆大的泪珠，而后含泪喝下了一碗滚烫的粥。他们说，从此以后我就不喜欢喝粥了，确实直到现在也是如此。<br>大致上了初中，那时我们已和婆婆爷爷分开住，每周六日我都会过去看望他们。有次市里的野生动物世界开园，我没有向婆婆爷爷请假就和大人去玩了，回来受到了批评：人不能言而无信，约定的事就要照做。婆婆爷爷平时对人和蔼，但这次非常严厉，让我印象很深。</p>
-<p>温暖的时候也很多。<br>小学时，爸妈偶然间发现我喜欢音乐，据说，邻居小姐姐在弹钢琴时，我会站在邻家门前仔细地听，所以某一天，妈妈给我带回一架玩具电子琴以满足我的好奇心。等妈妈做完饭后，听到的却是我靠记忆中的旋律摸索着弹出的《世上只有妈妈好》。这事我是记不得了，但听起来挺幸福的。<br><img src="https://i.loli.net/2021/02/15/YOlrRJwgxabi1yk.jpg" alt="05_电子琴.jpg"><br>家里有一台大录音机，当时叶倩文的《潇洒走一回》很火，我也学着在唱，爸爸妈妈就帮我录了下来，录着录着还全家一起唱。那是我小时候录下的第一首歌，录歌的欢乐场景现在还依稀记得。<br>南方很难下雪。难得有一年家乡下雪，下班回来的妈妈把小菜板拿下楼，拿上来时菜板上居然立着一个小雪人，我万分惊喜。我还说要不把雪人冻在冰箱里怕化掉，真傻，哪能一直冻着。<br>记忆中，我喜欢跨坐在爸爸肩背被举高高，这样就能看到更远的地方；也喜欢坐在爸爸妈妈自行车后座，靠在他们后背看旁边移动的风景。所以到《阳光普照》结尾的镜头，我会很喜欢：小时候是妈妈载小儿子，而小儿子长大后载着妈妈沿着小路穿行，看着阳光透过树缝洒下的斑驳光影，一切是久别重逢，又透着对重生后的未来生活的希望。<br><img src="https://i.loli.net/2021/02/15/S3ZEpwOjldBrF6I.jpg" alt="06_抱高.jpg"><br>上了高中，和家的物理距离远了，和家里的心理距离也确实远了。这段时间，家里发生了一些变化，有着清晰印象的场景不多。我知道妈妈身体有恙，后来不经营服装了。我知道爸爸每月会抽空到学校带我吃喜欢的鱼火锅或者干锅，又带我去解放碑看正在修建的摩天楼。后来爸爸在重庆开了一家小饭馆，我去过一次，香气扑面。爸爸挺忙碌，我没待多久。<br><img src="https://i.loli.net/2021/02/15/M6gTq2AiKV1YSZX.jpg" alt="07_高考后.jpg"><br>高考前，爸爸妈妈带着鸡汤过来我在学校外的出租房，陪我度过了考前最后的一夜，而后有一天班主任打电话说我的分数，爸爸妈妈都挺高兴，因为可以上清华了，只有爷爷还是想我去同济，因为上海是他几十年前生活过的地方，那里还有兄弟姐妹。爷爷离家几十年，还是切不断和家乡的联系，现在我很能理解。再过3年，我在北京待的年份就要超过家乡，但家乡还有那么多亲人，那么多熟悉的街道和场景，那么亲切的乡音，怎么能割舍，怎么会忘记。<br>某年回家，突然发现家搬到了城市新区，妈妈说，前一年全家散步路过这里时听我说这栋房子好看，正好家里也打算搬离原来的地方，就过来了。对我而言，除了居住环境的改善，也象征着走出了生活了20年的厂区家属院。最近几年，厂区经历了城市改造，曾经和婆婆爷爷一起住过的楼已经拆除，不见了阳台上栽种的云竹、兰草、昙花、金桔、朱顶红、蟹爪兰；曾经从学前班到初中就读十年的厂区子弟校被划归地方，那条上学放学的路，距离不远但总是走得很长，只因为路边的三角粑、炸土豆、烤豆干、锅巴虾条和干脆面。可能下一代不会立即理解我们对于这些事物的情感，就像我当年也不理解老一辈人说到建厂时在主干道两旁栽下的参天大树时的自豪，而现在的我，已经完全理解了。<br><img src="https://i.loli.net/2021/02/15/UIte17yZTv3gWQ5.jpg" alt="08_花花草草.jpg"><br>和父母关系的重新拉近是从研三下学期开始。那时，妈妈病情有了反复，我忧心忡忡，后来病情得到了控制，但每隔一两天通一次的亲情电话，我不再觉得枯燥。几年里每次通话，爸妈无非是问“晚饭是在食堂吃的么”、“最近工作忙不忙”、“有没有吃水果”，而我则是问“家里晚饭吃的啥”、“今晚吃完饭出不出去走路”。说到生活，妈妈会跟我分享她与各种人相处时感到的舒服或者不自然的地方，要我真诚对人；说到工作，爸爸则经常说画图要仔细，钢筋稍微多配几根，安全系数留大一些，要我认真做事；说到健康，我则总是提醒他们要注意荤素搭配，吃东西不要太节俭，喜欢吃什么就去买什么。给妈妈买手机时，选的是和我同款，想的是如果有什么妈妈不懂的操作，我能更方便地告诉她。买电扇时，考虑的是力求静音，这样妈妈睡觉就更不会被噪音打扰，哪怕能多一刻入睡也值得。发现用手环监测身体数据很方便，就给爸爸也买了一个，却阴差阳错地让他在不骑自行车十几年后重新捡起了这个技能，有时周六日骑行几十公里好不惬意，然后把手环记录的路线发上朋友圈，我能感受到他的成就感。上次回家跟着爸爸上山和绕城一圈，也骑过了他上班时的路线。大多数时候都是他带路，我跟在他后面，好像和小时候那个坐在他身后的小男孩一样，被稳稳地载向前方。<br>在亲情里，没有三年之痛，没有七年止痒。诚然，我习惯了报喜不报忧，谁又能说他们不是如此。只是在大事上，我们沟通充分，一家人共同进退，就好。等过阵子爸爸退休了，看他们意愿，如果不想搬来北京，至少也要每年过来一段时间，以北京为中心，一家人在周边逛逛。18年在北京游览的情景还历历在目，那是多么开心和温暖的时光。我们许过去内蒙看美景的愿望，夏天一望无际的碧绿的草原，或是秋天漫山遍野的金黄的胡杨林。不同于小时候散步时我常走在中间，此时我会畅想，草原上的一家子，妈妈在中间，左手挽着爸爸，右手挽着我，在柔和的夕阳的微光下，一起憧憬着更美好的未来。<br><img src="https://i.loli.net/2021/02/15/mbwIJDrQl3ocBhk.jpg" alt="09_游览北京.jpg"><br>今年春节没有回家，记忆中以前只有研一去澳洲访学时有过这样的经历。我在北京，大年初一一早，依然如往常在家，一碗汤圆加一个半熟的鸡蛋，然后出门。今年不能和他们一起去乡下和陵园里拜祭逝去的亲人，只能由父母代我向先祖们汇报过往一年的成绩，再许下对新的一年的愿望。今年的生活预计会有挺多新变化，多了蛮多新愿望，最近也得到了很多亲人、朋友的帮助，很感谢帮助我们实现愿望的各位亲友们。相信这些愿望都会实现，相信生活一定会过得越来越好，也祝愿所有的家庭，新的一年里都万事顺意，幸福平安！</p>
-<p>2021.2.15 firework @ Beijing</p>
+<p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/music/2017_03_river_1/accompany.mp3" controls="controls" title="河-伴奏" autoplay="autoplay"></audio></p>
+<h1 id="关于创新"><a href="#关于创新" class="headerlink" title="关于创新"></a>关于创新</h1><p>去年7月去深圳拜见邓指，记住了一句话：不管做什么，创新最重要。<br>寒假回家和创业的表姐聊了一下午，记住的也是：人不要自我设限，没那么多不成之事，事在人为。<br>这些话时常记起。当我遇到选择，会自然地以此为标准。<br>宝宝团今年8岁，有13年《青春痣》的鼎盛，也有谷底。人生起伏是常态，组织的发展必不总是一帆风顺，当平稳心态。总结经验，建章立制，让发展有迹可循，算是防守；而创新发展形式，则是进攻。所以这次走出土木演出，是扩大宣传，丰富团员来源渠道；所以这次要自己写歌，让表达的情感更贴近生活，让音域和表演形式更适合团员特点。去年底对《silence》的改编开了小头，今年想要突破，从起初打算在《lilies》重新填中文词演唱，到后来索性步子迈大一些，从头写新作品，激励我的，就是上面两句。没填过词，没作过曲，没试试怎知不行？人生中的第一次多了去了。没创作过，不要紧，也唱了那么多年了，好歌还是能分辨的。现在想，多亏了这次的实践，为以后的艺术创作和工作生活都打开了一扇窗。那些看似很理想化的话，有时觉得站着说话不腰疼，但真的努力，就可能成真。<br>三月设计郑州项目的大跨转换时，脑中想的就是“不怕创新，不怕麻烦”。从单向梁式转换到变截面双向梁式转换，从斜柱转换再做到现在的桁架转换，还是有很大的好奇心去尝试没做过的方案。搜集论文，反复计算，争取把每种方案都推进到相对深入的层次，从而更准确地把握设计细节。去年年中总结的文章里就说过，希望今年做一个有特点的项目。郑州项目，最有特点的就是这个转换，当然要珍惜机会。不怕做出花，有底气的创新才显示出成长。怕做得平庸，怕毫无设计感，那才是对项目的巨大浪费。在消化院总及领导们的意见后，桁架方案逐渐成熟，在上周得到了超限专家组的认可，我想这也会成为对工作中继续坚持创新的激励。</p>
+<h1 id="关于灵感"><a href="#关于灵感" class="headerlink" title="关于灵感"></a>关于灵感</h1><p>以前听说，艺术创作需要灵感，觉得很抽象。实践之后，感到的则是灵感闪现时的无比兴奋。</p>
+<ul>
+<li>曾经，《学民》的段2始终写不出满意的旋律，而第二天就是二审节点。周六排练完回单位加班路上，随口哼出的旋律居然让我从午间困意清醒，于是真的出现这一幕——停下单车，用手机录下唱出的旋律。我明白了，灵感（机会）可能不经意出现，要随时准备好抓住它。</li>
+<li>在得到钧哥的“《学民》主题欠妥”的反馈后，很快就想到了家的主题。一晚上写出《河》的故事框架和主要歌词。如何表达对家庭的情感，是我一直在思考的一件事，往年的学生节也想过唱有关家的主题的合唱作品，这次正好实现。我明白了，我们要有一些想要实现的事。即使长期没有付诸实践，但只要时机合适，推进速度可能比想象中快很多。</li>
+<li>起初创作《河》段1的旋律也很纠结。和斯指约定写合声的前一天，忙乱抓瞎之际在网上胡乱搜索“如何快速作曲”的字眼。尝试着科普贴里的“鱼咬尾”、“音符要有一定起伏”等原则，在钢琴上随机地敲击着键盘，突然惊喜地捕捉到一个合适的片段，演化成了一个让我能想起《父亲的草原母亲的河》的片段，最终顺利地发展出了整段旋律。</li>
+</ul>
+<p>我又明白了，门外汉所说的灵感有时会是一门成熟的技术。觉得是灵感，只是因为对规律的乏识。掌握得越多，产生“灵感”的几率也就越大。所以也在反思，为什么起初给施院汇报转换的时候，施院很自然地会问有没有试过桁架转换？为什么总院评审过后，猛哥很自然地会问有没有试过变截面双向转换？设计是个何等靠经验的行当，积累越多，不是说灵感的空间越少，而是产生的灵感会越来越变得常人难以想到，而这就是独创。</p>
+<h1 id="关于积淀"><a href="#关于积淀" class="headerlink" title="关于积淀"></a>关于积淀</h1><p>出于对彩虹合唱团进行学习的初衷，创作前期曾反复聆听了他们几首大热作品，作品的创作和演绎确实很有讲究，曲子的变化和各段落想要表达的情感相得益彰。也发现一些有趣的东西——金大师的几个作品之间存在着联系，比如“快意飞马”这个词被多次使用，《掏空》里有《士超》的旋律，最近的《美凯龙》也有《指南》的旋律。可以说，做出了一个好作品，以后在合适的地方可以多次“致敬”。PS: 最近看了网评很高的音乐剧《汉密尔顿》，发现《美凯龙》、《指南》共有的那段和《汉》里的某段有相似的动机，也是有趣。看来大热的东西，有其共通之处。<br>想到郑州项目，老外的建筑方案为什么会被甲方看重？因为人家是几十年积累沉淀的结果。这次的方案，和大连城堡、珠海横琴湾有诸多相似之处，但外方就是这样小改小改，讨着甲方的欢心。像中国制造，学习国外的多快，高铁发展多块，但建筑设计领域，为什么国外方案还如此吃香？想来还是，国内的积淀不够。什么火做什么，老调整发展方向，不够专业不够坚持。院里鼓励专业化发展，我觉得很对，初期需要上层多协调支持，但长久会走得通畅。选定好方向，一定要坚持，别内耗。<br>忧心之处还在于设计行业的发展。从前年开始，各方开始看衰，到去年不断听闻有人离开，再到今年周围的人开始离开。我不认为这个领域没有专业人才的用武之地，但设计行业在现有设计模式下，其本身已经承载不了这么多专业人才，而大家也用各自的方式实现了对专业知识的再利用。洗牌的过程可能很长。21世纪初期计算机行业由热转衰再到现在的大热，靠的是其能渗透进各行各业广泛而深刻地创造价值，而我们仍在自己封闭的圈子里“等待”着外界的革新。要主动拥抱其它领域，依靠新技术，实现自我的蜕变，甚至主动渗透入其它领域，才能创造出高一量级的价值。</p>
+<h1 id="关于总监的角色"><a href="#关于总监的角色" class="headerlink" title="关于总监的角色"></a>关于总监的角色</h1><p>一个音乐作品完成演出，需要作词、作曲、编曲、配器、指挥、伴奏、演员等角色的共同努力，就像建筑作品的诞生，离不开建筑、结构、水、暖、电等专业的通力合作。术业有专攻，大家在自己的领域做着擅长的事，达到各自部分的最优，而制片人/艺术总监/设计总监则可凭借他们的全局把控来达到整体最优。<br>《河》的创作，让我从专业外体会到了建筑领域设总的辛劳和重要性。要公允，要讲求工作能力的全面性，思考判断重于处处实干，该妥协的要妥协，该坚持的要坚持。<br>进度上，在学生会、斯指、喻作、天行、团员之间进行协调，只有我一个人清楚各方的进度要求和大家的实际进度，只有我一个人能在所有人之间建立联系，那么我就必须承担起这个责任。提前一天让天行和原妈准备二审，提前一天让杨老师和声部长们准备三审，提前一周给指挥定稿的旋律而一周之后就要合声和配器，非常压迫大家，但从我的角度来看，只能这样安排，才能刚好让这支队伍有惊无险地度过每个节点。好在大家太给力，也没计划之外的突发情况。所以在这之后我知道了，为了整体的利益，有时候需要暂时牺牲团队中个别成员的利益，或者那个人就是我。如果是别人，我会让他们在付出汗水的同时，看清咱们共同前进的方向和最终的目标，明白付出的意义，同时在事后给予他应得的利益和荣誉。如果是我，则反过来试着理解，而后至少给自己一个大大的奖励。<br>质量上，主题构思在我，那我也就有责任向参与创作的大家清晰地解释段落划分和情节发展。相比于自己写出好的词、曲、合声、配器，我更重要的工作是向其他人描绘好各自的创作目标，并判断其他人写出的部分是否都能为设定的主题氛围服务。当不能满足要求时，我要想办法让当事人明白这部分为什么不能满足整体要求，并且怎样才算是满足要求。当我经历了天行的段3的惊人创作，并现场感受了斯指和喻作对作曲的信手拈来，我真的对十周年信心倍增，因为大家的理解能力和相互间的默契配合已经得到了验证。缺少的只是一个蓝图。虽说蓝图难觅，但至少比各方面都心里没底要靠谱得多啊。<br>有时候会觉得，有人带是幸福的啊，跟着指引向前走，承担自己的小责任，而享受团体成功的欢乐。而现在觉得，做一个能力、品行和职责相称的负责人，真是幸福啊。自己得到最大的锻炼，感受别人感受不到的酸甜苦辣，同时也看到每一个人在奋斗中成长，并在最后各自分享团体成功的喜悦。<br>以后在多一些领域争取一些做总监的机会吧：）</p>
+<p>先写这么多，找机会再补充吧。</p>
+]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>合唱 chorus</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于外公的故事</title>
+    <url>/2017/11/2017_05_grandfather/</url>
+    <content><![CDATA[<p>老妈曾说，她最爱听刘和刚的《父亲》，也曾听过她动情地演唱。而直到现在我终于完全了解其中的原因，完全体会到了老妈的情感，那是作为小女儿对父亲的依恋和敬佩。<br>断断续续地，为老妈整理出这篇访谈记录 ，看着老人们过去几十年走过的路，感叹现时的珍贵。<br>珍惜时光，珍惜家人……</p>
+<a id="more"></a>
+
+<p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/%E5%88%98%E5%92%8C%E5%88%9A-%E7%88%B6%E4%BA%B2.mp3" controls="controls" title="乡愁-雷佳" autoplay="autoplay"></audio></p>
+<h1 id="我的父亲"><a href="#我的父亲" class="headerlink" title="我的父亲"></a>我的父亲</h1><p>一九二八年二月十八日，我父亲王钦海出生在璧山县广普村登右坪寨子一个很普通的家庭。登右坪寨子是一座约有两个半村子大小的城堡，璧山和江津两县境内的城堡面积各占一半，有近二十个寨门和四千多人口。寨子和山下的村庄没有区别，有学校、商店，各种生活设施应有尽有。</p>
+<p>从寨底山脚往上大约五里路程，有座大庙叫枇罗寺，人们常在这儿烧香拜佛，祈求平安，盼望来年有个好收成。关于枇罗寺还流传了一个典故。父亲听爷爷说：维修寺庙的工人在翻新房顶瓦片时，曾发现瓦片上写有一首诗：</p>
+<blockquote>
+<p>枇罗遍地开花<br>乾坤二九加八<br>但看龙蛇走马<br>八洋大闹中华</p>
+</blockquote>
+<p>这位匠人预测将要发生的事情，过后都一一应验。人们都说这是一位高人，有远见，是位了不起的匠人。<br>就是这样一个有故事的地方，我的父亲在这里出生了，并且生活了九年。</p>
+<hr>
+<p>我父亲排行老三，头上有大姐王钦玉，二哥王钦汉，还有弟弟王钦臣。从我父亲记事起就听奶奶说，爷爷王显庭常年在贵州做布匹生意，但在动荡的年代生意惨淡，爷爷只能偶尔拿些钱回家来补贴家用。虽然勉强度日，但一家人在一起，也感觉到无比的温暖和快乐。后来，爷爷做布匹生意越发艰难，家里经常吃了上顿没下顿。为了减轻家里负担，我那还不满十八岁的大娘早早地就嫁人了。</p>
+<p>一天，在贵州和爷爷一起经商的人带信回来说，爷爷做生意亏得连回家的路费都没有了。虽然奶奶在家务农，种了一小块萝卜和牛皮菜地，但卖不了几个钱，换回的口粮远远不够全家老小度日。眼见家里日子实在过不下去，奶奶毅然决定把我二伯送到大娘那去。回来后的第二天早上，吃过早饭后，奶奶一边收拾东西，一边擦着眼泪把我父亲叫到身边说：“三娃啊，家里实在是吃不起饭了，一家人在一起只有等饿死。你也不小了都快满七岁了，要学会自己照顾自己，你就在家把家照看好，我要带着你弟弟到你外婆那里一段时间。你如果饿了，土里种有萝卜和牛皮菜，如果晚上害怕，就去叫邻居叶宝宝（叶兰宣）来给你搭个伴。”就这样，奶奶提着行李，背着年幼的幺爸，含着眼泪无助地走在回娘家的路上。可怜我那还不满七岁的父亲，只能眼睁睁地望着自己母亲和弟弟远去的背影。回头望望空空如也、空无一人的破旧的房子，父亲当时就恐惧得嚎啕大哭，只觉天昏地暗、天旋地转。不知何时父亲醒来，只觉肚里饥肠辘辘。寒冷和饥饿迫使父亲在这残酷的现实面前，为了生存，不得不面对现实。于是踉踉跄跄地拖着那瘦小的身躯，走到种有萝卜的土里，扯起一根萝卜就狼吞虎咽地吃了起来。我父亲还是个懵懂少年，就在这样饥寒交迫的日子里坚强地度过了三个多月。</p>
+<p>三个月过后的一天，奶奶带着我幺爸回来了。父亲听奶奶说，她在娘家的那段日子里学会了织布的手艺。回家后，奶奶就帮别人织布。万幸的是，后来爷爷也回到了家，家里有能力种起了更多的农作物，父亲这才能上了小学。</p>
+<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/2017%E5%A4%96%E5%85%AC%E7%85%A7123.jpg">占位文字：无图片时显示</a></p>
+<p>父亲八岁那年，爷爷又先后两次带着父亲一起到贵州土城去做生意。当时交通不便，只能走路，父亲跟着爷爷走了六、七天的路程才最后到了那里。爷爷给父亲找了个帮别人卖米粑的活儿，包吃包住，就又到别处做生意去了。过了一段日子，因为生意不好做，爷爷又带着父亲一起回家了。</p>
+<p>父亲九岁那年，爷爷的两个弟弟（即二爷三爷，他们都住永川陈食场）过来叫爷爷一家人搬到了陈食场。陈食场有一条大约两里路长的街道，住着几千人口，每逢赶场日都很热闹。爷爷一家就在陈食场租了一套房子，父亲也继续上起了小学。家里做起了生意，炸油条、麻花，收入还不错。有了一定积蓄后，家里改行奶奶织布、爷爷弹棉花，日子越过越红火。那是父亲感觉最幸福和快乐的一段时光。</p>
+<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/01%E5%85%A8%E5%AE%B6%E7%A6%8F1.jpg">占位文字：无图片时显示</a></p>
+<p>可好景不长，爷爷儿时的伙伴在贵州做生意回来，打听到爷爷做生意赚了钱，就千方百计地向爷爷吹嘘，说现在贵州的生意是如何的好做。爷爷经不住诱惑，不顾奶奶的反对再次前往贵州，并把几年积攒下来的积蓄全都投入了进去。过了一年多，爷爷回来了，听说他被合伙人算计，本钱全赔了进去。那时家里连房租都交不上了，父亲一家人只能搬到乡下的苏家院子去住。那年父亲已经十三岁。经人介绍，以包吃包住和一年另送一匹布的条件，父亲被叫到双河口一家中农人家放牛。父亲十五岁那年，国民党在陈食场抓壮丁，每家每户“三丁抽一、五丁抽二”。那时家里的实际情况是：二伯被送到了大娘家，父亲在双河口放牛，而幺爷还小，所以家里没男丁可抓。邻居了解到爷爷家吃了上顿没下顿的窘迫状况，就和爷爷商量，他有个条件比较好的亲戚家这次被抓了一个壮丁，想用三担谷子换我父亲去顶替他的位置。爷爷同意后，就到双河口把父亲叫回来，用三担谷子作为交换，把父亲卖给国民党当兵去了。</p>
+<p>父亲才进部队就去了宜昌桃坪村的一座山上作为新兵训练了半年，那里距离宜昌还有十多里路程。父亲当时在那里是年龄最小的，才去时很不习惯，每天五点出操训练，吃的是又稀又烫、里面掺杂着谷子、稗子和沙子的稀饭，还必须在五分钟之内吃完。父亲常常吃不饱，一天到晚训练却又累又饿，但却开始思念那生他养他的那个家，即使在家会过着朝不保夕的生活，即使家人用三担谷子卖了他。常言道，儿不嫌母丑狗不嫌家贫，亲情和血缘怎么也割舍不断母子之情。我父亲就这样日思夜想，终于有一天再也撑不住了，一头栽倒在地上昏死过去。战友们都以为父亲死去了。父亲的班长曹辉成是松溉人（和父亲一个县），叫了两个兵，把父亲抬到后山上，挖了一个坑，就把他扔了进去。然而，在落下去的一刹那，班长看见父亲动了一下，于是叫两个兵赶紧把父亲又抬了回去。经过这次生死的转变，父亲竟一天天恢复了精力，逐渐好转起来。</p>
+<p>后来父亲去了宜昌军队一三九师四一五团一营炮一排（迫击炮排），当兵就打日本人。部队驻扎在宜昌桃坪，一打就是一年多，一直和日本人对着干。四四年日本兵投降后，部队准备迁往北京，但到新乡后，就和八路军打起来了，每天从白天打到黑夜。父亲当时就不明白，日本侵略我国领土时，我国军民团结一心全民抗日，把日本人赶出了我国领土，而现在却是自己人打自己人，还不知何时是个头。于是父亲又开始想家，开始逃跑，但被其它国民党部队抓回去就是一顿毒打，几次被打后还是想家，于是又跑。一次被抓后，父亲被吊在楼梯上一顿毒打，还惨无人道地在右后肩被刺刀捅了一个洞。父亲惨叫一声，当时就昏迷过去了。由于伤口感染化脓，到现在还留下很大一块疤痕。</p>
+<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/%E5%A4%96%E5%85%AC%E7%9A%84%E4%BC%A4%E7%96%A4.jpg">占位文字：无图片时显示</a></p>
+<p>后来国民党部队撤退到西安驻防，解放军打过来后，部队辗转到四川绵竹。终于，父亲所在的部队在中江起义，叫父亲去开整编会。当时父亲并不了解解放军和国民党部队的性质是完全不一样的，由于四川离家近，父亲又思乡心切，便又往家跑。而这次，父亲轻松地就跑回了家。</p>
+<hr>
+<p>五零年九月回家后，由参加了地下党的二爸介绍，父亲当上了税务局的交易员，并于五一年二月正式转为财税局干部。后来财税分家后，父亲在财政局上班，工作稳定后结婚生子，养育了我们四个女儿。我们四姐妹出生在陈食场街上，从我记事以来就知道父亲每逢双休、节假日都要回家帮做家务。那个年代每家每户都是烧柴火，有一次父亲叫上大姐二姐，拿了几个生红苕，一人背了一个背筐，就到二郎山上找柴火。因路途遥远，天黑之后，他们才汗流浃背地拖着疲惫的身躯回到家里。又有时，父亲到作坊式的煤厂去挑煤，同样路途遥远，爬坡上坎都很是辛苦。</p>
+<p>在我十六岁那年，考虑到我们家庭成员分散，父亲单位的王局长就想办法帮忙让我们全家搬到永川县城，终于我们又能每天生活在一起，一直至今。</p>
+<p>父亲一直教导我们，要脚踏实地地做人，要成为一个正直、勤劳、善良的人。而他自己更是以身作则，工作认真负责，有着一丝不苟的工作态度。那时，父亲是单位企财股股长，管理着县里所有的国有企业。当时五金公司的自行车、缝纫机都需要他手上发放的票证才能买到，而我们家就需要这样的工具。母亲和姐姐们给他做工作想拿到票证，但他怎么都不给。他说，我是党员，国家有制度，有比我们家更需要的人，只有他们才能得到。</p>
+<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/2017%E5%A4%96%E5%85%AC%E7%85%A712.jpg">占位文字：无图片时显示</a></p>
+<p>我父亲现在已是九十高龄，还每天坚持锻炼，也喜欢观看新闻，关心国家大事。同时，他也对女儿们关怀备至，呵护有加，每个子女都是他老人家的心头肉。在我五十岁那年，我生了一场大病，我知道，我就是父亲最心疼、最牵挂的人。常言道，“皇帝爱长子，百姓爱幺儿”，他鼓励我要坚强，教会了我他多年来积累下来的战胜病魔有丰富经验的养生之道，让我受用至今。最最让我感动的是他跟我说的一句简单而朴实的话：“你健康比我强”。</p>
+<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/2017%E5%A4%96%E5%85%AC%E7%85%A754.jpg">占位文字：无图片时显示</a></p>
+<p>这就是我那无私奉献的父亲。有老有小你手里捧着孝顺，再苦再累你脸上挂着温馨。生活的苦涩有三分，你却吃了十分。这辈子做你的女儿我没有做够，央求你下辈子还做我的父亲。</p>
+<p>小女儿：王次娟<br>2017年10月1日</p>
 ]]></content>
       <categories>
         <category>生活 life</category>
@@ -1032,6 +1013,25 @@ print(sum)
 <li>今年为家人做的最自豪的事有两件。一是添置了冰箱、手机、放音机、皮带等众多物件，并且成功让父母感受到网购的物美价廉，为以后继续为父母网购打下了良好的基础[偷笑.jpg]儿子游于远方，能为父母尽量做点什么，都是幸福的。二是长久以来怂恿老妈记录下外公往事的行为终于有了实质性收获，经过老妈的多次采访和总结，形成了《关于父亲的故事》手稿。考完注册后，我将其整理上网，让其他亲人们也能看到。老妈说，姨们是不能多看的，因为小时候家里苦，看时会想起年少时的经历，想起小时候父母们为自己所做的一切。倒是外公，讲起这些经历时，尤为平淡。这是他和他们那辈人的青春岁月，无论苦痛或是欢乐，如今都成为心中不可磨灭的一部分，时光让他们已经能坦然面对。就像《芳华》结束后，大厅回荡着片尾曲《绒花》，眼角出现一对老人，面带微笑地等待着字幕结束，不急不慌。</li>
 </ul>
 <p>愿现在的我们，心中能涌起激流；愿多年后的我们，能毫不费力地拾起如今这段芳华。</p>
+]]></content>
+      <categories>
+        <category>生活 life</category>
+      </categories>
+      <tags>
+        <tag>家庭 family</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021春节提笔-家的回忆</title>
+    <url>/2021/02/2021_01_spring%20festival/</url>
+    <content><![CDATA[<p>离上次发日志，已经三年。<br>每年年末，都有小伙伴催更，现在可以继续写写什么了。平时基本不看电影，但用一部电影作为宣告年终结束的仪式成为了惯例。16年是《珍珠港》，17年是《芳华》，今年是《阳光普照》。喜欢这部电影没有特别复杂的原因，只因为看到一个家庭的命运起伏。大家从不知道如何表达爱，到在经历种种曲折后逐渐相互理解，到最后互相搀扶着勇敢生活，让我有代入感。往年阖家团圆，今年身在异地，由此，也更加的想家。</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=1&id=82922082&auto=1&height=32"></iframe>
+
+<a id="more"></a>
+
+<p>现存最早的记忆大概2-3岁，在矮破的“老小学”职工宿舍2楼，一个黑魆魆的小屋，房屋结构早已没有了印象。那时的事，还记得两个场景。<br>一个是在门外走廊，爸爸在上班前做好一碗醪糟汤圆放在我身前的小桌上，很烫，而我坐在小凳上，大口哈着气，一边吃一边目送父亲远去。对南方人，汤圆是比饺子更有家的寓意的存在，毕竟团团圆圆。小时候多做醪糟汤圆，因为白面搓条掐块后直接下锅煮，省事，但过节总会吃包心汤圆，外婆每年精心制作完汤圆馅儿后分给各家，那种味道至今怀念。<br><img src="https://i.loli.net/2021/02/15/vfn6gSTP2REorZ3.jpg" alt="01_阳台.jpg"><br>另一个是妈妈给我唱童谣。记忆最早的一首叫《宝贝》。之前一直不知道这首歌的确切名字，只记得旋律和一部分歌词。去年底某天跑步时突然想起了这首歌，给妈妈发微信询问，妈妈唱了出来，熟悉、亲切、又让我激动。上网查，是一首印尼童谣。原版歌词是一位母亲唱给孩子等待参军的父亲归来：<br><em><code>“宝贝，你爸爸正在过着动荡的生活，他参加游击队打击敌人哪我的宝贝，他参加游击队打击敌人哪我的宝贝……”</code></em><br>妈妈唱出来的歌词更接地气，可能因此我才能依稀记到现在。<br><em><code>“宝贝，你爸爸正在工厂上班班，你妈妈正在家里给你做饭饭，你妈妈正在家里给你做饭饭……”</code></em><br>温柔朴实的歌，应该传唱下去，是吧 [微笑.jpg]<br><img src="https://i.loli.net/2021/02/15/ShZFLDBGRMuklgE.jpg" alt="02_100天合影.jpg"><br>没住多久，我们搬到了一栋60多平米的家属楼，和婆婆（北方叫“奶奶”）爷爷生活在一起。婆婆以前是小学教师，我从小的家庭知识教育大部分来自于她。<br>家里留存着小时候婆婆辅导我练字的方格本，一天一篇小楷，我写完后她会用红色笔在字旁批改，画一个圈表示写得好，两个圈就是非常好，最多是三个圈。打完圈后，婆婆会让我把每天的圈加和，看看是不是比之前的圈多，以此鼓励我不断进步。家里也有一块小黑板，藏在进门的门后，那是属于我的写字和画画的地方，擦擦写写画画，凝聚了我童年的快乐。<br><img src="https://i.loli.net/2021/02/15/zxknDqyd1J47b9B.jpg" alt="03_小黑板.jpg"><br>婆婆爷爷也教我劳作。每周休息日，我们会把家里整个打扫一遍，他们教我门缝要如何擦干净，凳子不要只擦表面还要擦平常看不见的底部，等等。待我长大一些，则教我如何用火花枪点燃灶火，如何做蛋炒饭、番茄炒蛋，而后则是如何用电饭锅、高压锅。每天放学后等到6点爸妈下班，我会从米桶里蒯出2小盅生米，用水淘过之后倒进电饭锅，而后小心翼翼地一边加水一边用手指触及米粒顶部，通过指节的深度来度量水量是否合适，等到电饭锅跳膛保温5分钟之后再拔插头，以防变硬烧糊。<br>后来我到市区读高中，有的生活技能用得少了，但每每想起，还是会感念家应该是什么样子。<br><img src="https://i.loli.net/2021/02/15/yCDWTijlceFBKa9.jpg" alt="04_全家福.jpg"><br>好几次朋友们问我，小时候家里人对我是不是很严厉？认真回忆后，记起来几件：<br>一次小学期中考试，爸爸说如果我考到98分就带我去歌乐山烈士陵园参观，但我语文只考了95分。回家找爸爸签字，爸爸严厉地批评我，参观的事儿自然没了着落，我豆大的泪珠立马流了下来。<br>一次小学交作业，身为自然课代表的我在报作业时错把数学作业本交了上去，导致数学作业无法上交，回家也没有找到作业本，于是得到了爸爸的毛巾伺候。<br>还有一次听妈妈和叔姨们说，爸爸为了让我喝粥，拿着针管状物对我说“吃饭还是打针？”当然我又流下了豆大的泪珠，而后含泪喝下了一碗滚烫的粥。他们说，从此以后我就不喜欢喝粥了，确实直到现在也是如此。<br>大致上了初中，那时我们已和婆婆爷爷分开住，每周六日我都会过去看望他们。有次市里的野生动物世界开园，我没有向婆婆爷爷请假就和大人去玩了，回来受到了批评：人不能言而无信，约定的事就要照做。婆婆爷爷平时对人和蔼，但这次非常严厉，让我印象很深。</p>
+<p>温暖的时候也很多。<br>小学时，爸妈偶然间发现我喜欢音乐，据说，邻居小姐姐在弹钢琴时，我会站在邻家门前仔细地听，所以某一天，妈妈给我带回一架玩具电子琴以满足我的好奇心。等妈妈做完饭后，听到的却是我靠记忆中的旋律摸索着弹出的《世上只有妈妈好》。这事我是记不得了，但听起来挺幸福的。<br><img src="https://i.loli.net/2021/02/15/YOlrRJwgxabi1yk.jpg" alt="05_电子琴.jpg"><br>家里有一台大录音机，当时叶倩文的《潇洒走一回》很火，我也学着在唱，爸爸妈妈就帮我录了下来，录着录着还全家一起唱。那是我小时候录下的第一首歌，录歌的欢乐场景现在还依稀记得。<br>南方很难下雪。难得有一年家乡下雪，下班回来的妈妈把小菜板拿下楼，拿上来时菜板上居然立着一个小雪人，我万分惊喜。我还说要不把雪人冻在冰箱里怕化掉，真傻，哪能一直冻着。<br>记忆中，我喜欢跨坐在爸爸肩背被举高高，这样就能看到更远的地方；也喜欢坐在爸爸妈妈自行车后座，靠在他们后背看旁边移动的风景。所以到《阳光普照》结尾的镜头，我会很喜欢：小时候是妈妈载小儿子，而小儿子长大后载着妈妈沿着小路穿行，看着阳光透过树缝洒下的斑驳光影，一切是久别重逢，又透着对重生后的未来生活的希望。<br><img src="https://i.loli.net/2021/02/15/S3ZEpwOjldBrF6I.jpg" alt="06_抱高.jpg"><br>上了高中，和家的物理距离远了，和家里的心理距离也确实远了。这段时间，家里发生了一些变化，有着清晰印象的场景不多。我知道妈妈身体有恙，后来不经营服装了。我知道爸爸每月会抽空到学校带我吃喜欢的鱼火锅或者干锅，又带我去解放碑看正在修建的摩天楼。后来爸爸在重庆开了一家小饭馆，我去过一次，香气扑面。爸爸挺忙碌，我没待多久。<br><img src="https://i.loli.net/2021/02/15/M6gTq2AiKV1YSZX.jpg" alt="07_高考后.jpg"><br>高考前，爸爸妈妈带着鸡汤过来我在学校外的出租房，陪我度过了考前最后的一夜，而后有一天班主任打电话说我的分数，爸爸妈妈都挺高兴，因为可以上清华了，只有爷爷还是想我去同济，因为上海是他几十年前生活过的地方，那里还有兄弟姐妹。爷爷离家几十年，还是切不断和家乡的联系，现在我很能理解。再过3年，我在北京待的年份就要超过家乡，但家乡还有那么多亲人，那么多熟悉的街道和场景，那么亲切的乡音，怎么能割舍，怎么会忘记。<br>某年回家，突然发现家搬到了城市新区，妈妈说，前一年全家散步路过这里时听我说这栋房子好看，正好家里也打算搬离原来的地方，就过来了。对我而言，除了居住环境的改善，也象征着走出了生活了20年的厂区家属院。最近几年，厂区经历了城市改造，曾经和婆婆爷爷一起住过的楼已经拆除，不见了阳台上栽种的云竹、兰草、昙花、金桔、朱顶红、蟹爪兰；曾经从学前班到初中就读十年的厂区子弟校被划归地方，那条上学放学的路，距离不远但总是走得很长，只因为路边的三角粑、炸土豆、烤豆干、锅巴虾条和干脆面。可能下一代不会立即理解我们对于这些事物的情感，就像我当年也不理解老一辈人说到建厂时在主干道两旁栽下的参天大树时的自豪，而现在的我，已经完全理解了。<br><img src="https://i.loli.net/2021/02/15/UIte17yZTv3gWQ5.jpg" alt="08_花花草草.jpg"><br>和父母关系的重新拉近是从研三下学期开始。那时，妈妈病情有了反复，我忧心忡忡，后来病情得到了控制，但每隔一两天通一次的亲情电话，我不再觉得枯燥。几年里每次通话，爸妈无非是问“晚饭是在食堂吃的么”、“最近工作忙不忙”、“有没有吃水果”，而我则是问“家里晚饭吃的啥”、“今晚吃完饭出不出去走路”。说到生活，妈妈会跟我分享她与各种人相处时感到的舒服或者不自然的地方，要我真诚对人；说到工作，爸爸则经常说画图要仔细，钢筋稍微多配几根，安全系数留大一些，要我认真做事；说到健康，我则总是提醒他们要注意荤素搭配，吃东西不要太节俭，喜欢吃什么就去买什么。给妈妈买手机时，选的是和我同款，想的是如果有什么妈妈不懂的操作，我能更方便地告诉她。买电扇时，考虑的是力求静音，这样妈妈睡觉就更不会被噪音打扰，哪怕能多一刻入睡也值得。发现用手环监测身体数据很方便，就给爸爸也买了一个，却阴差阳错地让他在不骑自行车十几年后重新捡起了这个技能，有时周六日骑行几十公里好不惬意，然后把手环记录的路线发上朋友圈，我能感受到他的成就感。上次回家跟着爸爸上山和绕城一圈，也骑过了他上班时的路线。大多数时候都是他带路，我跟在他后面，好像和小时候那个坐在他身后的小男孩一样，被稳稳地载向前方。<br>在亲情里，没有三年之痛，没有七年止痒。诚然，我习惯了报喜不报忧，谁又能说他们不是如此。只是在大事上，我们沟通充分，一家人共同进退，就好。等过阵子爸爸退休了，看他们意愿，如果不想搬来北京，至少也要每年过来一段时间，以北京为中心，一家人在周边逛逛。18年在北京游览的情景还历历在目，那是多么开心和温暖的时光。我们许过去内蒙看美景的愿望，夏天一望无际的碧绿的草原，或是秋天漫山遍野的金黄的胡杨林。不同于小时候散步时我常走在中间，此时我会畅想，草原上的一家子，妈妈在中间，左手挽着爸爸，右手挽着我，在柔和的夕阳的微光下，一起憧憬着更美好的未来。<br><img src="https://i.loli.net/2021/02/15/mbwIJDrQl3ocBhk.jpg" alt="09_游览北京.jpg"><br>今年春节没有回家，记忆中以前只有研一去澳洲访学时有过这样的经历。我在北京，大年初一一早，依然如往常在家，一碗汤圆加一个半熟的鸡蛋，然后出门。今年不能和他们一起去乡下和陵园里拜祭逝去的亲人，只能由父母代我向先祖们汇报过往一年的成绩，再许下对新的一年的愿望。今年的生活预计会有挺多新变化，多了蛮多新愿望，最近也得到了很多亲人、朋友的帮助，很感谢帮助我们实现愿望的各位亲友们。相信这些愿望都会实现，相信生活一定会过得越来越好，也祝愿所有的家庭，新的一年里都万事顺意，幸福平安！</p>
+<p>2021.2.15 firework @ Beijing</p>
 ]]></content>
       <categories>
         <category>生活 life</category>
