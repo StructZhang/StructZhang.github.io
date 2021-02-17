@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>mark一篇新发的sci</title>
+    <url>/2016/10/2016-04-a-new-sci/</url>
+    <content><![CDATA[<p>冯老师告知，一篇新发的sci在官网上已公开。虽是承袭于硕士期间研究成果，但也让我完成了一年发表一篇文章的目标。mark一下。</p>
+<a id="more"></a>
+
+<h1 id="关于研究内容"><a href="#关于研究内容" class="headerlink" title="关于研究内容"></a>关于研究内容</h1><p>这篇文章是硕士研究成果的总结，在毕业后进行整理深化和翻译的基础上在近期发表。首先感谢冯老师对我研究工作的指导和帮助，以及两位师弟师妹先后参与其中所做的贡献。<br>PDF下载地址：<a href="http://www.sciencedirect.com/science/article/pii/S0263823116303160">点此打开网页后可选择下载PDF</a><br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/20161028_a_new_sci/thin-walled.PNG" alt="cover of thin-walled structure"></p>
+<p>我的硕士研究的课题是“FRP抗屈曲加固轴压钢构件的研究”，研究手段是试验+理论分析+有限元模拟：</p>
+<ul>
+<li>力学行为研究：通过试验验证“外套FRP套管+内填砂浆”[1]和“内填竹材外包FRP纤维布”[2]两种方法对抗屈曲加固钢构件的有效性；</li>
+<li>力学机理研究：通过理论分析和有限元模拟研究加固机理，拓展常规试验所涉及不到的参数分析范围；</li>
+<li>应用技术研究：基于以上研究成果，提出FRP抗屈曲加固钢构件的设计方法。</li>
+</ul>
+<p>[1] 砂浆试验文章： <a href="http://or.nsfc.gov.cn/bitstream/00001903-5/73262/1/1000004726746.pdf">Feng Peng, Zhang Yanhua, Bai Yu, et al. 2013. Strengthening of steel members in compression by mortar-filled FRP tubes[J]. Thin-Walled Structures, 64(3): 1-12. </a><br>[2] 竹材试验文章：<a href="https://www.researchgate.net/publication/263126210_Combination_of_Bamboo_Filling_and_FRP_Wrapping_to_Strengthen_Steel_Members_in_Compression">Feng Peng, Zhang Yanhua, Bai Yu, et al. 2013. Combination of bamboo filling and FRP wrapping to strengthen steel members in compression[J]. Journal of Composites for Construction (ASCE), 17(3): 347-356. </a></p>
+<p>研究相关成果会编入即将发布的<a href="http://wenku.baidu.com/link?url=PgQAUB-Bv2YuPRJ7GUBfq4UFro999Z-ZaMLkiBNe0L6G2x5TT8-Za5LZtbeUZ6WHTa-DNBv6c-Sxt_0MYyhxv1IMja6IeC8Wp5yn0055OXC">《纤维增强复合材料加固钢结构技术规程》</a>的相关章节,从而转化到工程实际应用中。</p>
+<h1 id="一些感受"><a href="#一些感受" class="headerlink" title="一些感受"></a>一些感受</h1><ul>
+<li>冯老师在课题组QQ群里说，“发表了一篇重要的论文”，不管研究本身的意义，但至少让我硕士阶段的研究更加完整。如果说本科阶段更多的是学习知识，硕士阶段则是创造知识，尤其是毕业后的现在，回顾时更能感受到这种差别。我想，无论研究成果是否足够好，既然有一点真实的成果，就可以和大家分享。好则传播，为别人的研究提供新思路，不够好则聆听同行的批评指点，以弥补缺失更进一步。</li>
+<li>通过对计算机行业的接触，我真切地感受到“分享”在不同行业内的差异。计算机行业的热门不是偶然，内因是基于它和各行各业联系的紧密性，这给它带来了广泛的改变世界的能力。许多有想象力和野心的人的加入，带动了这个行业充满活力，不管在知乎还是stackoverflow，总能看到很多程序员的讨论和互动。联想到曾经的网易结构论坛和okok钢结构论坛，曾经的繁荣时期恰好是在基础建设火热时期。而今，前者随网易终止论坛服务而终结，后者的发帖量也早已大不如前。并不是有疑问的人少了，总是有新人到来，而是愿意分享的人不再活跃了。毕竟经济基础决定上层建筑，当行业不再景气，愿意分享的氛围也会不复存在，反过来行业加速前进的动力自然受到影响。</li>
+<li>但我仍是看好“分享”的。在分享过程中会有自己的总结和沉淀，会有别人的反馈和带来的再思考，这会提升个人战斗力。同时，结识一批有同样技术水平或思想的人，更让我们有可能形成集群战斗力。很多问题不是靠一个人闭门造车就能解决了，如何发现和组建合适的团队，得靠每个人的分享自我。从朋友圈到知乎到stackoverflow，从分享日常琐碎到分享生活经验和专业经验，分享不一定偶遇，但不分享就一定不会相逢。</li>
+</ul>
+<p>所以，开始分享吧，从我做起，从现在做起：）</p>
+]]></content>
+      <categories>
+        <category>结构 struct</category>
+      </categories>
+      <tags>
+        <tag>清华 Tsinghua</tag>
+        <tag>文章 paper</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2016/10/2016_01_hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<a id="more"></a>
+
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>computer</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>教程 course</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Markdown 常用语法 - for hexo</title>
     <url>/2016/10/2016_02_syntax_of_markdown/</url>
     <content><![CDATA[<p>以hexo为平台，介绍适合于本网站的markdown的常用语法。</p>
@@ -133,121 +187,6 @@ print(sum)
       </tags>
   </entry>
   <entry>
-    <title>mark一篇新发的sci</title>
-    <url>/2016/10/2016-04-a-new-sci/</url>
-    <content><![CDATA[<p>冯老师告知，一篇新发的sci在官网上已公开。虽是承袭于硕士期间研究成果，但也让我完成了一年发表一篇文章的目标。mark一下。</p>
-<a id="more"></a>
-
-<h1 id="关于研究内容"><a href="#关于研究内容" class="headerlink" title="关于研究内容"></a>关于研究内容</h1><p>这篇文章是硕士研究成果的总结，在毕业后进行整理深化和翻译的基础上在近期发表。首先感谢冯老师对我研究工作的指导和帮助，以及两位师弟师妹先后参与其中所做的贡献。<br>PDF下载地址：<a href="http://www.sciencedirect.com/science/article/pii/S0263823116303160">点此打开网页后可选择下载PDF</a><br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/20161028_a_new_sci/thin-walled.PNG" alt="cover of thin-walled structure"></p>
-<p>我的硕士研究的课题是“FRP抗屈曲加固轴压钢构件的研究”，研究手段是试验+理论分析+有限元模拟：</p>
-<ul>
-<li>力学行为研究：通过试验验证“外套FRP套管+内填砂浆”[1]和“内填竹材外包FRP纤维布”[2]两种方法对抗屈曲加固钢构件的有效性；</li>
-<li>力学机理研究：通过理论分析和有限元模拟研究加固机理，拓展常规试验所涉及不到的参数分析范围；</li>
-<li>应用技术研究：基于以上研究成果，提出FRP抗屈曲加固钢构件的设计方法。</li>
-</ul>
-<p>[1] 砂浆试验文章： <a href="http://or.nsfc.gov.cn/bitstream/00001903-5/73262/1/1000004726746.pdf">Feng Peng, Zhang Yanhua, Bai Yu, et al. 2013. Strengthening of steel members in compression by mortar-filled FRP tubes[J]. Thin-Walled Structures, 64(3): 1-12. </a><br>[2] 竹材试验文章：<a href="https://www.researchgate.net/publication/263126210_Combination_of_Bamboo_Filling_and_FRP_Wrapping_to_Strengthen_Steel_Members_in_Compression">Feng Peng, Zhang Yanhua, Bai Yu, et al. 2013. Combination of bamboo filling and FRP wrapping to strengthen steel members in compression[J]. Journal of Composites for Construction (ASCE), 17(3): 347-356. </a></p>
-<p>研究相关成果会编入即将发布的<a href="http://wenku.baidu.com/link?url=PgQAUB-Bv2YuPRJ7GUBfq4UFro999Z-ZaMLkiBNe0L6G2x5TT8-Za5LZtbeUZ6WHTa-DNBv6c-Sxt_0MYyhxv1IMja6IeC8Wp5yn0055OXC">《纤维增强复合材料加固钢结构技术规程》</a>的相关章节,从而转化到工程实际应用中。</p>
-<h1 id="一些感受"><a href="#一些感受" class="headerlink" title="一些感受"></a>一些感受</h1><ul>
-<li>冯老师在课题组QQ群里说，“发表了一篇重要的论文”，不管研究本身的意义，但至少让我硕士阶段的研究更加完整。如果说本科阶段更多的是学习知识，硕士阶段则是创造知识，尤其是毕业后的现在，回顾时更能感受到这种差别。我想，无论研究成果是否足够好，既然有一点真实的成果，就可以和大家分享。好则传播，为别人的研究提供新思路，不够好则聆听同行的批评指点，以弥补缺失更进一步。</li>
-<li>通过对计算机行业的接触，我真切地感受到“分享”在不同行业内的差异。计算机行业的热门不是偶然，内因是基于它和各行各业联系的紧密性，这给它带来了广泛的改变世界的能力。许多有想象力和野心的人的加入，带动了这个行业充满活力，不管在知乎还是stackoverflow，总能看到很多程序员的讨论和互动。联想到曾经的网易结构论坛和okok钢结构论坛，曾经的繁荣时期恰好是在基础建设火热时期。而今，前者随网易终止论坛服务而终结，后者的发帖量也早已大不如前。并不是有疑问的人少了，总是有新人到来，而是愿意分享的人不再活跃了。毕竟经济基础决定上层建筑，当行业不再景气，愿意分享的氛围也会不复存在，反过来行业加速前进的动力自然受到影响。</li>
-<li>但我仍是看好“分享”的。在分享过程中会有自己的总结和沉淀，会有别人的反馈和带来的再思考，这会提升个人战斗力。同时，结识一批有同样技术水平或思想的人，更让我们有可能形成集群战斗力。很多问题不是靠一个人闭门造车就能解决了，如何发现和组建合适的团队，得靠每个人的分享自我。从朋友圈到知乎到stackoverflow，从分享日常琐碎到分享生活经验和专业经验，分享不一定偶遇，但不分享就一定不会相逢。</li>
-</ul>
-<p>所以，开始分享吧，从我做起，从现在做起：）</p>
-]]></content>
-      <categories>
-        <category>结构 struct</category>
-      </categories>
-      <tags>
-        <tag>清华 Tsinghua</tag>
-        <tag>文章 paper</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2016/10/2016_01_hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<a id="more"></a>
-
-<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>computer</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>教程 course</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于今天的乐理课-首调唱名法</title>
-    <url>/2016/10/2016_03_movable_do/</url>
-    <content><![CDATA[<p>从小一直学简谱，高中音乐课才有机会进行粗略的五线谱学习，仅限于能把谱和键盘对应。大四入团到现在已经6年，4任指挥对选用首调还是固定调的看法不尽相同，但根据这几年的实践，我觉得首调更适合自己，就一直用的首调。我是反对不加前提的坚持固定调一定优于首调的。<strong>教育一定要因材施教，要充分分析知识以及接受知识的人的特点</strong>，这也是合唱学习的重要前提。就团内近年来接触的绝大多数合唱曲目的特点以及每年新入学团员的特点来看，<strong>用首调唱名法进行合唱视唱是更容易被接受和更有效率的</strong>。</p>
-<a id="more"></a>
-
-<hr>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>上周参加排练发现新团员识谱不太顺，就和钧哥商量承担了讲乐理的任务，首要想法是尽快让新团员识谱上路，让他们有获得新知识以及顺畅排练的快感，而学习首调无疑是我的第一反应。<br>在此首先感谢邓指的几堂合唱普及讲座打下的基础，同时感谢晓光毫不犹豫地录制示范音频，这才有了讲座的《ave maria》案例。以下自由下载：</p>
-<p>素材1：<a href="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture_2.pptx">乐理ppt - 首调唱名法</a><br>素材2：<a href="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture_Ave%20Maria%20-%20%E8%83%A5%E6%99%93%E5%85%89%E7%A4%BA%E8%8C%83.rar">彩蛋 - ave maria 示范 by 胥晓光</a></p>
-<h1 id="识谱缓慢的原因分析"><a href="#识谱缓慢的原因分析" class="headerlink" title="识谱缓慢的原因分析"></a>识谱缓慢的原因分析</h1><p>有了钧哥上周的五线谱教学基础，这次教学首先揭示造成识谱缓慢的原因之一：升降号的困扰。揣摩五线谱初学者的识谱过程：</p>
-<ul>
-<li>观察调号，记住#/b所在线或间（及可能出现的上下8度的位置）</li>
-<li>观察各音符是否出现在这些线间（若出现较多，随机概率直接崩溃）</li>
-<li>勤奋的初学者，可能会在需要升降的音符旁标记升降号</li>
-<li>视唱过程中，需常看行首调号回顾#/b位置</li>
-</ul>
-<p>其中，第2点造成<strong>心理上</strong>的恐惧，第4点造成<strong>视觉上</strong>的时间耗费，而对升降号音程变化的判断造成<strong>脑力上</strong>的时间耗费——如：到底是大三度还是小三度？<br>如果像简谱一样，通过类似1=？的声明，使得谱面尽量减少甚至不出现升降记号，则可消除上述困难，将线谱位置和最为熟悉的自然音阶相对应。<br>例如：《ave maria》的第一行：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/ave_maria_line1.PNG" alt="《ave maria》第一行"><br>用固定调，则为:<br>2 - 3 #4 | #4 - 3 - | 3 - #4 5 | 5 - #4 - | 6 - 5 #4 | 7 - 6 2 |<br>用首调，则为：（1=D）<br>1 - 2 3 | 3 - 2 - | 2 - 3 4 | 4 - 3 - | 5 - 4 3 | 6 - 5 1 |<br>无疑，首调更能被初学者所接受。</p>
-<h1 id="如何应用首调唱名法"><a href="#如何应用首调唱名法" class="headerlink" title="如何应用首调唱名法"></a>如何应用首调唱名法</h1><p>总结为以下步骤：<strong>定调号-&gt;熟音程-&gt;标难点</strong>，其中的关键在于判断调号。</p>
-<h2 id="1-定调号"><a href="#1-定调号" class="headerlink" title="1) 定调号"></a>1) 定调号</h2><h4 id="我的记忆方法是："><a href="#我的记忆方法是：" class="headerlink" title="我的记忆方法是："></a>我的记忆方法是：</h4><p>先从带#的线谱入手：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/%E5%8D%87%E5%8F%B7.PNG" alt="带#的线谱"></p>
-<ul>
-<li>先观察带#的规律：1-7个#依次对应G-D-A-E-B-#F大调，为了记忆字母顺序，我会把它们两两归为一组后组词。例如对我来说，GD发音像基地（是我读书时所在办公室的别称），AE是我常用的一款视频后期特效制作软件，BF是BoyFriend的缩写。从此前了解的“快速记忆法”的技巧来看，<a href="http://tieba.baidu.com/p/4774264447">词组构成的故事越离奇越容易被记住</a>，每个人都可以找到自己印象最深刻的词组，甚至编出一个故事。极端例子是形成了<strong>“搞定(GD)-阿姨(AE)-男朋友(BF)”</strong>的记忆暗语。 -_-|||</li>
-<li>对带#的谱号，只有F前有#。<br>例如：对带5个#的线谱，按正数GDAE(B)F，且不带#，可知为B大调。</li>
-</ul>
-<p>而对带b的线谱就简单了：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/%E5%8D%87%E5%8F%B7.PNG" alt="带b的线谱"></p>
-<ul>
-<li>将带#时的次序反过来形成F-B-E-A-D-G即可。</li>
-<li>对带b的谱号，只有F前没有b。<br>例如：对带3个b的线谱，按倒数3字符的GDA(E)BF，且需带b，可知为bE大调。</li>
-</ul>
-<h4 id="如果熟练，也可以用传统的记忆方法："><a href="#如果熟练，也可以用传统的记忆方法：" class="headerlink" title="如果熟练，也可以用传统的记忆方法："></a>如果熟练，也可以用传统的记忆方法：</h4><ul>
-<li>对带#的谱号，<strong>最后一个#所在的地方升高半音则为1</strong></li>
-<li>对带b的谱号，<strong>1个b为F，2-7个b时：倒数第二个b所在的地方为1</strong><br>例如：</li>
-<li>对带1个#的线谱，#在第五线，对应的音为#F，再升高半音则为G，因此是G大调。</li>
-<li>对带7个#的线谱，最后一个#所在的音为#E，亦即F，再升高半音则为#F，因此是#F大调。</li>
-<li>对带3个b的线谱，b在第四间，对应的音为bE，因此是bE大调。</li>
-</ul>
-<p>每个人可以选择适合自己的记忆方法。</p>
-<h2 id="2-熟音程"><a href="#2-熟音程" class="headerlink" title="2) 熟音程"></a>2) 熟音程</h2><p>确定调号后，找到和1最相关的3个音：3-5-h1（h-high代表高音，l-low代表低音，下同），可发现如下规律：<br><strong>1为线时：3和5为与之相邻的线，h1为间</strong>，如：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/C-123h1.png?imageView2/3/w/200/h/100/q/90" alt="C调135h1"><br><strong>1为间时：3和5为与之相邻的间，h1为线</strong>，如：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/D-123h1.png?imageView2/3/w/200/h/100/q/90" alt="D调135h1"><br>以上规律有助于判断大部分相邻音符间的相对音程关系，从而通过上一个音的音高得知下一个音的音高。</p>
-<h2 id="3-标难点"><a href="#3-标难点" class="headerlink" title="3) 标难点"></a>3) 标难点</h2><p>通过试唱可发现影响连贯识谱的个别位置。它们可能是：</p>
-<ul>
-<li>超过4度的大跳音程</li>
-<li>有临时升降号的地方</li>
-<li>遇到除第2节以外的大音程<br>解决办法是：（以下节《ave maria》曲谱为例）</li>
-<li>大跳音程中是否存在熟悉的音程：如第1行最后一小节的5-1和第2行第2小节的1-5。</li>
-<li>找出这些音与相邻音之间的过渡音：如第3行第1小节从high1-3，通过high1-5-3来作为过度。</li>
-<li>找出这些音与附近音可能存在的同音关系：如第4行第3小节，第1个音和第4个音都是low7，基于刻意的短期记忆可直接唱出后一个low7。</li>
-</ul>
-<p>通常经过上面3个步骤，能基本实现连贯识谱。</p>
-<h1 id="实践"><a href="#实践" class="headerlink" title="实践"></a>实践</h1><p>你能顺利唱下这首《ave maria》么？<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/ave_maria_hint.png" alt="《ave maria》"></p>
-<h1 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h1><p>每次学习新的合唱曲目前，团员应做好预习工作，至少识完自己声部的谱。</p>
-<h1 id="讨论"><a href="#讨论" class="headerlink" title="讨论"></a>讨论</h1><h3 id="1-既然学习首调有利于识谱，那么为什么不直接使用简谱，难道不是简谱对应首调，五线谱对应固定调？"><a href="#1-既然学习首调有利于识谱，那么为什么不直接使用简谱，难道不是简谱对应首调，五线谱对应固定调？" class="headerlink" title="1. 既然学习首调有利于识谱，那么为什么不直接使用简谱，难道不是简谱对应首调，五线谱对应固定调？"></a>1. 既然学习首调有利于识谱，那么为什么不直接使用简谱，难道不是简谱对应首调，五线谱对应固定调？</h3><p>待补充</p>
-<h3 id="2-听说音乐学院多用固定调，而不提倡首调？"><a href="#2-听说音乐学院多用固定调，而不提倡首调？" class="headerlink" title="2. 听说音乐学院多用固定调，而不提倡首调？"></a>2. 听说音乐学院多用固定调，而不提倡首调？</h3><p>待补充</p>
-<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><p>待补充</p>
-]]></content>
-      <categories>
-        <category>音乐 music</category>
-      </categories>
-      <tags>
-        <tag>师生合唱团 cecm chorus</tag>
-        <tag>乐理课 music theory</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>a brand new CHORUS VI</title>
     <url>/2016/11/2016_05_a_brand_new_CHORUS_VI/</url>
     <content><![CDATA[<p>今天是6字班合唱团新团员入团仪式的日子。一个月的相处，我仿佛看到了全新的黄金一代正在努力成长，团里正处在新一轮上升期，老团员们得努力一下，再添一把火。</p>
@@ -361,75 +300,64 @@ print(sum)
       </tags>
   </entry>
   <entry>
-    <title>base design of hd</title>
-    <url>/2016/11/2016_06_base_design_of_hd/</url>
-    <content><![CDATA[<p>第一个参与基础设计的HD项目和正在做的hd项目拼音简称相同。做HD的桩基和筏基时写了很多总结，成为了往后做项目的很好的参考。今天做hd基础，大致了解了它的脾气，有收获。</p>
+    <title>关于今天的乐理课-首调唱名法</title>
+    <url>/2016/10/2016_03_movable_do/</url>
+    <content><![CDATA[<p>从小一直学简谱，高中音乐课才有机会进行粗略的五线谱学习，仅限于能把谱和键盘对应。大四入团到现在已经6年，4任指挥对选用首调还是固定调的看法不尽相同，但根据这几年的实践，我觉得首调更适合自己，就一直用的首调。我是反对不加前提的坚持固定调一定优于首调的。<strong>教育一定要因材施教，要充分分析知识以及接受知识的人的特点</strong>，这也是合唱学习的重要前提。就团内近年来接触的绝大多数合唱曲目的特点以及每年新入学团员的特点来看，<strong>用首调唱名法进行合唱视唱是更容易被接受和更有效率的</strong>。</p>
 <a id="more"></a>
 
-<h1 id="选型"><a href="#选型" class="headerlink" title="选型"></a>选型</h1><ul>
-<li>根据建筑图估算基底标高：约-12m</li>
-<li>找到±0，看地质剖面图获得地层分布，找到基底标高所处地层情况：基底以下依次为2m粉土层（140kPa），&gt;8m的卵石层（400kPa）</li>
-<li>查看地勘的建议：1、基地处理（素土挤密桩）后做天然基础；2、桩基：参考周边已有建筑。但电话沟通后得知，卵石层中频现粉土夹层，因此地勘建议不用卵石层作为端承桩持力层，建议做摩擦桩；</li>
-<li>主楼f12+b3层，最大柱底反力约15000kN，若摩擦桩则桩长较长，不经济。同时考虑到可能的粉土夹层，因此考虑选择筏基以避免局部恶劣地基。</li>
-<li>查看地质剖面图，地质剖面均匀平稳，同时基底标高统一，有利于筏基。以下通过验算地基承载力及沉降，证实了筏基的可行性，得以最终选用。</li>
-</ul>
-<h1 id="地基承载力计算"><a href="#地基承载力计算" class="headerlink" title="地基承载力计算"></a>地基承载力计算</h1><p>《建筑地基基础设计规范GB50007-2011》观察深宽修正公式5.2.4：<br>【图】<br>基底标高落在粉土层，fa=140kPa<br>承载力修正系数：《基》表5.2.4中有粉土项。地勘没指明黏粒含量，暂取小值sb=0.3，sd=1.5<br>重度：不考虑地下水，地勘没给出每个地层的重度，因此深宽修正时的基底以下土重度r和基底以上土的加权平均重度rm均暂取18kN/m2<br>宽度修正：基底宽度远大于6m，取6m，则sb*r*(b-3)=0.3*18*(6-3)=16.2kPa<br>基础埋置深度d：对筏基取室外地面标高和基底的差值。此处注意两点：</p>
+<hr>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>上周参加排练发现新团员识谱不太顺，就和钧哥商量承担了讲乐理的任务，首要想法是尽快让新团员识谱上路，让他们有获得新知识以及顺畅排练的快感，而学习首调无疑是我的第一反应。<br>在此首先感谢邓指的几堂合唱普及讲座打下的基础，同时感谢晓光毫不犹豫地录制示范音频，这才有了讲座的《ave maria》案例。以下自由下载：</p>
+<p>素材1：<a href="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture_2.pptx">乐理ppt - 首调唱名法</a><br>素材2：<a href="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture_Ave%20Maria%20-%20%E8%83%A5%E6%99%93%E5%85%89%E7%A4%BA%E8%8C%83.rar">彩蛋 - ave maria 示范 by 胥晓光</a></p>
+<h1 id="识谱缓慢的原因分析"><a href="#识谱缓慢的原因分析" class="headerlink" title="识谱缓慢的原因分析"></a>识谱缓慢的原因分析</h1><p>有了钧哥上周的五线谱教学基础，这次教学首先揭示造成识谱缓慢的原因之一：升降号的困扰。揣摩五线谱初学者的识谱过程：</p>
 <ul>
-<li>本楼场地东北高西南低，室外地面标高偏保守地取小值(-2.000m)，可使得计算出的d偏安全。d=-2-(-12)=10m。</li>
-<li>根据《基》5.2.4条文说明：<br>【图】<br>本项目楼座分布如下：<br>【图】<br>可知：裙房重量较小，不足以补偿挖掉的土体，不能保证主楼下地基达到与其深度相适应的深度修正。因此需根据实际裙房荷载得出等效的基础埋置深度（主楼荷载较大，主楼重量能压住裙房地基，主楼对裙房地基承载力的贡献大于裙房对主楼地基承载力的贡献）。<br>有如下2种方法得到等效埋置深度：</li>
-<li>手核：将基础、各层梁板柱、面层恒载换算得到总的基底以上结构自重（不考虑隔墙重量）。缺点是梁柱恒载不便手核，但可根据常用工程的工程量统计进行类比换算。</li>
-<li><ul>
-<li>0.5(筏板厚度)*25+0.5(筏板上建筑面层厚度)*20+(0.25(-3层人防顶板至少250厚)+0.12+0.18(首层板)+0.12*2+0.15(大底盘裙房顶至少150厚)*25+0.1*6*20=58kPa</li>
+<li>观察调号，记住#/b所在线或间（及可能出现的上下8度的位置）</li>
+<li>观察各音符是否出现在这些线间（若出现较多，随机概率直接崩溃）</li>
+<li>勤奋的初学者，可能会在需要升降的音符旁标记升降号</li>
+<li>视唱过程中，需常看行首调号回顾#/b位置</li>
 </ul>
-</li>
-<li><ul>
-<li>根据以往项目的统计（以高标为例），框架结构的混凝土用量大致比例为：</li>
+<p>其中，第2点造成<strong>心理上</strong>的恐惧，第4点造成<strong>视觉上</strong>的时间耗费，而对升降号音程变化的判断造成<strong>脑力上</strong>的时间耗费——如：到底是大三度还是小三度？<br>如果像简谱一样，通过类似1=？的声明，使得谱面尽量减少甚至不出现升降记号，则可消除上述困难，将线谱位置和最为熟悉的自然音阶相对应。<br>例如：《ave maria》的第一行：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/ave_maria_line1.PNG" alt="《ave maria》第一行"><br>用固定调，则为:<br>2 - 3 #4 | #4 - 3 - | 3 - #4 5 | 5 - #4 - | 6 - 5 #4 | 7 - 6 2 |<br>用首调，则为：（1=D）<br>1 - 2 3 | 3 - 2 - | 2 - 3 4 | 4 - 3 - | 5 - 4 3 | 6 - 5 1 |<br>无疑，首调更能被初学者所接受。</p>
+<h1 id="如何应用首调唱名法"><a href="#如何应用首调唱名法" class="headerlink" title="如何应用首调唱名法"></a>如何应用首调唱名法</h1><p>总结为以下步骤：<strong>定调号-&gt;熟音程-&gt;标难点</strong>，其中的关键在于判断调号。</p>
+<h2 id="1-定调号"><a href="#1-定调号" class="headerlink" title="1) 定调号"></a>1) 定调号</h2><h4 id="我的记忆方法是："><a href="#我的记忆方法是：" class="headerlink" title="我的记忆方法是："></a>我的记忆方法是：</h4><p>先从带#的线谱入手：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/%E5%8D%87%E5%8F%B7.PNG" alt="带#的线谱"></p>
+<ul>
+<li>先观察带#的规律：1-7个#依次对应G-D-A-E-B-#F大调，为了记忆字母顺序，我会把它们两两归为一组后组词。例如对我来说，GD发音像基地（是我读书时所在办公室的别称），AE是我常用的一款视频后期特效制作软件，BF是BoyFriend的缩写。从此前了解的“快速记忆法”的技巧来看，<a href="http://tieba.baidu.com/p/4774264447">词组构成的故事越离奇越容易被记住</a>，每个人都可以找到自己印象最深刻的词组，甚至编出一个故事。极端例子是形成了<strong>“搞定(GD)-阿姨(AE)-男朋友(BF)”</strong>的记忆暗语。 -_-|||</li>
+<li>对带#的谱号，只有F前有#。<br>例如：对带5个#的线谱，按正数GDAE(B)F，且不带#，可知为B大调。</li>
 </ul>
-</li>
-<li><ul>
-<li>楼板和建筑面层的重量比例大致为：0.13*25:0.1:20=1.6:1</li>
+<p>而对带b的线谱就简单了：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/%E5%8D%87%E5%8F%B7.PNG" alt="带b的线谱"></p>
+<ul>
+<li>将带#时的次序反过来形成F-B-E-A-D-G即可。</li>
+<li>对带b的谱号，只有F前没有b。<br>例如：对带3个b的线谱，按倒数3字符的GDA(E)BF，且需带b，可知为bE大调。</li>
 </ul>
-</li>
-<li><ul>
-<li>考虑梁柱荷载放大系数的等效埋置深度=1.3*60.5/18=4.4m</li>
+<h4 id="如果熟练，也可以用传统的记忆方法："><a href="#如果熟练，也可以用传统的记忆方法：" class="headerlink" title="如果熟练，也可以用传统的记忆方法："></a>如果熟练，也可以用传统的记忆方法：</h4><ul>
+<li>对带#的谱号，<strong>最后一个#所在的地方升高半音则为1</strong></li>
+<li>对带b的谱号，<strong>1个b为F，2-7个b时：倒数第二个b所在的地方为1</strong><br>例如：</li>
+<li>对带1个#的线谱，#在第五线，对应的音为#F，再升高半音则为G，因此是G大调。</li>
+<li>对带7个#的线谱，最后一个#所在的音为#E，亦即F，再升高半音则为#F，因此是#F大调。</li>
+<li>对带3个b的线谱，b在第四间，对应的音为bE，因此是bE大调。</li>
 </ul>
-</li>
-<li>根据yjk上部结构计算得到的柱底反力进行换算，优点是反映了梁柱荷载的贡献：</li>
-<li><ul>
-<li><strong>将已有yjk模型里的隔墙荷载设置为0，提取基底反力</strong></li>
+<p>每个人可以选择适合自己的记忆方法。</p>
+<h2 id="2-熟音程"><a href="#2-熟音程" class="headerlink" title="2) 熟音程"></a>2) 熟音程</h2><p>确定调号后，找到和1最相关的3个音：3-5-h1（h-high代表高音，l-low代表低音，下同），可发现如下规律：<br><strong>1为线时：3和5为与之相邻的线，h1为间</strong>，如：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/C-123h1.png?imageView2/3/w/200/h/100/q/90" alt="C调135h1"><br><strong>1为间时：3和5为与之相邻的间，h1为线</strong>，如：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/D-123h1.png?imageView2/3/w/200/h/100/q/90" alt="D调135h1"><br>以上规律有助于判断大部分相邻音符间的相对音程关系，从而通过上一个音的音高得知下一个音的音高。</p>
+<h2 id="3-标难点"><a href="#3-标难点" class="headerlink" title="3) 标难点"></a>3) 标难点</h2><p>通过试唱可发现影响连贯识谱的个别位置。它们可能是：</p>
+<ul>
+<li>超过4度的大跳音程</li>
+<li>有临时升降号的地方</li>
+<li>遇到除第2节以外的大音程<br>解决办法是：（以下节《ave maria》曲谱为例）</li>
+<li>大跳音程中是否存在熟悉的音程：如第1行最后一小节的5-1和第2行第2小节的1-5。</li>
+<li>找出这些音与相邻音之间的过渡音：如第3行第1小节从high1-3，通过high1-5-3来作为过度。</li>
+<li>找出这些音与附近音可能存在的同音关系：如第4行第3小节，第1个音和第4个音都是low7，基于刻意的短期记忆可直接唱出后一个low7。</li>
 </ul>
-</li>
-<li><ul>
-<li>裙房部分受力较均匀，具有代表性，选取此处试算</li>
-</ul>
-</li>
-<li><ul>
-<li>柱底恒载约5300kN，单柱对应面积：8.4*8.4=70.56m2</li>
-</ul>
-</li>
-<li><ul>
-<li>基底反力约：5300/70.56+0.5*25+0.5*20=97.6kN/m2</li>
-</ul>
-</li>
-<li><ul>
-<li>等效埋置深度：97.6/18=5.4m<br>因此深度修正为：1.5*18*(5.4-0.5)=133kPa<br>可得fak=140+16.2+132=277.7kPa<br>6<h1 id="柱墩验算"><a href="#柱墩验算" class="headerlink" title="柱墩验算"></a>柱墩验算</h1>根据规范公式8.4.7~8.4.9进行筏板的冲切和剪切验算。研究了一下，总结了以下几个需要注意的地方：</li>
-</ul>
-</li>
-<li>为便于快速计算，编制了冲切剪切的计算表格，并和理正软件的计算过程进行了对比。借此也对规范进行了细致学习。<a href="">!点此下载</a></li>
-<li>规范针对扩展基础和筏板的冲切和剪切用了两套公式。虽然看似形式相近，但一定有区别。目前体会到的区别在于：</li>
-</ul>
-<h1 id="沉降计算"><a href="#沉降计算" class="headerlink" title="沉降计算"></a>沉降计算</h1><h1 id="对筏板基础的构造要求"><a href="#对筏板基础的构造要求" class="headerlink" title="对筏板基础的构造要求"></a>对筏板基础的构造要求</h1><ul>
-<li>筏板最小厚度</li>
-<li>最小配筋率</li>
-<li></li>
-</ul>
-<h1 id="考虑人防的基础底板的构造要求"><a href="#考虑人防的基础底板的构造要求" class="headerlink" title="考虑人防的基础底板的构造要求"></a>考虑人防的基础底板的构造要求</h1>]]></content>
+<p>通常经过上面3个步骤，能基本实现连贯识谱。</p>
+<h1 id="实践"><a href="#实践" class="headerlink" title="实践"></a>实践</h1><p>你能顺利唱下这首《ave maria》么？<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/ave_maria_hint.png" alt="《ave maria》"></p>
+<h1 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h1><p>每次学习新的合唱曲目前，团员应做好预习工作，至少识完自己声部的谱。</p>
+<h1 id="讨论"><a href="#讨论" class="headerlink" title="讨论"></a>讨论</h1><h3 id="1-既然学习首调有利于识谱，那么为什么不直接使用简谱，难道不是简谱对应首调，五线谱对应固定调？"><a href="#1-既然学习首调有利于识谱，那么为什么不直接使用简谱，难道不是简谱对应首调，五线谱对应固定调？" class="headerlink" title="1. 既然学习首调有利于识谱，那么为什么不直接使用简谱，难道不是简谱对应首调，五线谱对应固定调？"></a>1. 既然学习首调有利于识谱，那么为什么不直接使用简谱，难道不是简谱对应首调，五线谱对应固定调？</h3><p>待补充</p>
+<h3 id="2-听说音乐学院多用固定调，而不提倡首调？"><a href="#2-听说音乐学院多用固定调，而不提倡首调？" class="headerlink" title="2. 听说音乐学院多用固定调，而不提倡首调？"></a>2. 听说音乐学院多用固定调，而不提倡首调？</h3><p>待补充</p>
+<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><p>待补充</p>
+]]></content>
       <categories>
-        <category>结构 struct</category>
+        <category>音乐 music</category>
       </categories>
       <tags>
-        <tag>hd</tag>
-        <tag>基础 base</tag>
+        <tag>师生合唱团 cecm chorus</tag>
+        <tag>乐理课 music theory</tag>
       </tags>
   </entry>
   <entry>
@@ -520,6 +448,111 @@ print(sum)
       </tags>
   </entry>
   <entry>
+    <title>base design of hd</title>
+    <url>/2016/11/2016_06_base_design_of_hd/</url>
+    <content><![CDATA[<p>第一个参与基础设计的HD项目和正在做的hd项目拼音简称相同。做HD的桩基和筏基时写了很多总结，成为了往后做项目的很好的参考。今天做hd基础，大致了解了它的脾气，有收获。</p>
+<a id="more"></a>
+
+<h1 id="选型"><a href="#选型" class="headerlink" title="选型"></a>选型</h1><ul>
+<li>根据建筑图估算基底标高：约-12m</li>
+<li>找到±0，看地质剖面图获得地层分布，找到基底标高所处地层情况：基底以下依次为2m粉土层（140kPa），&gt;8m的卵石层（400kPa）</li>
+<li>查看地勘的建议：1、基地处理（素土挤密桩）后做天然基础；2、桩基：参考周边已有建筑。但电话沟通后得知，卵石层中频现粉土夹层，因此地勘建议不用卵石层作为端承桩持力层，建议做摩擦桩；</li>
+<li>主楼f12+b3层，最大柱底反力约15000kN，若摩擦桩则桩长较长，不经济。同时考虑到可能的粉土夹层，因此考虑选择筏基以避免局部恶劣地基。</li>
+<li>查看地质剖面图，地质剖面均匀平稳，同时基底标高统一，有利于筏基。以下通过验算地基承载力及沉降，证实了筏基的可行性，得以最终选用。</li>
+</ul>
+<h1 id="地基承载力计算"><a href="#地基承载力计算" class="headerlink" title="地基承载力计算"></a>地基承载力计算</h1><p>《建筑地基基础设计规范GB50007-2011》观察深宽修正公式5.2.4：<br>【图】<br>基底标高落在粉土层，fa=140kPa<br>承载力修正系数：《基》表5.2.4中有粉土项。地勘没指明黏粒含量，暂取小值sb=0.3，sd=1.5<br>重度：不考虑地下水，地勘没给出每个地层的重度，因此深宽修正时的基底以下土重度r和基底以上土的加权平均重度rm均暂取18kN/m2<br>宽度修正：基底宽度远大于6m，取6m，则sb*r*(b-3)=0.3*18*(6-3)=16.2kPa<br>基础埋置深度d：对筏基取室外地面标高和基底的差值。此处注意两点：</p>
+<ul>
+<li>本楼场地东北高西南低，室外地面标高偏保守地取小值(-2.000m)，可使得计算出的d偏安全。d=-2-(-12)=10m。</li>
+<li>根据《基》5.2.4条文说明：<br>【图】<br>本项目楼座分布如下：<br>【图】<br>可知：裙房重量较小，不足以补偿挖掉的土体，不能保证主楼下地基达到与其深度相适应的深度修正。因此需根据实际裙房荷载得出等效的基础埋置深度（主楼荷载较大，主楼重量能压住裙房地基，主楼对裙房地基承载力的贡献大于裙房对主楼地基承载力的贡献）。<br>有如下2种方法得到等效埋置深度：</li>
+<li>手核：将基础、各层梁板柱、面层恒载换算得到总的基底以上结构自重（不考虑隔墙重量）。缺点是梁柱恒载不便手核，但可根据常用工程的工程量统计进行类比换算。</li>
+<li><ul>
+<li>0.5(筏板厚度)*25+0.5(筏板上建筑面层厚度)*20+(0.25(-3层人防顶板至少250厚)+0.12+0.18(首层板)+0.12*2+0.15(大底盘裙房顶至少150厚)*25+0.1*6*20=58kPa</li>
+</ul>
+</li>
+<li><ul>
+<li>根据以往项目的统计（以高标为例），框架结构的混凝土用量大致比例为：</li>
+</ul>
+</li>
+<li><ul>
+<li>楼板和建筑面层的重量比例大致为：0.13*25:0.1:20=1.6:1</li>
+</ul>
+</li>
+<li><ul>
+<li>考虑梁柱荷载放大系数的等效埋置深度=1.3*60.5/18=4.4m</li>
+</ul>
+</li>
+<li>根据yjk上部结构计算得到的柱底反力进行换算，优点是反映了梁柱荷载的贡献：</li>
+<li><ul>
+<li><strong>将已有yjk模型里的隔墙荷载设置为0，提取基底反力</strong></li>
+</ul>
+</li>
+<li><ul>
+<li>裙房部分受力较均匀，具有代表性，选取此处试算</li>
+</ul>
+</li>
+<li><ul>
+<li>柱底恒载约5300kN，单柱对应面积：8.4*8.4=70.56m2</li>
+</ul>
+</li>
+<li><ul>
+<li>基底反力约：5300/70.56+0.5*25+0.5*20=97.6kN/m2</li>
+</ul>
+</li>
+<li><ul>
+<li>等效埋置深度：97.6/18=5.4m<br>因此深度修正为：1.5*18*(5.4-0.5)=133kPa<br>可得fak=140+16.2+132=277.7kPa<br>6<h1 id="柱墩验算"><a href="#柱墩验算" class="headerlink" title="柱墩验算"></a>柱墩验算</h1>根据规范公式8.4.7~8.4.9进行筏板的冲切和剪切验算。研究了一下，总结了以下几个需要注意的地方：</li>
+</ul>
+</li>
+<li>为便于快速计算，编制了冲切剪切的计算表格，并和理正软件的计算过程进行了对比。借此也对规范进行了细致学习。<a href="">!点此下载</a></li>
+<li>规范针对扩展基础和筏板的冲切和剪切用了两套公式。虽然看似形式相近，但一定有区别。目前体会到的区别在于：</li>
+</ul>
+<h1 id="沉降计算"><a href="#沉降计算" class="headerlink" title="沉降计算"></a>沉降计算</h1><h1 id="对筏板基础的构造要求"><a href="#对筏板基础的构造要求" class="headerlink" title="对筏板基础的构造要求"></a>对筏板基础的构造要求</h1><ul>
+<li>筏板最小厚度</li>
+<li>最小配筋率</li>
+<li></li>
+</ul>
+<h1 id="考虑人防的基础底板的构造要求"><a href="#考虑人防的基础底板的构造要求" class="headerlink" title="考虑人防的基础底板的构造要求"></a>考虑人防的基础底板的构造要求</h1>]]></content>
+      <categories>
+        <category>结构 struct</category>
+      </categories>
+      <tags>
+        <tag>hd</tag>
+        <tag>基础 base</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>这周唱&lt;红&gt;歌</title>
+    <url>/2016/11/2016_09_the_RED_song/</url>
+    <content><![CDATA[<p>终于要教小6们唱这首“临时”团歌了。</p>
+<a id="more"></a>
+
+<p>这首歌旋律截取至电影《建国大业》的同名片尾曲，是邓指为13年合唱剧场《青春痣》而改编的作品。<br>在《青春痣》中，小群讲述完哥哥小军的故事，在这首歌后，大家明白了这场聚会的“意料之外”和“情理之中”，找回了遗失的信物。<br>目前只找到3个版本，以下是13年12月中在《青春痣》发布会现场录制的版本。</p>
+<iframe height=498 width=510 src='http://player.youku.com/embed/XNjQ1OTYzNDg0' frameborder=0 'allowfullscreen'></iframe></br>
+
+<p>自此至今已过3年，正式演出没唱过一次。<br>虽然建团至今唱过100多首曲目，其中不乏带给大家感动的《我期待》《yonder》《in remembrance》……但《红》却能同时满足以下几点，使它足以成为团歌：</p>
+<ol>
+<li>它足够简单：2页A4，4行，4句话。如此简短，以至于每次演唱都会从头反复一次。简单的歌，才会让每位团员都能快速学会。</li>
+<li>它足够耐唱：唱好它不容易，需要很好的气息控制和很高的声音融合度，常唱常有新体验。我想，这次演出唱了，下次就等明年年中8周年专场吧。</li>
+<li>它是我们首先唱响的歌：《红》由邓指改编，并且同《春天里》、《摇篮曲》等曲目一样由我们（或和其它团体在同一时期）率先唱出。</li>
+<li>它让我们记住我们的合唱理想：《青春痣》是迄今为止的一座高峰，成功进行的这场演出让我们知道我们希望并且应当“将合唱音乐视作一种文化去对待，在正确的路上追求自然、科学而和谐的可持续发展的‘合唱音色’。”3年过去了，老团员没有忘记，相信30年过去，我们也不会忘。我们也更希望，一代一代的新团员，不会忘记。</li>
+</ol>
+<p>合唱既视为文化，就不单单是技术而已，而是反映了我们的修养、道德和精神追求。这样一群能走在一起的人，具有某些共同的东西。</p>
+<p>回看歌词：</p>
+<blockquote>
+<p>一朵红的花，静静地开放。<br>生长在心中，花蕾都飘香。<br>为什么总在，红的血液里流淌。<br>无论在哪里，你我颜色都一样。</p>
+</blockquote>
+<p>从加入这个团体的一刻起，一颗合唱的种子在心中播种。我们在集体中成长，不知不觉越唱越好，这颗种子也长大开花。如果你要问，为什么我们都能生出红色的花朵？那是因为，我们都深藏着合唱理想，心怀这红色的梦想和激情。</p>
+<p>这是一种解读。我期待，小6们不同时期唱起这首歌，会有不一样的体验。</p>
+<p>当然我同样期待，咱们能努力创造出另一座高峰。或许是十周年时，我有信心，并愿意和你们一起为之努力。</p>
+<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161128_the_RED_song/red_performance.png" alt="青春痣演出《红》时场景"></p>
+]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>师生合唱团 cecm chorus</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2016土木建管系学生节合唱演出（一）——经验</title>
     <url>/2016/11/2016_08_performance_in_student_festival_I/</url>
     <content><![CDATA[<p>学生节过了，大节点over，需要好好总结。</p>
@@ -581,36 +614,99 @@ print(sum)
       </tags>
   </entry>
   <entry>
-    <title>这周唱&lt;红&gt;歌</title>
-    <url>/2016/11/2016_09_the_RED_song/</url>
-    <content><![CDATA[<p>终于要教小6们唱这首“临时”团歌了。</p>
+    <title>the sound of silence 寂静之声</title>
+    <url>/2016/12/2016_11_the_sound_of_silence/</url>
+    <content><![CDATA[<p>加班之余，为演出找点灵感。</p>
 <a id="more"></a>
 
-<p>这首歌旋律截取至电影《建国大业》的同名片尾曲，是邓指为13年合唱剧场《青春痣》而改编的作品。<br>在《青春痣》中，小群讲述完哥哥小军的故事，在这首歌后，大家明白了这场聚会的“意料之外”和“情理之中”，找回了遗失的信物。<br>目前只找到3个版本，以下是13年12月中在《青春痣》发布会现场录制的版本。</p>
-<iframe height=498 width=510 src='http://player.youku.com/embed/XNjQ1OTYzNDg0' frameborder=0 'allowfullscreen'></iframe></br>
-
-<p>自此至今已过3年，正式演出没唱过一次。<br>虽然建团至今唱过100多首曲目，其中不乏带给大家感动的《我期待》《yonder》《in remembrance》……但《红》却能同时满足以下几点，使它足以成为团歌：</p>
-<ol>
-<li>它足够简单：2页A4，4行，4句话。如此简短，以至于每次演唱都会从头反复一次。简单的歌，才会让每位团员都能快速学会。</li>
-<li>它足够耐唱：唱好它不容易，需要很好的气息控制和很高的声音融合度，常唱常有新体验。我想，这次演出唱了，下次就等明年年中8周年专场吧。</li>
-<li>它是我们首先唱响的歌：《红》由邓指改编，并且同《春天里》、《摇篮曲》等曲目一样由我们（或和其它团体在同一时期）率先唱出。</li>
-<li>它让我们记住我们的合唱理想：《青春痣》是迄今为止的一座高峰，成功进行的这场演出让我们知道我们希望并且应当“将合唱音乐视作一种文化去对待，在正确的路上追求自然、科学而和谐的可持续发展的‘合唱音色’。”3年过去了，老团员没有忘记，相信30年过去，我们也不会忘。我们也更希望，一代一代的新团员，不会忘记。</li>
-</ol>
-<p>合唱既视为文化，就不单单是技术而已，而是反映了我们的修养、道德和精神追求。这样一群能走在一起的人，具有某些共同的东西。</p>
-<p>回看歌词：</p>
+<p>西蒙和加芬克尔的这首歌让多少人沉醉，当然也包括我，尤其是在这无声的夜晚。</p>
+<p>歌词如下：</p>
 <blockquote>
-<p>一朵红的花，静静地开放。<br>生长在心中，花蕾都飘香。<br>为什么总在，红的血液里流淌。<br>无论在哪里，你我颜色都一样。</p>
+<p>1：<br>Hello darkness, my old friend / I’ve come to talk with you again<br>哈罗，黑夜，我的老朋友，我又来找你聊天了<br>Because a vision softly creeping / Left its seeds while I was sleeping<br>因为有个幻影无声无息的爬过，趁我熟睡时留下了种子<br>And the vision that was planted in my brain / still remain within the sound of silence<br>这幻影，灌输在我脑海里，依然存留着寂静无声的此刻</p>
 </blockquote>
-<p>从加入这个团体的一刻起，一颗合唱的种子在心中播种。我们在集体中成长，不知不觉越唱越好，这颗种子也长大开花。如果你要问，为什么我们都能生出红色的花朵？那是因为，我们都深藏着合唱理想，心怀这红色的梦想和激情。</p>
-<p>这是一种解读。我期待，小6们不同时期唱起这首歌，会有不一样的体验。</p>
-<p>当然我同样期待，咱们能努力创造出另一座高峰。或许是十周年时，我有信心，并愿意和你们一起为之努力。</p>
-<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161128_the_RED_song/red_performance.png" alt="青春痣演出《红》时场景"></p>
-]]></content>
+<blockquote>
+<p>2：<br>In restless dreams I walked alone / Narrow streets of cobblestone<br>在无数浮躁的梦中我独自前行在鹅卵石铺就的狭窄街道上<br>Neath the halo of a street lamp / I turned my collar to the cold and damp<br>头顶上街灯的光晕将我笼罩，我翻起衣领以抵御此夜的寒冷及潮湿<br>When my eyes were stabbed by the flash of a neon light that split the night / and touched the sound of silence<br>当我的眼睛被霓虹灯的闪烁刺通时，它也划破了夜空,打破了黑夜的沉静</p>
+</blockquote>
+<blockquote>
+<p>3：<br>And in the naked light I saw / Ten thousand people, maybe more<br>在裸露的光线下 我看到数以万计或许更多的人<br>People talking without speaking / People hearing without listening<br>有的人聊天而不谈心，有的人在漫不经心地听着别人说<br>People writing songs that voices never share / No one dare disturb the sound of silence<br>有人在写着从不会被传唱的歌，但没人敢于去打破这份静默</p>
+</blockquote>
+<blockquote>
+<p>4：<br>“Fools” said I, “You do not know silence like a cancer grows”<br>我说 愚蠢的人啊 你不知道寂静会像癌症一样扩散吗<br>Hear my words that I might teach you / Take my arms that I might reach to you<br>听我的话，我才会教导你；抓紧我的手，我才能救你<br>But my words like silent as raindrops fell / And echoed in the wells of silence<br>但是我的话却如寂静无声的雨点落下，回荡在这无声的天井中</p>
+</blockquote>
+<blockquote>
+<p>5：<br>And the people bowed and prayed to the neon god they made.<br>人们对着自制的神像顶礼膜拜<br>And the sign flashed out its warning / And the words that it was forming<br>霓虹灯突然闪烁出警兆，警告的语句渐渐成型<br>And the sign said: “The words of the prophets are written on the subway walls / And tenement halls<br>预兆显示 先知的预言都被写在地铁的墙上和廉价公寓的大厅中<br>And whispered in the sounds of silence.”<br>这告诫也在无声的静默中被轻声传送</p>
+</blockquote>
+<p>这是我在团里第一次正式演出里的一首歌。十分顺利地在团里请到了泽帅来吉他演奏，小朋友很主动很靠谱。昨晚加练又听了元标和胜寒的合声，比当年的我们好了许多。但还是想做得更多，突破多一些。<br>找了几个参考：</p>
+<h1 id="SBMP（santa-barbara-music-publishing）版-solo-TTBB"><a href="#SBMP（santa-barbara-music-publishing）版-solo-TTBB" class="headerlink" title="SBMP（santa barbara music publishing）版: solo+TTBB"></a>SBMP（santa barbara music publishing）版: solo+TTBB</h1><p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161209_the_sound_of_silence/ed1%20the%20sound%20of%20silence.mp3" controls="controls"></audio><br>网址：<a href="http://sbmp.com/STM.php?CatalogNumber=1367">http://sbmp.com/STM.php?CatalogNumber=1367</a><br>音频下载：<a href="http://of35dg2v1.bkt.clouddn.com/blog/music/20161209_the_sound_of_silence/ed1%20the%20sound%20of%20silence.mp3">ed1_the_sound_of_silence</a><br>这一版较规整，没有出现原版的低声部。：比较喜欢</p>
+<ul>
+<li>第二段前部的淡淡合声</li>
+<li>第三段前的逐次进入</li>
+<li>第四段前两句</li>
+<li>第五段(and the sign flashed那一句)的效果，合声有推动感</li>
+</ul>
+<h1 id="阿卡版1-JHU-AllNighters-ICCA"><a href="#阿卡版1-JHU-AllNighters-ICCA" class="headerlink" title="阿卡版1-JHU AllNighters - ICCA"></a>阿卡版1-JHU AllNighters - ICCA</h1><p>JHU: John Hopkins University，在美国华盛顿特区巴尔的摩，是邓指毕业的大学，膜拜一下<br>AllNighters是jhu内一个阿卡团体,感谢给我们分享这个视频的上传人wonderofchill，据说以前是北大外院的学长，看似在jhu念音乐。</p>
+<iframe height=498 width=100% src='http://player.youku.com/embed/XMzMzMzQwMTA0' frameborder=0 'allowfullscreen'></iframe>
+不说声音，这一版的动作值得学习，简单，幅度轻微，但有效果。
+一开始站两拨，随着演唱人慢慢活跃散开，注意散开时并不是所有人同一时间一齐散开，而是一个一个散开，移动时还类似《青春痣》中第三幕开场时演员进入时的走横平竖直的路线。最后一段段落开始做波浪，最后一句则收拢重归两拨，回到原始位置。
+此曲后还有几首阿卡，每首的动作各有不同，值得参考。
+
+<h1 id="阿卡版2-未知团体"><a href="#阿卡版2-未知团体" class="headerlink" title="阿卡版2-未知团体"></a>阿卡版2-未知团体</h1><iframe height=498 width=100% src='http://player.youku.com/embed/XNDgzODAzNzcy' frameborder=0 'allowfullscreen'></iframe>
+此版在合声编排上显得用心。原本silence五段歌词，若缺乏变化则容易沉闷。这版较好地解决了这个问题，各段之间均有变化，显得新意不断。
+- 第一段沉静缓慢，以此作为铺垫。
+- 通过段末转折，一人引领加快的节奏，使得第二段活泼，同时背景中模拟吉他的合声也带动了整个气氛。
+- 第三段中加了轻微的打击，背景合声相对不太明显，显得暗潮汹涌。
+- 第四段中打击加重，背景音中不断出现较大波浪，预示后来的高潮。
+- 第五段合声声部则放开，有声部间的交错，也有声部共同创造出的辉煌效果，并同样在最后迅速做了收的处理，回归到的吉他旋律也和前文做了很好的呼应。]]></content>
       <categories>
         <category>音乐 music</category>
       </categories>
       <tags>
         <tag>师生合唱团 cecm chorus</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>张王家的往事</title>
+    <url>/2017/02/2017_01_homesick/</url>
+    <content><![CDATA[<p>每年春节回家，央视都会播放纪录片《记住乡愁》，今年已第三季。耳畔响起雷佳的《乡愁》，心中荡起浓浓的思乡情。片尾曲一直在变，而片头曲却始终如一。<br>今晚拜见外公，一起看完一集《记住乡愁》，看黄姚镇居民的乐善好德，听他们祖辈流传的祖训家规，突然迫切地想了解自己家族的历史。<br>父亲姓张，母亲姓王，张王两家的历史，我都想了解。我想探寻家族变迁的过程，以及在这漫漫历史长河中，传承家族文化、维持家族兴旺的魂。<br>于是在这间温暖的小屋里，今年89岁高寿的外公，雪白的头发，花白的眉毛，不紧不慢地向我讲述着，我从未听过的一些事。</p>
+<a id="more"></a>
+
+<p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/homesick_LeiJia.mp3" controls="controls" title="乡愁-雷佳" autoplay="autoplay"></audio></p>
+<h1 id="王氏"><a href="#王氏" class="headerlink" title="王氏"></a>王氏</h1><p>外公这一脉王氏的起源为某王姓丞相，大约为唐宋时期。</p>
+<blockquote>
+<p>名词“丞相”和“宰相”有区别，但估计外公并不区分。上网查询，唐宋时期的丞相/宰相，姓氏为“王”的有11位（唐5宋6，参见百度百科词条“<a href="http://baike.baidu.com/link?url=kzuB4_wfp3Ypy7YnKBofLkRKgIl9pF2tODCOhQYNNIGLuzHsJ6PIvYJ47q3JadYtnl8ec6gwMKshhkPwtPUT9wfPnxMvkiMJ3AU_TmTm5jG">丞相</a>”）。<br>外公说王氏起源在家谱里有记载。家谱写着字辈轮次的排列，写着家规家训，想必不管哪个家族，唯有由德高望重的人定下的规矩，才会在家族如此流传。这次回京仓促，但和外公做了约定，下次回家得借读一番以便细细了解。</p>
+</blockquote>
+<p>最初发于山西，后迁往湖北麻城孝感，后转至四川。</p>
+<blockquote>
+<p>此孝感非指目前湖北省孝感市，而是指湖北省麻城市古孝感乡，目前已并入其他乡镇。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/wuhan_xiaogan_macheng.jpg" alt="麻城孝感位置"><br>麻城是<a href="http://www.macheng.gov.cn/about/whmc/mcxgx.htm">中国古代‘八大移民发源地’之一，是‘湖广填四川’的起始地和集散地”</a>）。“要问祖籍在何方？湖广麻城孝感乡”（<a href="http://news.163.com/16/0403/04/BJMU84LL00014AED.html">《麻城孝感乡 究竟是怎么回事？》</a>）。<br>网上仍散落着寻找麻城孝感王氏宗族的帖子（如<a href="http://www.mala.cn/thread-6817032-1-1.html">《寻1650年湖北麻城迁入四川广安的王氏家族宗亲》</a>），可惜按外公的字辈和他们并不一致，不是同一分支。<br>重庆渝中区的<a href="http://baike.baidu.com/link?url=3ejDtUmIHfQsZ1O58tLdAmJYrCDGskfQlgia692JRG3d3Fv0_VBrxzQdudPjGXR-NqjPN8n37-Mr9zpVx3AT-f-tiTTO7Qc2g-s_7SnKSUlEj0u_5Teu3YXzmtbEXa5kbQIlFndZg-ELt9KxE2iUqq">湖广会馆</a>，现含一座湖广填四川移民博物馆，距离解放碑和朝天门并不太远，有机会去了解了解那段历史。</p>
+</blockquote>
+<p>外公出生于重庆璧山灯油坪（音）寨子，6岁多时母亲跑回了娘家，就剩他和父亲两人在家。8岁时迁往永川陈食，15岁时被父亲以三担谷子为交换给国民党当壮丁，编入国民革命军第三十二军一三九师四一五团一营炮一排，抗战时还在宜昌打过日本鬼子。</p>
+<blockquote>
+<p>当前正热播的电视剧《宜昌保卫战》，其中用相当的篇幅描写了国民党军队。外公对于国民党军队在抗日正面战场的贡献是认同的，并为当前国内越来越公开地讲述国共两党共同的抗战史表示肯定。<br>武汉失守后，以宜昌为中心的战场上,先后发生了随枣会战、枣宜会战、反攻宜昌战役、鄂西会战、常德会战等大规模正面作战（<a href="http://news.cn3x.com.cn/content/2015-01/20/content_656360.htm">《宜昌抗战在中国抗日战争中的重要地位》</a>，其中有胜有败，有英勇也有悲壮（<a href="http://www.360doc.com/content/14/0627/11/8102575_390205394.shtml">宜昌沦陷始末</a>），抗战时中国战区殉国的级别最高的将领张自忠就是在枣宜会战中牺牲。<br>从外公所讲述的战斗时间以及部队番号，推测参加的是1943年的<a href="http://baike.baidu.com/link?url=k6gBLNs0_YO9nFdlyxNYloOISAswcGcsC5Z1l3Lze5yacTPB2o2NHo1sduQjyzMrlOll_X68MLGF67RGfqhyR7EwWfd4P0CIfR3yebd3SXkiSJyrQMm3MG7RYzQIzK3-9sGq4jp7Ot44jLpjNFVUF06-3_VaE_b73nPy3p1zCUjBi_w9W6Sk1toD_f2rZ5Po6E-yPNblEvALauEqiS_Ud_">“鄂西会战”</a>，第32军军长宋肯唐，139师师长孙定超，他们后来都去了台湾。</p>
+</blockquote>
+<p>新兵每次吃饭时间不足5分钟，基本都喝含少量谷子稗子的米汤，也不管粥的滚烫。日本投降后一年多，国民党颓势已现，外公想要外逃，但被抓回，肩上被捅了一刀。</p>
+<blockquote>
+<p>外公会感叹始终没想明白一个问题：“以前中国只有不到4亿人口，尚且生活条件这么差，好多人吃不饱。而现在中国的人口有13亿多，生活条件却有如此大的改善。”中国盘子大，经得住折腾，但也不能有大折腾。和平稳定的环境对于中国的重要性不言而喻，只有这样，才有机会迎来发展机遇。</p>
+</blockquote>
+<p>一年后，部队被遣入河南新乡，准备调往北方，但中途被解放军阻击。阴差阳错，外公始得离开部队回到家乡，认识了外婆。</p>
+<blockquote>
+<p>这次和外公只聊到这，这次整理谈话内容的过程中发现所遗漏的细节，下次还待和外公确认。外公感叹现在的记忆力已不如前，以后访谈用录音的形式，估计较为妥当。<br>以上整理也参考了老妈的记录。本此次访谈老妈并不在场，回来整理过程中被老妈发现，给了我这张曾经和外公交谈时的记录，原来老妈一直记得了解外公的生活历程这件事，感动crying~<img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/mum_record.jpg" alt="老妈记录外公讲述"></p>
+</blockquote>
+<h1 id="张氏"><a href="#张氏" class="headerlink" title="张氏"></a>张氏</h1><p>爷爷在我来京上大学后不久去世，很遗憾我无法亲口向他求证，只能凭借我和父辈们的记忆。<br>爷爷姓张，出生于浙江湖州，后随家人到上海生活。小时候偶尔能听到爷爷用上海话和那边的亲戚通话，也知道爷爷喜欢吃酸甜口味的江浙口味。初三毕业时，爷爷带我和父亲去江浙，让我有机会见到上海的长辈亲戚们。</p>
+<blockquote>
+<p>浙江湖州临近太湖，介绍可见<a href="http://baike.baidu.com/link?url=dj5d5B8RigvgKzbLucv_-ddaHIyedZXUxIpPGK42ZJAZJHRjbEWYuAs_DAbqOQS3zYi0w7FcMdhNuqByL__zZsGIXs-sCpBk_YFLH03p7zS">百度百科词条“湖州”</a>。<img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/huzhou-shanghai.jpg" alt="湖州上海位置关系"><br>记得爷爷提到老家名称中带“兴”字，看地图湖州下辖吴兴区和长兴县，具体位置还待和知道的长辈们确认。</p>
+</blockquote>
+<p>抗战时，爷爷参加了“二野军大”，随刘邓大军挺近大西南，这才到了重庆。偶尔会听爷爷自豪地说起这四个字，记得相册中还保有爷爷参加战友聚会时的合影。</p>
+<blockquote>
+<p>二野军大的简介可见此（<a href="http://www.lbctzjng.com/html/mhhy/zzwz/15/02/630.html">《二野军大是我军最有特色的军校》</a>），可推测出爷爷17岁左右随军来到重庆。当时的革命青年们，为了祖国建设的前景远离故土，也是让人为之动容。</p>
+</blockquote>
+<p>说到张家家谱，我不记得曾见过，父亲也是，只有寄希望于上海的亲戚们了。听说上海的叔辈曾经寻访过湖州老家，那边还有亲戚健在。</p>
+<h2 id="……"><a href="#……" class="headerlink" title="……"></a>……</h2><p>有新的资料我会及时补充，希望构建起一大家人共同的回忆。</p>
+]]></content>
+      <categories>
+        <category>生活 life</category>
+      </categories>
+      <tags>
+        <tag>家庭 family</tag>
       </tags>
   </entry>
   <entry>
@@ -752,102 +848,6 @@ print(sum)
       </categories>
       <tags>
         <tag>师生合唱团 cecm chorus</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>the sound of silence 寂静之声</title>
-    <url>/2016/12/2016_11_the_sound_of_silence/</url>
-    <content><![CDATA[<p>加班之余，为演出找点灵感。</p>
-<a id="more"></a>
-
-<p>西蒙和加芬克尔的这首歌让多少人沉醉，当然也包括我，尤其是在这无声的夜晚。</p>
-<p>歌词如下：</p>
-<blockquote>
-<p>1：<br>Hello darkness, my old friend / I’ve come to talk with you again<br>哈罗，黑夜，我的老朋友，我又来找你聊天了<br>Because a vision softly creeping / Left its seeds while I was sleeping<br>因为有个幻影无声无息的爬过，趁我熟睡时留下了种子<br>And the vision that was planted in my brain / still remain within the sound of silence<br>这幻影，灌输在我脑海里，依然存留着寂静无声的此刻</p>
-</blockquote>
-<blockquote>
-<p>2：<br>In restless dreams I walked alone / Narrow streets of cobblestone<br>在无数浮躁的梦中我独自前行在鹅卵石铺就的狭窄街道上<br>Neath the halo of a street lamp / I turned my collar to the cold and damp<br>头顶上街灯的光晕将我笼罩，我翻起衣领以抵御此夜的寒冷及潮湿<br>When my eyes were stabbed by the flash of a neon light that split the night / and touched the sound of silence<br>当我的眼睛被霓虹灯的闪烁刺通时，它也划破了夜空,打破了黑夜的沉静</p>
-</blockquote>
-<blockquote>
-<p>3：<br>And in the naked light I saw / Ten thousand people, maybe more<br>在裸露的光线下 我看到数以万计或许更多的人<br>People talking without speaking / People hearing without listening<br>有的人聊天而不谈心，有的人在漫不经心地听着别人说<br>People writing songs that voices never share / No one dare disturb the sound of silence<br>有人在写着从不会被传唱的歌，但没人敢于去打破这份静默</p>
-</blockquote>
-<blockquote>
-<p>4：<br>“Fools” said I, “You do not know silence like a cancer grows”<br>我说 愚蠢的人啊 你不知道寂静会像癌症一样扩散吗<br>Hear my words that I might teach you / Take my arms that I might reach to you<br>听我的话，我才会教导你；抓紧我的手，我才能救你<br>But my words like silent as raindrops fell / And echoed in the wells of silence<br>但是我的话却如寂静无声的雨点落下，回荡在这无声的天井中</p>
-</blockquote>
-<blockquote>
-<p>5：<br>And the people bowed and prayed to the neon god they made.<br>人们对着自制的神像顶礼膜拜<br>And the sign flashed out its warning / And the words that it was forming<br>霓虹灯突然闪烁出警兆，警告的语句渐渐成型<br>And the sign said: “The words of the prophets are written on the subway walls / And tenement halls<br>预兆显示 先知的预言都被写在地铁的墙上和廉价公寓的大厅中<br>And whispered in the sounds of silence.”<br>这告诫也在无声的静默中被轻声传送</p>
-</blockquote>
-<p>这是我在团里第一次正式演出里的一首歌。十分顺利地在团里请到了泽帅来吉他演奏，小朋友很主动很靠谱。昨晚加练又听了元标和胜寒的合声，比当年的我们好了许多。但还是想做得更多，突破多一些。<br>找了几个参考：</p>
-<h1 id="SBMP（santa-barbara-music-publishing）版-solo-TTBB"><a href="#SBMP（santa-barbara-music-publishing）版-solo-TTBB" class="headerlink" title="SBMP（santa barbara music publishing）版: solo+TTBB"></a>SBMP（santa barbara music publishing）版: solo+TTBB</h1><p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161209_the_sound_of_silence/ed1%20the%20sound%20of%20silence.mp3" controls="controls"></audio><br>网址：<a href="http://sbmp.com/STM.php?CatalogNumber=1367">http://sbmp.com/STM.php?CatalogNumber=1367</a><br>音频下载：<a href="http://of35dg2v1.bkt.clouddn.com/blog/music/20161209_the_sound_of_silence/ed1%20the%20sound%20of%20silence.mp3">ed1_the_sound_of_silence</a><br>这一版较规整，没有出现原版的低声部。：比较喜欢</p>
-<ul>
-<li>第二段前部的淡淡合声</li>
-<li>第三段前的逐次进入</li>
-<li>第四段前两句</li>
-<li>第五段(and the sign flashed那一句)的效果，合声有推动感</li>
-</ul>
-<h1 id="阿卡版1-JHU-AllNighters-ICCA"><a href="#阿卡版1-JHU-AllNighters-ICCA" class="headerlink" title="阿卡版1-JHU AllNighters - ICCA"></a>阿卡版1-JHU AllNighters - ICCA</h1><p>JHU: John Hopkins University，在美国华盛顿特区巴尔的摩，是邓指毕业的大学，膜拜一下<br>AllNighters是jhu内一个阿卡团体,感谢给我们分享这个视频的上传人wonderofchill，据说以前是北大外院的学长，看似在jhu念音乐。</p>
-<iframe height=498 width=100% src='http://player.youku.com/embed/XMzMzMzQwMTA0' frameborder=0 'allowfullscreen'></iframe>
-不说声音，这一版的动作值得学习，简单，幅度轻微，但有效果。
-一开始站两拨，随着演唱人慢慢活跃散开，注意散开时并不是所有人同一时间一齐散开，而是一个一个散开，移动时还类似《青春痣》中第三幕开场时演员进入时的走横平竖直的路线。最后一段段落开始做波浪，最后一句则收拢重归两拨，回到原始位置。
-此曲后还有几首阿卡，每首的动作各有不同，值得参考。
-
-<h1 id="阿卡版2-未知团体"><a href="#阿卡版2-未知团体" class="headerlink" title="阿卡版2-未知团体"></a>阿卡版2-未知团体</h1><iframe height=498 width=100% src='http://player.youku.com/embed/XNDgzODAzNzcy' frameborder=0 'allowfullscreen'></iframe>
-此版在合声编排上显得用心。原本silence五段歌词，若缺乏变化则容易沉闷。这版较好地解决了这个问题，各段之间均有变化，显得新意不断。
-- 第一段沉静缓慢，以此作为铺垫。
-- 通过段末转折，一人引领加快的节奏，使得第二段活泼，同时背景中模拟吉他的合声也带动了整个气氛。
-- 第三段中加了轻微的打击，背景合声相对不太明显，显得暗潮汹涌。
-- 第四段中打击加重，背景音中不断出现较大波浪，预示后来的高潮。
-- 第五段合声声部则放开，有声部间的交错，也有声部共同创造出的辉煌效果，并同样在最后迅速做了收的处理，回归到的吉他旋律也和前文做了很好的呼应。]]></content>
-      <categories>
-        <category>音乐 music</category>
-      </categories>
-      <tags>
-        <tag>师生合唱团 cecm chorus</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>张王家的往事</title>
-    <url>/2017/02/2017_01_homesick/</url>
-    <content><![CDATA[<p>每年春节回家，央视都会播放纪录片《记住乡愁》，今年已第三季。耳畔响起雷佳的《乡愁》，心中荡起浓浓的思乡情。片尾曲一直在变，而片头曲却始终如一。<br>今晚拜见外公，一起看完一集《记住乡愁》，看黄姚镇居民的乐善好德，听他们祖辈流传的祖训家规，突然迫切地想了解自己家族的历史。<br>父亲姓张，母亲姓王，张王两家的历史，我都想了解。我想探寻家族变迁的过程，以及在这漫漫历史长河中，传承家族文化、维持家族兴旺的魂。<br>于是在这间温暖的小屋里，今年89岁高寿的外公，雪白的头发，花白的眉毛，不紧不慢地向我讲述着，我从未听过的一些事。</p>
-<a id="more"></a>
-
-<p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/homesick_LeiJia.mp3" controls="controls" title="乡愁-雷佳" autoplay="autoplay"></audio></p>
-<h1 id="王氏"><a href="#王氏" class="headerlink" title="王氏"></a>王氏</h1><p>外公这一脉王氏的起源为某王姓丞相，大约为唐宋时期。</p>
-<blockquote>
-<p>名词“丞相”和“宰相”有区别，但估计外公并不区分。上网查询，唐宋时期的丞相/宰相，姓氏为“王”的有11位（唐5宋6，参见百度百科词条“<a href="http://baike.baidu.com/link?url=kzuB4_wfp3Ypy7YnKBofLkRKgIl9pF2tODCOhQYNNIGLuzHsJ6PIvYJ47q3JadYtnl8ec6gwMKshhkPwtPUT9wfPnxMvkiMJ3AU_TmTm5jG">丞相</a>”）。<br>外公说王氏起源在家谱里有记载。家谱写着字辈轮次的排列，写着家规家训，想必不管哪个家族，唯有由德高望重的人定下的规矩，才会在家族如此流传。这次回京仓促，但和外公做了约定，下次回家得借读一番以便细细了解。</p>
-</blockquote>
-<p>最初发于山西，后迁往湖北麻城孝感，后转至四川。</p>
-<blockquote>
-<p>此孝感非指目前湖北省孝感市，而是指湖北省麻城市古孝感乡，目前已并入其他乡镇。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/wuhan_xiaogan_macheng.jpg" alt="麻城孝感位置"><br>麻城是<a href="http://www.macheng.gov.cn/about/whmc/mcxgx.htm">中国古代‘八大移民发源地’之一，是‘湖广填四川’的起始地和集散地”</a>）。“要问祖籍在何方？湖广麻城孝感乡”（<a href="http://news.163.com/16/0403/04/BJMU84LL00014AED.html">《麻城孝感乡 究竟是怎么回事？》</a>）。<br>网上仍散落着寻找麻城孝感王氏宗族的帖子（如<a href="http://www.mala.cn/thread-6817032-1-1.html">《寻1650年湖北麻城迁入四川广安的王氏家族宗亲》</a>），可惜按外公的字辈和他们并不一致，不是同一分支。<br>重庆渝中区的<a href="http://baike.baidu.com/link?url=3ejDtUmIHfQsZ1O58tLdAmJYrCDGskfQlgia692JRG3d3Fv0_VBrxzQdudPjGXR-NqjPN8n37-Mr9zpVx3AT-f-tiTTO7Qc2g-s_7SnKSUlEj0u_5Teu3YXzmtbEXa5kbQIlFndZg-ELt9KxE2iUqq">湖广会馆</a>，现含一座湖广填四川移民博物馆，距离解放碑和朝天门并不太远，有机会去了解了解那段历史。</p>
-</blockquote>
-<p>外公出生于重庆璧山灯油坪（音）寨子，6岁多时母亲跑回了娘家，就剩他和父亲两人在家。8岁时迁往永川陈食，15岁时被父亲以三担谷子为交换给国民党当壮丁，编入国民革命军第三十二军一三九师四一五团一营炮一排，抗战时还在宜昌打过日本鬼子。</p>
-<blockquote>
-<p>当前正热播的电视剧《宜昌保卫战》，其中用相当的篇幅描写了国民党军队。外公对于国民党军队在抗日正面战场的贡献是认同的，并为当前国内越来越公开地讲述国共两党共同的抗战史表示肯定。<br>武汉失守后，以宜昌为中心的战场上,先后发生了随枣会战、枣宜会战、反攻宜昌战役、鄂西会战、常德会战等大规模正面作战（<a href="http://news.cn3x.com.cn/content/2015-01/20/content_656360.htm">《宜昌抗战在中国抗日战争中的重要地位》</a>，其中有胜有败，有英勇也有悲壮（<a href="http://www.360doc.com/content/14/0627/11/8102575_390205394.shtml">宜昌沦陷始末</a>），抗战时中国战区殉国的级别最高的将领张自忠就是在枣宜会战中牺牲。<br>从外公所讲述的战斗时间以及部队番号，推测参加的是1943年的<a href="http://baike.baidu.com/link?url=k6gBLNs0_YO9nFdlyxNYloOISAswcGcsC5Z1l3Lze5yacTPB2o2NHo1sduQjyzMrlOll_X68MLGF67RGfqhyR7EwWfd4P0CIfR3yebd3SXkiSJyrQMm3MG7RYzQIzK3-9sGq4jp7Ot44jLpjNFVUF06-3_VaE_b73nPy3p1zCUjBi_w9W6Sk1toD_f2rZ5Po6E-yPNblEvALauEqiS_Ud_">“鄂西会战”</a>，第32军军长宋肯唐，139师师长孙定超，他们后来都去了台湾。</p>
-</blockquote>
-<p>新兵每次吃饭时间不足5分钟，基本都喝含少量谷子稗子的米汤，也不管粥的滚烫。日本投降后一年多，国民党颓势已现，外公想要外逃，但被抓回，肩上被捅了一刀。</p>
-<blockquote>
-<p>外公会感叹始终没想明白一个问题：“以前中国只有不到4亿人口，尚且生活条件这么差，好多人吃不饱。而现在中国的人口有13亿多，生活条件却有如此大的改善。”中国盘子大，经得住折腾，但也不能有大折腾。和平稳定的环境对于中国的重要性不言而喻，只有这样，才有机会迎来发展机遇。</p>
-</blockquote>
-<p>一年后，部队被遣入河南新乡，准备调往北方，但中途被解放军阻击。阴差阳错，外公始得离开部队回到家乡，认识了外婆。</p>
-<blockquote>
-<p>这次和外公只聊到这，这次整理谈话内容的过程中发现所遗漏的细节，下次还待和外公确认。外公感叹现在的记忆力已不如前，以后访谈用录音的形式，估计较为妥当。<br>以上整理也参考了老妈的记录。本此次访谈老妈并不在场，回来整理过程中被老妈发现，给了我这张曾经和外公交谈时的记录，原来老妈一直记得了解外公的生活历程这件事，感动crying~<img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/mum_record.jpg" alt="老妈记录外公讲述"></p>
-</blockquote>
-<h1 id="张氏"><a href="#张氏" class="headerlink" title="张氏"></a>张氏</h1><p>爷爷在我来京上大学后不久去世，很遗憾我无法亲口向他求证，只能凭借我和父辈们的记忆。<br>爷爷姓张，出生于浙江湖州，后随家人到上海生活。小时候偶尔能听到爷爷用上海话和那边的亲戚通话，也知道爷爷喜欢吃酸甜口味的江浙口味。初三毕业时，爷爷带我和父亲去江浙，让我有机会见到上海的长辈亲戚们。</p>
-<blockquote>
-<p>浙江湖州临近太湖，介绍可见<a href="http://baike.baidu.com/link?url=dj5d5B8RigvgKzbLucv_-ddaHIyedZXUxIpPGK42ZJAZJHRjbEWYuAs_DAbqOQS3zYi0w7FcMdhNuqByL__zZsGIXs-sCpBk_YFLH03p7zS">百度百科词条“湖州”</a>。<img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/huzhou-shanghai.jpg" alt="湖州上海位置关系"><br>记得爷爷提到老家名称中带“兴”字，看地图湖州下辖吴兴区和长兴县，具体位置还待和知道的长辈们确认。</p>
-</blockquote>
-<p>抗战时，爷爷参加了“二野军大”，随刘邓大军挺近大西南，这才到了重庆。偶尔会听爷爷自豪地说起这四个字，记得相册中还保有爷爷参加战友聚会时的合影。</p>
-<blockquote>
-<p>二野军大的简介可见此（<a href="http://www.lbctzjng.com/html/mhhy/zzwz/15/02/630.html">《二野军大是我军最有特色的军校》</a>），可推测出爷爷17岁左右随军来到重庆。当时的革命青年们，为了祖国建设的前景远离故土，也是让人为之动容。</p>
-</blockquote>
-<p>说到张家家谱，我不记得曾见过，父亲也是，只有寄希望于上海的亲戚们了。听说上海的叔辈曾经寻访过湖州老家，那边还有亲戚健在。</p>
-<h2 id="……"><a href="#……" class="headerlink" title="……"></a>……</h2><p>有新的资料我会及时补充，希望构建起一大家人共同的回忆。</p>
-]]></content>
-      <categories>
-        <category>生活 life</category>
-      </categories>
-      <tags>
-        <tag>家庭 family</tag>
       </tags>
   </entry>
   <entry>
