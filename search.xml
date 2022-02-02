@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>mark一篇新发的sci</title>
+    <url>/2016/10/2016-04-a-new-sci/</url>
+    <content><![CDATA[<p>冯老师告知，一篇新发的sci在官网上已公开。虽是承袭于硕士期间研究成果，但也让我完成了一年发表一篇文章的目标。mark一下。</p>
+<span id="more"></span>
+
+<h1 id="关于研究内容"><a href="#关于研究内容" class="headerlink" title="关于研究内容"></a>关于研究内容</h1><p>这篇文章是硕士研究成果的总结，在毕业后进行整理深化和翻译的基础上在近期发表。首先感谢冯老师对我研究工作的指导和帮助，以及两位师弟师妹先后参与其中所做的贡献。<br>PDF下载地址：<a href="http://www.sciencedirect.com/science/article/pii/S0263823116303160">点此打开网页后可选择下载PDF</a><br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/20161028_a_new_sci/thin-walled.PNG" alt="cover of thin-walled structure"></p>
+<p>我的硕士研究的课题是“FRP抗屈曲加固轴压钢构件的研究”，研究手段是试验+理论分析+有限元模拟：</p>
+<ul>
+<li>力学行为研究：通过试验验证“外套FRP套管+内填砂浆”[1]和“内填竹材外包FRP纤维布”[2]两种方法对抗屈曲加固钢构件的有效性；</li>
+<li>力学机理研究：通过理论分析和有限元模拟研究加固机理，拓展常规试验所涉及不到的参数分析范围；</li>
+<li>应用技术研究：基于以上研究成果，提出FRP抗屈曲加固钢构件的设计方法。</li>
+</ul>
+<p>[1] 砂浆试验文章： <a href="http://or.nsfc.gov.cn/bitstream/00001903-5/73262/1/1000004726746.pdf">Feng Peng, Zhang Yanhua, Bai Yu, et al. 2013. Strengthening of steel members in compression by mortar-filled FRP tubes[J]. Thin-Walled Structures, 64(3): 1-12. </a><br>[2] 竹材试验文章：<a href="https://www.researchgate.net/publication/263126210_Combination_of_Bamboo_Filling_and_FRP_Wrapping_to_Strengthen_Steel_Members_in_Compression">Feng Peng, Zhang Yanhua, Bai Yu, et al. 2013. Combination of bamboo filling and FRP wrapping to strengthen steel members in compression[J]. Journal of Composites for Construction (ASCE), 17(3): 347-356. </a></p>
+<p>研究相关成果会编入即将发布的<a href="http://wenku.baidu.com/link?url=PgQAUB-Bv2YuPRJ7GUBfq4UFro999Z-ZaMLkiBNe0L6G2x5TT8-Za5LZtbeUZ6WHTa-DNBv6c-Sxt_0MYyhxv1IMja6IeC8Wp5yn0055OXC">《纤维增强复合材料加固钢结构技术规程》</a>的相关章节,从而转化到工程实际应用中。</p>
+<h1 id="一些感受"><a href="#一些感受" class="headerlink" title="一些感受"></a>一些感受</h1><ul>
+<li>冯老师在课题组QQ群里说，“发表了一篇重要的论文”，不管研究本身的意义，但至少让我硕士阶段的研究更加完整。如果说本科阶段更多的是学习知识，硕士阶段则是创造知识，尤其是毕业后的现在，回顾时更能感受到这种差别。我想，无论研究成果是否足够好，既然有一点真实的成果，就可以和大家分享。好则传播，为别人的研究提供新思路，不够好则聆听同行的批评指点，以弥补缺失更进一步。</li>
+<li>通过对计算机行业的接触，我真切地感受到“分享”在不同行业内的差异。计算机行业的热门不是偶然，内因是基于它和各行各业联系的紧密性，这给它带来了广泛的改变世界的能力。许多有想象力和野心的人的加入，带动了这个行业充满活力，不管在知乎还是stackoverflow，总能看到很多程序员的讨论和互动。联想到曾经的网易结构论坛和okok钢结构论坛，曾经的繁荣时期恰好是在基础建设火热时期。而今，前者随网易终止论坛服务而终结，后者的发帖量也早已大不如前。并不是有疑问的人少了，总是有新人到来，而是愿意分享的人不再活跃了。毕竟经济基础决定上层建筑，当行业不再景气，愿意分享的氛围也会不复存在，反过来行业加速前进的动力自然受到影响。</li>
+<li>但我仍是看好“分享”的。在分享过程中会有自己的总结和沉淀，会有别人的反馈和带来的再思考，这会提升个人战斗力。同时，结识一批有同样技术水平或思想的人，更让我们有可能形成集群战斗力。很多问题不是靠一个人闭门造车就能解决了，如何发现和组建合适的团队，得靠每个人的分享自我。从朋友圈到知乎到stackoverflow，从分享日常琐碎到分享生活经验和专业经验，分享不一定偶遇，但不分享就一定不会相逢。</li>
+</ul>
+<p>所以，开始分享吧，从我做起，从现在做起：）</p>
+]]></content>
+      <categories>
+        <category>结构 struct</category>
+      </categories>
+      <tags>
+        <tag>清华 Tsinghua</tag>
+        <tag>文章 paper</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2016/10/2016_01_hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>computer</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>教程 course</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Markdown 常用语法 - for hexo</title>
+    <url>/2016/10/2016_02_syntax_of_markdown/</url>
+    <content><![CDATA[<p>以hexo为平台，介绍适合于本网站的markdown的常用语法。</p>
+<span id="more"></span>
+
+<h1 id="首要：markdown支持html各种标签"><a href="#首要：markdown支持html各种标签" class="headerlink" title="首要：markdown支持html各种标签"></a>首要：<strong>markdown支持html各种标签</strong></h1><h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><p>标题前加1~6个连续的“#”。<strong>标题和文字间空格</strong><br>如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">### 三级标题</span><br><span class="line">#### 四级标题</span><br><span class="line">##### 五级标题</span><br><span class="line">###### 六级标题</span><br></pre></td></tr></table></figure>
+<p>显示为：</p>
+<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><br>
+
+<h1 id="空白行"><a href="#空白行" class="headerlink" title="空白行"></a>空白行</h1><p>模拟html用<code>&lt;br&gt;</code>。如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">空白行开始：</span><br><span class="line">&lt;br&gt;</span><br><span class="line">空白行结束</span><br></pre></td></tr></table></figure>
+<p>显示为：<br>空白行开始：<br><br><br>空白行结束<br><br></p>
+<h1 id="分行线"><a href="#分行线" class="headerlink" title="分行线"></a>分行线</h1><p>三个或以上的<code>*</code>或<code>-</code>单独占一行。<strong>当用-时，需和文字空一行</strong>，如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">这里文字行紧跟`---`，因此为二级标题</span><br><span class="line">---</span><br><span class="line">这里文字行后为空白行，再为`---`，因此为分行线</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line">***</span><br></pre></td></tr></table></figure>
+<p>显示为：<br>这里文字行紧跟<code>---</code>，因此为二级标题</p>
+<hr>
+<p>这里文字行后为空白行，再为<code>---</code>，因此为分行线</p>
+<hr>
+<hr>
+<br>
+
+<h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><ul>
+<li>局部代码可用英文的`夹住，或html的<code>code</code>标签。如：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">`代码片段1`或&lt;code&gt;代码片段2&lt;/code&gt;</span><br></pre></td></tr></table></figure>
+  显示为：<br>  <code>代码片段1</code>或<code>代码片段2</code></li>
+<li>大段代码用代码块，格式为：<br>  – 多个英文字符的<code>`</code><br>  – 多个英文字符的<code>~</code><br>  – html的<code>pre</code>标签<br>  **注1：```或~~~后加代码类别可显示高亮，pre无**<br>  **注2：`或~有代码行号，pre无**<br>  **注3：注意在代码块内显示代码块标记时的不同情况。**<br>  如：<br>  以下为~~~，**内层无需转义，使用```**：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">```python</span><br><span class="line">for x in range(10):</span><br><span class="line">    sum + = x</span><br><span class="line">print(sum)</span><br><span class="line">```</span><br></pre></td></tr></table></figure>
+  以下为pre，**内层需转义，使用\`\`\`**：<pre>\`\`\`python
+for x in range(10):
+  sum + = x
+print(sum)
+\`\`\`
+</pre>
+  以上均可显示为（以下为直接用内层```的显示结果，注意颜色高亮）：<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> x <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">10</span>):</span><br><span class="line">    <span class="built_in">sum</span> + = x</span><br><span class="line"><span class="built_in">print</span>(<span class="built_in">sum</span>)</span><br></pre></td></tr></table></figure>
+<br>
+
+</li>
+</ul>
+<h1 id="转义字符"><a href="#转义字符" class="headerlink" title="转义字符"></a>转义字符</h1><p>某些可输入<code>\</code>保留原始符号。<br>**注：在代码块中保留时，用<code>pre</code>标签则需转义，用`或~标签无需转义**<br>如：若要显示```，需输入：</p>
+<ol>
+<li>用```时，**直接输入```，无需转义**：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">\\\</span><br></pre></td></tr></table></figure></li>
+<li>用~~~时，**无需转义，使用```**：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">\\\</span><br></pre></td></tr></table></figure></li>
+<li>用pre时，<strong>无需转义，使用```，注意此用法与pre内的代码块标记有区别</strong>：<pre>\\\
+</pre></li>
+<li>硬转义可查看<a href="http://www.w3school.com.cn/tags/html_ref_entities.html">http://www.w3school.com.cn/tags/html_ref_entities.html</a><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">空格：&amp;#160;</span><br><span class="line">大于：\&amp;gt;</span><br></pre></td></tr></table></figure>
+ 显示为：<br> 空格：&#160;<br> 大于：&gt;<br>
+
+</li>
+</ol>
+<h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><p>在一行开头加<code>&gt;</code>，<strong>记得<code>&gt;</code>和文字之间要空格</strong>。<br>可通过加多个<code>&gt;</code>表示多级引用。<br>可通过空行来结束引用。如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&gt; 一级引用</span><br><span class="line">&gt;&gt;  二级引用</span><br><span class="line">&gt;&gt;&gt; 三级引用</span><br><span class="line">&gt;&gt; 看看回到二级引用了么？</span><br><span class="line"></span><br><span class="line">在一个空行之后的部分自动中断引用</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>一级引用</p>
+<blockquote>
+<p> 二级引用</p>
+<blockquote>
+<p>三级引用<br>看看回到二级引用了么？</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>在一个空行之后的部分自动中断引用<br><br></p>
+<h1 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h1><p>斜体：文字两端加星号<code>*</code>或下划线<code>_</code>，或用html的<code>i</code>标签实现<br>加粗：文字两端加双星号<code>**</code>或双下划线<code>__</code>，或用html的<code>strong</code>标签实现<br>下划线：用html的<code>u</code>标签实现<br>删除线：用html的<code>del</code>标签实现，或用双波浪线夹在两边实现<br>如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">**这里是加粗**，*这里是斜体*，~~这里是删除线~~</span><br><span class="line">&lt;strong&gt;这里是加粗&lt;/strong&gt;，&lt;i&gt;这里是斜体&lt;/i&gt;，&lt;u&gt;这里是下划线&lt;/u&gt;，&lt;del&gt;这里是删除线&lt;/del&gt;</span><br></pre></td></tr></table></figure>
+<p>显示为：<br><strong>这里是加粗</strong>，<em>这里是斜体</em>，<del>这里是删除线</del><br><strong>这里是加粗</strong>，<i>这里是斜体</i>，<u>这里是下划线</u>，<del>这里是删除线</del><br><br></p>
+<h1 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h1><p>行首加*或+或-，显示效果相同，支持二级无序列表。如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">* 一级列表均为小圆圈标记</span><br><span class="line">+ 一级列表均为小圆圈标记</span><br><span class="line">- 一级列表均为小圆圈标记</span><br><span class="line">-- 二级列表均为-标记</span><br><span class="line">--- 无法产生三级列表</span><br></pre></td></tr></table></figure>
+<ul>
+<li>一级列表均为小圆圈标记</li>
+</ul>
+<ul>
+<li>一级列表均为小圆圈标记</li>
+</ul>
+<ul>
+<li>一级列表均为小圆圈标记</li>
+<li><ul>
+<li>二级列表均为-标记</li>
+</ul>
+</li>
+<li>– 无法产生三级列表</li>
+</ul>
+<p>为了避免和加粗以及斜体的类似*标记，在此不推荐使用星号。<br><br></p>
+<h1 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h1><p>数字后面跟上<code>.</code>和空格，<strong>数字的序号和人为加上的序号无关</strong>。如：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">1. 第一级</span><br><span class="line">4. 第二级</span><br><span class="line">2. 第二级</span><br></pre></td></tr></table></figure>
+<p>仍然显示为：</p>
+<ol>
+<li>第一级</li>
+<li>第二级</li>
+<li>第二级<br>
+
+</li>
+</ol>
+<h1 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h1><p>原位标记方式：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[文字](链接地址)</span><br><span class="line">----------------</span><br><span class="line">这是一个[百度](http://www.baidu.com/)的链接。</span><br></pre></td></tr></table></figure>
+<p>显示为：<br>这是一个<a href="http://www.baidu.com/">百度</a>的链接。</p>
+<p>脚注方式：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[文字][数字或字母编号]</span><br><span class="line"></span><br><span class="line">[与上面对应的数字或字母编号]: 链接 &quot;鼠标悬停时显示的文字&quot;</span><br><span class="line">------------------</span><br><span class="line">如：</span><br><span class="line">[baidu][1]或[点这里][a]</span><br><span class="line"></span><br><span class="line">[1]: www.baidu.com &quot;百度&quot;</span><br><span class="line">[a]: http://search.yahoo.com/</span><br></pre></td></tr></table></figure>
+<p>显示为：<br><a href="www.baidu.com" title="百度">baidu</a>或<a href="http://search.yahoo.com/">点这里</a></p>
+<p>** title外包围的可以是&quot;或&#39;或()**<br>** 脚注方式和链接之间有空行**<br>** 同样的编号在此文档内不能重复**<br><br></p>
+<h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><p>和超链接类似，分为原位标记方式和脚注方式。<br>原位标记方式：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![占位文字：无图片时显示](相对或绝对路径或超链接)</span><br><span class="line">如：</span><br><span class="line">![我的头像](http://of35dg2v1.bkt.clouddn.com/image/blog/avatar.jpgqq%E5%A4%B4%E5%83%8F.jpg &#x27;my avatar&#x27;)</span><br></pre></td></tr></table></figure>
+<p>显示为：<br><img src="http://of35dg2v1.bkt.clouddn.com/image/blog/avatar.jpgqq%E5%A4%B4%E5%83%8F.jpg" alt="我的头像" title="my avatar"></p>
+<p>脚注方式：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">![占位文字：无图片时显示][数字或字母编号]</span><br><span class="line"></span><br><span class="line">[与上面对应的数字或字母编号]: 相对或绝对路径或超链接 &quot;鼠标悬停时显示的文字&quot;</span><br><span class="line">如：</span><br><span class="line">![我的头像][b]</span><br><span class="line"></span><br><span class="line">[b]: http://of35dg2v1.bkt.clouddn.com/image/blog/avatar.jpgqq%E5%A4%B4%E5%83%8F.jpg &quot;my avatar&quot;</span><br></pre></td></tr></table></figure>
+<p>显示为：<br><img src="http://of35dg2v1.bkt.clouddn.com/image/blog/avatar.jpgqq%E5%A4%B4%E5%83%8F.jpg" alt="我的头像" title="my avatar"></p>
+<br>
+
+<h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><p>用html实现：<strong>严格强调层层缩进</strong></p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">table</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">tr</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">td</span>&gt;</span>row 1, cell 1<span class="tag">&lt;/<span class="name">td</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">td</span>&gt;</span>row 1, cell 2<span class="tag">&lt;/<span class="name">td</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">tr</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">tr</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">td</span>&gt;</span>row 2, cell 1<span class="tag">&lt;/<span class="name">td</span>&gt;</span></span><br><span class="line">        <span class="tag">&lt;<span class="name">td</span>&gt;</span>row 2, cell 2<span class="tag">&lt;/<span class="name">td</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">tr</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">table</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<p>显示为：</p>
+<table>
+    <tr>
+        <td>row 1, cell 1</td>
+        <td>row 1, cell 2</td>
+    </tr>
+    <tr>
+        <td>row 2, cell 1</td>
+        <td>row 2, cell 2</td>
+    </tr>
+</table>
+<br>
+
+<h1 id="相关网页"><a href="#相关网页" class="headerlink" title="相关网页"></a>相关网页</h1><p>《Markdown 11种基本语法 》：<a href="http://www.cnblogs.com/hnrainll/p/3514637.html">http://www.cnblogs.com/hnrainll/p/3514637.html</a><br>《Markdown 语法说明 (简体中文版) 》：<a href="http://wowubuntu.com/markdown/#list">http://wowubuntu.com/markdown/#list</a><br>《简书：markdown入门指南》：<a href="http://www.jianshu.com/p/1e402922ee32/">http://www.jianshu.com/p/1e402922ee32/</a><br>《hexo你的博客》：<a href="http://www.tuicool.com/articles/AfQnQjy/">http://www.tuicool.com/articles/AfQnQjy/</a><br><br></p>
+<h1 id="未完待续"><a href="#未完待续" class="headerlink" title="未完待续"></a>未完待续</h1><p>多级有序列表或无序列表<br>自定义css</p>
+]]></content>
+      <categories>
+        <category>计算机 computer</category>
+      </categories>
+      <tags>
+        <tag>markdown</tag>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于今天的乐理课-首调唱名法</title>
+    <url>/2016/10/2016_03_movable_do/</url>
+    <content><![CDATA[<p>从小一直学简谱，高中音乐课才有机会进行粗略的五线谱学习，仅限于能把谱和键盘对应。大四入团到现在已经6年，4任指挥对选用首调还是固定调的看法不尽相同，但根据这几年的实践，我觉得首调更适合自己，就一直用的首调。我是反对不加前提的坚持固定调一定优于首调的。<strong>教育一定要因材施教，要充分分析知识以及接受知识的人的特点</strong>，这也是合唱学习的重要前提。就团内近年来接触的绝大多数合唱曲目的特点以及每年新入学团员的特点来看，<strong>用首调唱名法进行合唱视唱是更容易被接受和更有效率的</strong>。</p>
+<span id="more"></span>
+
+<hr>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>上周参加排练发现新团员识谱不太顺，就和钧哥商量承担了讲乐理的任务，首要想法是尽快让新团员识谱上路，让他们有获得新知识以及顺畅排练的快感，而学习首调无疑是我的第一反应。<br>在此首先感谢邓指的几堂合唱普及讲座打下的基础，同时感谢晓光毫不犹豫地录制示范音频，这才有了讲座的《ave maria》案例。以下自由下载：</p>
+<p>素材1：<a href="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture_2.pptx">乐理ppt - 首调唱名法</a><br>素材2：<a href="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture_Ave%20Maria%20-%20%E8%83%A5%E6%99%93%E5%85%89%E7%A4%BA%E8%8C%83.rar">彩蛋 - ave maria 示范 by 胥晓光</a></p>
+<h1 id="识谱缓慢的原因分析"><a href="#识谱缓慢的原因分析" class="headerlink" title="识谱缓慢的原因分析"></a>识谱缓慢的原因分析</h1><p>有了钧哥上周的五线谱教学基础，这次教学首先揭示造成识谱缓慢的原因之一：升降号的困扰。揣摩五线谱初学者的识谱过程：</p>
+<ul>
+<li>观察调号，记住#/b所在线或间（及可能出现的上下8度的位置）</li>
+<li>观察各音符是否出现在这些线间（若出现较多，随机概率直接崩溃）</li>
+<li>勤奋的初学者，可能会在需要升降的音符旁标记升降号</li>
+<li>视唱过程中，需常看行首调号回顾#/b位置</li>
+</ul>
+<p>其中，第2点造成<strong>心理上</strong>的恐惧，第4点造成<strong>视觉上</strong>的时间耗费，而对升降号音程变化的判断造成<strong>脑力上</strong>的时间耗费——如：到底是大三度还是小三度？<br>如果像简谱一样，通过类似1=？的声明，使得谱面尽量减少甚至不出现升降记号，则可消除上述困难，将线谱位置和最为熟悉的自然音阶相对应。<br>例如：《ave maria》的第一行：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/ave_maria_line1.PNG" alt="《ave maria》第一行"><br>用固定调，则为:<br>2 - 3 #4 | #4 - 3 - | 3 - #4 5 | 5 - #4 - | 6 - 5 #4 | 7 - 6 2 |<br>用首调，则为：（1=D）<br>1 - 2 3 | 3 - 2 - | 2 - 3 4 | 4 - 3 - | 5 - 4 3 | 6 - 5 1 |<br>无疑，首调更能被初学者所接受。</p>
+<h1 id="如何应用首调唱名法"><a href="#如何应用首调唱名法" class="headerlink" title="如何应用首调唱名法"></a>如何应用首调唱名法</h1><p>总结为以下步骤：<strong>定调号-&gt;熟音程-&gt;标难点</strong>，其中的关键在于判断调号。</p>
+<h2 id="1-定调号"><a href="#1-定调号" class="headerlink" title="1) 定调号"></a>1) 定调号</h2><h4 id="我的记忆方法是："><a href="#我的记忆方法是：" class="headerlink" title="我的记忆方法是："></a>我的记忆方法是：</h4><p>先从带#的线谱入手：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/%E5%8D%87%E5%8F%B7.PNG" alt="带#的线谱"></p>
+<ul>
+<li>先观察带#的规律：1-7个#依次对应G-D-A-E-B-#F大调，为了记忆字母顺序，我会把它们两两归为一组后组词。例如对我来说，GD发音像基地（是我读书时所在办公室的别称），AE是我常用的一款视频后期特效制作软件，BF是BoyFriend的缩写。从此前了解的“快速记忆法”的技巧来看，<a href="http://tieba.baidu.com/p/4774264447">词组构成的故事越离奇越容易被记住</a>，每个人都可以找到自己印象最深刻的词组，甚至编出一个故事。极端例子是形成了<strong>“搞定(GD)-阿姨(AE)-男朋友(BF)”</strong>的记忆暗语。 -_-|||</li>
+<li>对带#的谱号，只有F前有#。<br>例如：对带5个#的线谱，按正数GDAE(B)F，且不带#，可知为B大调。</li>
+</ul>
+<p>而对带b的线谱就简单了：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/%E5%8D%87%E5%8F%B7.PNG" alt="带b的线谱"></p>
+<ul>
+<li>将带#时的次序反过来形成F-B-E-A-D-G即可。</li>
+<li>对带b的谱号，只有F前没有b。<br>例如：对带3个b的线谱，按倒数3字符的GDA(E)BF，且需带b，可知为bE大调。</li>
+</ul>
+<h4 id="如果熟练，也可以用传统的记忆方法："><a href="#如果熟练，也可以用传统的记忆方法：" class="headerlink" title="如果熟练，也可以用传统的记忆方法："></a>如果熟练，也可以用传统的记忆方法：</h4><ul>
+<li>对带#的谱号，<strong>最后一个#所在的地方升高半音则为1</strong></li>
+<li>对带b的谱号，<strong>1个b为F，2-7个b时：倒数第二个b所在的地方为1</strong><br>例如：</li>
+<li>对带1个#的线谱，#在第五线，对应的音为#F，再升高半音则为G，因此是G大调。</li>
+<li>对带7个#的线谱，最后一个#所在的音为#E，亦即F，再升高半音则为#F，因此是#F大调。</li>
+<li>对带3个b的线谱，b在第四间，对应的音为bE，因此是bE大调。</li>
+</ul>
+<p>每个人可以选择适合自己的记忆方法。</p>
+<h2 id="2-熟音程"><a href="#2-熟音程" class="headerlink" title="2) 熟音程"></a>2) 熟音程</h2><p>确定调号后，找到和1最相关的3个音：3-5-h1（h-high代表高音，l-low代表低音，下同），可发现如下规律：<br><strong>1为线时：3和5为与之相邻的线，h1为间</strong>，如：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/C-123h1.png?imageView2/3/w/200/h/100/q/90" alt="C调135h1"><br><strong>1为间时：3和5为与之相邻的间，h1为线</strong>，如：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/D-123h1.png?imageView2/3/w/200/h/100/q/90" alt="D调135h1"><br>以上规律有助于判断大部分相邻音符间的相对音程关系，从而通过上一个音的音高得知下一个音的音高。</p>
+<h2 id="3-标难点"><a href="#3-标难点" class="headerlink" title="3) 标难点"></a>3) 标难点</h2><p>通过试唱可发现影响连贯识谱的个别位置。它们可能是：</p>
+<ul>
+<li>超过4度的大跳音程</li>
+<li>有临时升降号的地方</li>
+<li>遇到除第2节以外的大音程<br>解决办法是：（以下节《ave maria》曲谱为例）</li>
+<li>大跳音程中是否存在熟悉的音程：如第1行最后一小节的5-1和第2行第2小节的1-5。</li>
+<li>找出这些音与相邻音之间的过渡音：如第3行第1小节从high1-3，通过high1-5-3来作为过度。</li>
+<li>找出这些音与附近音可能存在的同音关系：如第4行第3小节，第1个音和第4个音都是low7，基于刻意的短期记忆可直接唱出后一个low7。</li>
+</ul>
+<p>通常经过上面3个步骤，能基本实现连贯识谱。</p>
+<h1 id="实践"><a href="#实践" class="headerlink" title="实践"></a>实践</h1><p>你能顺利唱下这首《ave maria》么？<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161023_chorus_lecture/ave_maria_hint.png" alt="《ave maria》"></p>
+<h1 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h1><p>每次学习新的合唱曲目前，团员应做好预习工作，至少识完自己声部的谱。</p>
+<h1 id="讨论"><a href="#讨论" class="headerlink" title="讨论"></a>讨论</h1><h3 id="1-既然学习首调有利于识谱，那么为什么不直接使用简谱，难道不是简谱对应首调，五线谱对应固定调？"><a href="#1-既然学习首调有利于识谱，那么为什么不直接使用简谱，难道不是简谱对应首调，五线谱对应固定调？" class="headerlink" title="1. 既然学习首调有利于识谱，那么为什么不直接使用简谱，难道不是简谱对应首调，五线谱对应固定调？"></a>1. 既然学习首调有利于识谱，那么为什么不直接使用简谱，难道不是简谱对应首调，五线谱对应固定调？</h3><p>待补充</p>
+<h3 id="2-听说音乐学院多用固定调，而不提倡首调？"><a href="#2-听说音乐学院多用固定调，而不提倡首调？" class="headerlink" title="2. 听说音乐学院多用固定调，而不提倡首调？"></a>2. 听说音乐学院多用固定调，而不提倡首调？</h3><p>待补充</p>
+<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><p>待补充</p>
+]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>师生合唱团 cecm chorus</tag>
+        <tag>乐理课 music theory</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>a brand new CHORUS VI</title>
+    <url>/2016/11/2016_05_a_brand_new_CHORUS_VI/</url>
+    <content><![CDATA[<p>今天是6字班合唱团新团员入团仪式的日子。一个月的相处，我仿佛看到了全新的黄金一代正在努力成长，团里正处在新一轮上升期，老团员们得努力一下，再添一把火。</p>
+<span id="more"></span>
+
+<p>我是6字班的，他们也是6字班的，这是我们联系的开始。<br>参加了寝室招新，错过了军训演出、迎新演出和第一次排练，参加的第二次排练（《Vi adoro》）效果不佳，我以为，这会是团里更为艰难的一年。<br>了解了他们对乐理课的反馈，带了两次排练和一次分声部，观摩了考核，我又满怀信心，这是全新的合唱团黄金一代。<br>上一个黄金一代是以小新、喵和杰仔为代表的2字班，4年一轮回，这一届缺少了传奇指挥，但却有有热情、有一定基础的新团员。杨老师、团长、钧哥、我，已经准备好尽我们所能给他们以系统的合唱训练。</p>
+<p>大致总结起来，有：</p>
+<ul>
+<li><p>乐理、声乐基础教学：</p>
+</li>
+<li><ul>
+<li>精心选题（选择自己很有把握的题目），认真准备。通过首调教学和今天的练声，有信心可以给他们更多系统性的东西；</li>
+</ul>
+</li>
+<li><ul>
+<li>列入计划的选题：声乐初步，合唱发声实践（每人轮流体验和声感），快速识谱实践；</li>
+</ul>
+</li>
+<li><p>合唱作品演唱实践：</p>
+</li>
+<li><ul>
+<li>形成每周周中加练一次、周末排练一次的惯例，可以做到一周学一首歌；</li>
+</ul>
+</li>
+<li><ul>
+<li>先搭好框架再细抠，让自己对整体进度心里有数的同时，也让新团员觉得每次都创造出了确定的成果；</li>
+</ul>
+</li>
+<li><p>活动计划和准备：</p>
+</li>
+<li><ul>
+<li>注重活动间的逻辑联系，想好不同活动能让团里得到什么，再决定是否要做和要怎么做：军训和寝室演出是初始新生，作品要有一定难度；新生进来后一个月内排练简单作品，为的是他们尽快上手，留住他们；学生节是为全系展示，作品需有意境，接地气；新年演出是为锻炼和发掘新生，可简单，但形式可多样；</li>
+</ul>
+</li>
+<li><ul>
+<li>提前准备，及时、反复督促准备人，提前确认准备成果：如入团仪式前提前确认打印档案、打印徽章、买蛋糕、买水果是否完成的；</li>
+</ul>
+</li>
+<li><ul>
+<li>做好任务分工，任务界面明确清晰，每块安排给最适合的团员；</li>
+</ul>
+</li>
+<li><p>组织扁平化：</p>
+</li>
+<li><ul>
+<li>打破团长-声部长-团员的层级，有利于互相深入了解，特别是在目前大四团长的时间较大二声部长的时间较为富余的情况下；</li>
+</ul>
+</li>
+<li><ul>
+<li>通知渠道丰富多样，形成互补：大群广而告之搜集是否有异常，小群通知确定信息补缺；</li>
+</ul>
+</li>
+<li><p>保证连续付出：</p>
+</li>
+<li><ul>
+<li>不让新团员存在合唱团空档期，每周有确定的任务和与之相应的收获：第一个月为考核，第二个月为学生节，第三个月为新年演出；</li>
+</ul>
+</li>
+<li><ul>
+<li>发挥老团员能动性，探讨老团员可以做什么。老团员基本任务：做好带路党，帮新生确定对错并强化记忆，推荐按至少1:3比例配置老团员；发掘优质老团员尝试带分声部排练，给予他们仅仅参与排练之外的新鲜感和成长感；</li>
+</ul>
+</li>
+</ul>
+<p>关于本学期后半段还要做的事儿有：</p>
+<ul>
+<li>学生节</li>
+<li><ul>
+<li>本周周中分声部加练月琴，周末合练月琴</li>
+</ul>
+</li>
+<li><ul>
+<li>找钢伴</li>
+</ul>
+</li>
+<li><ul>
+<li>演出ppt：《月琴》的主题确定，新团员照片收集</li>
+</ul>
+</li>
+<li>基础教学：再开2讲</li>
+<li>新年音乐会</li>
+<li><ul>
+<li>再排练2首简单曲目</li>
+</ul>
+</li>
+<li><ul>
+<li>锻炼1~2组小合唱。男生尝试《the sound of silence》，可加上吉他伴奏</li>
+</ul>
+</li>
+<li>明年排练曲目收集</li>
+<li><ul>
+<li>以前没练习下来的《鸿雁》、《Vi adoro》和《viva》</li>
+</ul>
+</li>
+<li><ul>
+<li>适当接触外文歌。老歌考虑《three japanese poens》，新歌考虑《Footprints in the snow》</li>
+</ul>
+</li>
+</ul>
+<p>btw：<br>链接今日排练的《春天里》视频。作为只排过一次的歌，新团员能学到这样的程度已经很满意了。<embed src='http://player.youku.com/player.php/sid/XMTgwODExNzI3Mg==/v.swf' allowFullScreen='true' quality='high' width='100%' height='450' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed></p>
+<p>4位11月生日宝宝：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161105_a_brand_new_CHORUS_VI/birthday.jpg" alt="the birthday baby"></p>
+<p>女高女低宝宝：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161105_a_brand_new_CHORUS_VI/soprano_alto.jpg" alt="the soprano and alto"></p>
+<p>男高宝宝：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161105_a_brand_new_CHORUS_VI/tenor.jpg" alt="the tenor"></p>
+<p>男低宝宝：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161105_a_brand_new_CHORUS_VI/bass.jpg" alt="the bass"></p>
+]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>师生合唱团 cecm chorus</tag>
+        <tag>排练 rehersal</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>base design of hd</title>
+    <url>/2016/11/2016_06_base_design_of_hd/</url>
+    <content><![CDATA[<p>第一个参与基础设计的HD项目和正在做的hd项目拼音简称相同。做HD的桩基和筏基时写了很多总结，成为了往后做项目的很好的参考。今天做hd基础，大致了解了它的脾气，有收获。</p>
+<span id="more"></span>
+
+<h1 id="选型"><a href="#选型" class="headerlink" title="选型"></a>选型</h1><ul>
+<li>根据建筑图估算基底标高：约-12m</li>
+<li>找到±0，看地质剖面图获得地层分布，找到基底标高所处地层情况：基底以下依次为2m粉土层（140kPa），&gt;8m的卵石层（400kPa）</li>
+<li>查看地勘的建议：1、基地处理（素土挤密桩）后做天然基础；2、桩基：参考周边已有建筑。但电话沟通后得知，卵石层中频现粉土夹层，因此地勘建议不用卵石层作为端承桩持力层，建议做摩擦桩；</li>
+<li>主楼f12+b3层，最大柱底反力约15000kN，若摩擦桩则桩长较长，不经济。同时考虑到可能的粉土夹层，因此考虑选择筏基以避免局部恶劣地基。</li>
+<li>查看地质剖面图，地质剖面均匀平稳，同时基底标高统一，有利于筏基。以下通过验算地基承载力及沉降，证实了筏基的可行性，得以最终选用。</li>
+</ul>
+<h1 id="地基承载力计算"><a href="#地基承载力计算" class="headerlink" title="地基承载力计算"></a>地基承载力计算</h1><p>《建筑地基基础设计规范GB50007-2011》观察深宽修正公式5.2.4：<br>【图】<br>基底标高落在粉土层，fa=140kPa<br>承载力修正系数：《基》表5.2.4中有粉土项。地勘没指明黏粒含量，暂取小值sb=0.3，sd=1.5<br>重度：不考虑地下水，地勘没给出每个地层的重度，因此深宽修正时的基底以下土重度r和基底以上土的加权平均重度rm均暂取18kN/m2<br>宽度修正：基底宽度远大于6m，取6m，则sb*r*(b-3)=0.3*18*(6-3)=16.2kPa<br>基础埋置深度d：对筏基取室外地面标高和基底的差值。此处注意两点：</p>
+<ul>
+<li>本楼场地东北高西南低，室外地面标高偏保守地取小值(-2.000m)，可使得计算出的d偏安全。d=-2-(-12)=10m。</li>
+<li>根据《基》5.2.4条文说明：<br>【图】<br>本项目楼座分布如下：<br>【图】<br>可知：裙房重量较小，不足以补偿挖掉的土体，不能保证主楼下地基达到与其深度相适应的深度修正。因此需根据实际裙房荷载得出等效的基础埋置深度（主楼荷载较大，主楼重量能压住裙房地基，主楼对裙房地基承载力的贡献大于裙房对主楼地基承载力的贡献）。<br>有如下2种方法得到等效埋置深度：</li>
+<li>手核：将基础、各层梁板柱、面层恒载换算得到总的基底以上结构自重（不考虑隔墙重量）。缺点是梁柱恒载不便手核，但可根据常用工程的工程量统计进行类比换算。</li>
+<li><ul>
+<li>0.5(筏板厚度)*25+0.5(筏板上建筑面层厚度)*20+(0.25(-3层人防顶板至少250厚)+0.12+0.18(首层板)+0.12*2+0.15(大底盘裙房顶至少150厚)*25+0.1*6*20=58kPa</li>
+</ul>
+</li>
+<li><ul>
+<li>根据以往项目的统计（以高标为例），框架结构的混凝土用量大致比例为：</li>
+</ul>
+</li>
+<li><ul>
+<li>楼板和建筑面层的重量比例大致为：0.13*25:0.1:20=1.6:1</li>
+</ul>
+</li>
+<li><ul>
+<li>考虑梁柱荷载放大系数的等效埋置深度=1.3*60.5/18=4.4m</li>
+</ul>
+</li>
+<li>根据yjk上部结构计算得到的柱底反力进行换算，优点是反映了梁柱荷载的贡献：</li>
+<li><ul>
+<li><strong>将已有yjk模型里的隔墙荷载设置为0，提取基底反力</strong></li>
+</ul>
+</li>
+<li><ul>
+<li>裙房部分受力较均匀，具有代表性，选取此处试算</li>
+</ul>
+</li>
+<li><ul>
+<li>柱底恒载约5300kN，单柱对应面积：8.4*8.4=70.56m2</li>
+</ul>
+</li>
+<li><ul>
+<li>基底反力约：5300/70.56+0.5*25+0.5*20=97.6kN/m2</li>
+</ul>
+</li>
+<li><ul>
+<li>等效埋置深度：97.6/18=5.4m<br>因此深度修正为：1.5*18*(5.4-0.5)=133kPa<br>可得fak=140+16.2+132=277.7kPa<br>6<h1 id="柱墩验算"><a href="#柱墩验算" class="headerlink" title="柱墩验算"></a>柱墩验算</h1>根据规范公式8.4.7~8.4.9进行筏板的冲切和剪切验算。研究了一下，总结了以下几个需要注意的地方：</li>
+</ul>
+</li>
+<li>为便于快速计算，编制了冲切剪切的计算表格，并和理正软件的计算过程进行了对比。借此也对规范进行了细致学习。<a href="">!点此下载</a></li>
+<li>规范针对扩展基础和筏板的冲切和剪切用了两套公式。虽然看似形式相近，但一定有区别。目前体会到的区别在于：</li>
+</ul>
+<h1 id="沉降计算"><a href="#沉降计算" class="headerlink" title="沉降计算"></a>沉降计算</h1><h1 id="对筏板基础的构造要求"><a href="#对筏板基础的构造要求" class="headerlink" title="对筏板基础的构造要求"></a>对筏板基础的构造要求</h1><ul>
+<li>筏板最小厚度</li>
+<li>最小配筋率</li>
+<li></li>
+</ul>
+<h1 id="考虑人防的基础底板的构造要求"><a href="#考虑人防的基础底板的构造要求" class="headerlink" title="考虑人防的基础底板的构造要求"></a>考虑人防的基础底板的构造要求</h1>]]></content>
+      <categories>
+        <category>结构 struct</category>
+      </categories>
+      <tags>
+        <tag>hd</tag>
+        <tag>基础 base</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2016秋季学期声乐训练课-I</title>
+    <url>/2016/11/2016_07_voice_training_2016_I/</url>
+    <content><![CDATA[<p>周二参加的合唱团乐理课，想趁此机会总结一下声乐训练的流程，为以后带团员做个积累。</p>
+<span id="more"></span>
+
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMTgyMzM5NTUxNg==' frameborder=0 'allowfullscreen'></iframe>
+
+</br>
+# 课程笔记：
+
+<h1 id="1-体会气息"><a href="#1-体会气息" class="headerlink" title="1.体会气息"></a>1.体会气息</h1><h2 id="叉腰"><a href="#叉腰" class="headerlink" title="叉腰"></a>叉腰</h2><ul>
+<li>手掌叉腰，拇指摸胯骨，手掌叉腰在最后一根肋骨和胯骨之间的部位，体会呼吸时小腹和腰部的起伏。</li>
+<li>吸气速度不要太慢，<strong>演唱需要快吸气</strong>。</li>
+<li>持续发声时，腰两侧撑住，小腹随演唱放气而缓慢往内收。</li>
+</ul>
+<h2 id="一个鼻孔呼吸"><a href="#一个鼻孔呼吸" class="headerlink" title="一个鼻孔呼吸"></a>一个鼻孔呼吸</h2><ul>
+<li>一只手叉一侧腰，另一只手堵住另一侧的鼻孔，嘴巴闭上，体会一个鼻孔吸气时另一侧叉腰的手体会到的起伏感</li>
+</ul>
+</br>
+# 2.练声
+## 哼鸣
+- 三音哼鸣，从E3-D3-C3开始，音阶3-2-1，半音升高
+- **哼鸣往眉心**唱，不要往鼻子上顶。哼鸣的位置非常高，比想象的要高得多。
+- 哼鸣不追求音量，不要微笑着唱。
+- 从C4开始，先少量吸气，**鼻子先出气再出声音**，通过出气带出声音。
+- 不能同时出气和声音，一定要先出气再出声音，保证声带闭合振动。
+- 男生要唱好假声，练习好哼鸣非常关键。
+- 到A4-G4-F4之后往下行，到B-A-G之后不通过先出气来唱。
+
+<h2 id="唱sa"><a href="#唱sa" class="headerlink" title="唱sa"></a>唱sa</h2><ul>
+<li>叉腰唱感受气息。</li>
+<li>可先唱s，1s后快速出sa。</li>
+<li>五音唱sa，从G3-F3-E3-D3-C3开始，音阶5-4-3-2-1。</li>
+<li>唱在硬腭（也叫“上口盖”）上。硬腭在上牙往后，如下图。硬腭再往后是软腭，在音高很高的时候才会用到。</li>
+</ul>
+<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161115_voice_training_2016_I/voice_organs.jpg" alt="发声器官图" title="voice_organs"></p>
+<ul>
+<li>避免舌根音（男生较容易出现）。舌根应平躺在下牙上，不离开前牙堵住喉咙。</li>
+<li>从bE4-开始要加强气息。首先多吸气，才能支撑住往外吐气。</li>
+<li>狒狒很聪明，知道敲胸的时候会有共振。所以在普通音域时，要想声音加大，要加胸腔。- 注意F4以下音域从胸腔发力，但是还要唱在硬腭方向。</li>
+<li>一直唱到了<strong>F4，去掉胸腔</strong>，同时<strong>嘴竖着张</strong>，但同时还是要<strong>唱在硬腭</strong>上，目的是为了声音走头腔。</li>
+<li>张嘴是<strong>张上牙</strong>，下巴不用力。重要的是要有意识。不一定能做到位，但有意识一定比无意识会做得更到位。</li>
+<li>从C4-一直唱到了A4-。</li>
+<li>注意越到高音需要吸气吸得越满，想着如何张嘴，同时将<strong>元音唱纯</strong>。</li>
+<li>到低音音域时，声音低但是要想着在上面发声。到高音音域时，声音高但是要想着从肚子发声。体会相反方向的支撑的感觉。</li>
+</ul>
+</br>
+# 3.月琴
+## 男高38小节：
+- 唱高音时通过辅音（声母）带出要唱的字。
+- **最高音之前要换气（“接续”之前）**，以保持足够的气息。
+- 可先通过唱sa寻找高音的感觉，再过渡到唱实际唱词。
+- 唱接续你di，而不是你de。di好发音。
+- 高音发u时，一定要唱得很小，u唱得小之后声音才会大。
+
+<h2 id="男高59小节（2房子）："><a href="#男高59小节（2房子）：" class="headerlink" title="男高59小节（2房子）："></a>男高59小节（2房子）：</h2><p>通过唱sa来练习，有体会之后再改唱Ah~。</p>
+<h2 id="男低32小节："><a href="#男低32小节：" class="headerlink" title="男低32小节："></a>男低32小节：</h2><ul>
+<li>“落山风”及其他长音的最后要归音。</li>
+<li> “风”拖长音的时候嘴不要越来越闭上，还是要打开。</li>
+<li>“向海洋”大跳时，唱歌的位置不能跟随音高而变动，而发声的支点要朝向相反方向。</li>
+</ul>
+<h2 id="男低50小节："><a href="#男低50小节：" class="headerlink" title="男低50小节："></a>男低50小节：</h2><ul>
+<li>从mp弱起渐强。由于音低，不好加气流，因此要实现声响，必须要加胸腔。</li>
+<li>唱连线，不要跟着音符而跳跃。</li>
+</ul>
+</br>
+# 4.春天里
+## 10小节：
+- 不要被摇滚版洗脑，唱歌时候嘴型不要变
+- 每到一个高音，想象声音被勾着唱，over，声音不能直着往前冲，要站在高音上唱
+
+<h2 id="14小节："><a href="#14小节：" class="headerlink" title="14小节："></a>14小节：</h2><ul>
+<li><strong>重要：不要唱满拍，该休止符的地方不要拖拍</strong>。想象唱完这小节后还有一个拍掌的空拍。</li>
+<li>音高较高，想着over。</li>
+<li><strong>重要的音应该是第三个字</strong>.“一”、“所”、“留”、“光”，最后一个音为弱。留字非常重要，用内力。</li>
+<li><strong>此段起伏</strong>为：1分句强（如果），2分句弱（我老），3分句强（请把），4分句弱（在那）。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>师生合唱团 cecm chorus</tag>
+        <tag>声乐 voice training</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2016土木建管系学生节合唱演出（一）——经验</title>
+    <url>/2016/11/2016_08_performance_in_student_festival_I/</url>
+    <content><![CDATA[<p>学生节过了，大节点over，需要好好总结。</p>
+<span id="more"></span>
+
+<p>先上视频：<br><embed src='http://player.youku.com/player.php/sid/XMTgzNTQxMzAzMg==/v.swf' allowFullScreen='true' quality='high' width='100%'  height='450px' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed></p>
+<h1 id="进度"><a href="#进度" class="headerlink" title="进度"></a>进度</h1><p>凡事预则立，这次学生节的准备是有条不紊的，11月初入团仪式刚结束就制定了计划。从11月第一周拿到谱子到演出的4周时间的安排如下：</p>
+<ul>
+<li>第一周周中：分声部排《春天里》</li>
+<li>第一周周末：合练《春天里》</li>
+<li>第二周周中：分声部排《月琴》</li>
+<li>第二周周末：合练《月琴》</li>
+<li>第三周周中：声乐课</li>
+<li>第三周周末：合练两首</li>
+<li>第四周周中：加伴奏和打击的合练</li>
+<li>演出前：彩排及临场开声和复习<br>时间紧，但有信心。原因在于：</li>
+<li>有往年的集训经历</li>
+<li>今年6字班的给力</li>
+<li><strong>责任和能力对等，压力和资源对等。不管多重的任务，给予与其匹配经验和能力的人，进行合理的安排和有保障的物质支持，不能说总能100%达到目标，但总能让人没有遗憾。反对不给予（时间、物质、人力等）资源而一味强调其责任的做法</strong></li>
+</ul>
+<h1 id="时间统计"><a href="#时间统计" class="headerlink" title="时间统计"></a>时间统计</h1><p>加练和排练的时间统计优先在上一次排练时达成一致，临时统计用“问卷星”省力：</p>
+<ul>
+<li>姓名（可根据各人的回复，有针对性地私下再联系确认时间是否可行）</li>
+<li>声部（快速得知各声部回复情况）</li>
+<li>可能的排练时间（统计具体：平时为晚，假日分上、下、晚）</li>
+<li>选最可能的1-2天，统计晚间排练时刻（7-8,8-9,9-10,10-11,&gt;11）</li>
+<li>问卷需限定回复时间，且在时间将近时群内催促</li>
+<li>遇个别人时间冲突，<strong>一定要私下询问具体情况，个别沟通是联系工作中很重要的方面，私下联系得多，公事也会好办</strong>，通常冲突来自于夜间有课的同学对于9点前后排练的认识的不同，只要9点下课后开练，基本能协调开</li>
+</ul>
+<h1 id="分声部加练"><a href="#分声部加练" class="headerlink" title="分声部加练"></a>分声部加练</h1><ol>
+<li>在新团员识谱能力有限的情况下，为提高合练效率，有必要进行周中分声部排练。事实上，带《春天里》分声部的过程很纠结，让我产生了一丝怀疑是否选歌适合于新生。还好周末合练时效果很好，几乎一遍框架就下来了。这一定程度上体现了分声部的作用，也说明了合唱曲目最省力的学习办法是从相关声部找音高、节奏和进口。从此分声部即使不顺畅也不会纠结（当然要想办法尽量顺畅）。</li>
+<li>分声部解决：结构、音、接口、节奏、词的问题。</li>
+</ol>
+<p>– 对结构，划分好段落，分段学习，再处理各段接口；<br>– 对音，用首调，加上大跳和接口处的单独分析，用临近的本声部和紧前声部找音；<br>– 对简单的音和节奏，不单独学，直接唱，团员的进度往往超乎想象；<br>– 对词，按节奏念下来即可。<br>3. <strong>时刻提醒自己目标值，不把过多时间浪费在除以上几点以外的地方。此处着力过多会造成其他地方着力机会的减少。谨遵129排练时刘西拉老师的观点，提倡高效和专业，一件事做完后要能迅速切换角色投入到另一件工作中</strong>一次分声部安排在1-1.5小时，结束后连贯演唱，其录音当做学习成果发群供课后学习</p>
+<h1 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h1><p>在第二周末两首歌结束学习后，向团员布置了自己录制完整两首歌音频发老团员检查的任务：</p>
+<ol>
+<li>为保证演出质量进行的督促；</li>
+<li>揭露团员整体情况：女生和男低作业提交积极，男高堪忧；</li>
+<li>通过单独作业，了解各人音色、音准和乐感，为solo选拔打好基础；</li>
+<li>允许不超过2人的集体作业的提交，以防有团员学得不令自己满意而自我放弃。<br>在演出前（或在学习一定量曲目之后）的作业制度要坚持。</li>
+</ol>
+<h1 id="声乐课"><a href="#声乐课" class="headerlink" title="声乐课"></a>声乐课</h1><p>所有学歌初步完成后需要声乐训练，这确实起到了纠正发声方法及解决这两首歌声乐方面难题的作用，虽然时间不长，但刘洋老师的讲解很有针对性。具体参考前一篇日志。</p>
+<h1 id="PPT"><a href="#PPT" class="headerlink" title="PPT"></a>PPT</h1><p><a href="http://of35dg2v1.bkt.clouddn.com/2016%E5%9C%9F%E6%9C%A8%E5%BB%BA%E7%AE%A1%E7%B3%BB%E5%AD%A6%E7%94%9F%E8%8A%82-%E5%B8%88%E7%94%9F%E5%90%88%E5%94%B1%E5%9B%A2-final-zyh.pptx">点此链接下载ppt</a></p>
+<ol>
+<li>主题选择尽量和曲目原意相贴切，更充分地利用歌词传递的原意。《月琴》本意为表达对曲艺艺术流传的担忧，但ppt构思时一度希望其表达思乡之情。在做ppt时，怎么做怎么觉得思乡之情配合的素材不搭，果断改为原意进行表达，就恰当多了；</li>
+<li>素材的选择可更接地气。往年的ppt至少有一首歌会选择展示合唱团历史及本学期活动，最初ppt构思时《春天里》就如此。但最终选择了系里各个班级的同学照片。相比于展示我们，展示他们的活动，更容易有亲切感，从而吸引和打动他们。 </li>
+<li><strong>ppt提倡早做，以利于多轮迭代。即使某一稿很满意了，过段时间再看，仍会有新想法进行改进</strong>。ppt不会一蹴而就，通常按照下面的步骤：</li>
+</ol>
+<p>– 首次构思：确定主题后明确需要什么样的素材<br>– 试找素材：通常首次构思很不成熟，对是否能找到契合主题的素材以及素材质量没有概念，因此需要小规模试找；<br>– 构思优化，对方向做出调整；<br>– 再构思完成后，进行大规模素材搜集；<br>– 素材码放和文字排版；<br>– 制作动画。个人习惯简单的淡入淡出，且能用切换实现的过度不用动画实现；<br>– 对着音乐调整切换及动画细节。<br>4. <strong>ppt提倡合作</strong>，以利于充分利用时间和人力。<br>– 确定ppt制作核心团队，首先对主题达成一致；<br>– 一人主导搭好整体框架，并进行任务分解。推荐按章节划分任务，而统一各ppt制作流程（如找素材、构思文字、细节调整等）的要求；<br>– 讨论各部分由谁负责，负责人分别与各部制作人细致沟通确保已完全理解希望呈现的效果；<br>– 各制作人按自己方便的时间进行制作，但在目标时间前完成并汇总到负责人处；<br>– 负责人汇总，调整完成后分发至各制作人（及ppt放映人）处，大家一起对完整的ppt提出意见；<br>– 后期微调<br>– 补充幻灯片备注（如何时切换），和ppt放映人良好交接，最好能提前预演。<br>将工作分解后，不至于任务集中于一人，且由于大家有空的时间段不一致，有时正好能错开时间进行工作。青春痣那年学生节和小新、喵合作制作ppt，就深感合作制作ppt的好处。<strong>一定要有负责人进行协调！负责人一定要给力，把进度和质量抓起来！（论一名好设总的重要性）</strong></p>
+<h1 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h1><p>排练间隙10分钟，见元标在写线代作业，他说他的习惯是要<strong>今日事今日毕</strong>，要尽量做到。</p>
+]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>师生合唱团 cecm chorus</tag>
+        <tag>排练 rehersal</tag>
+        <tag>演出 performance</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>这周唱&lt;红&gt;歌</title>
+    <url>/2016/11/2016_09_the_RED_song/</url>
+    <content><![CDATA[<p>终于要教小6们唱这首“临时”团歌了。</p>
+<span id="more"></span>
+
+<p>这首歌旋律截取至电影《建国大业》的同名片尾曲，是邓指为13年合唱剧场《青春痣》而改编的作品。<br>在《青春痣》中，小群讲述完哥哥小军的故事，在这首歌后，大家明白了这场聚会的“意料之外”和“情理之中”，找回了遗失的信物。<br>目前只找到3个版本，以下是13年12月中在《青春痣》发布会现场录制的版本。</p>
+<iframe height=498 width=510 src='http://player.youku.com/embed/XNjQ1OTYzNDg0' frameborder=0 'allowfullscreen'></iframe></br>
+
+<p>自此至今已过3年，正式演出没唱过一次。<br>虽然建团至今唱过100多首曲目，其中不乏带给大家感动的《我期待》《yonder》《in remembrance》……但《红》却能同时满足以下几点，使它足以成为团歌：</p>
+<ol>
+<li>它足够简单：2页A4，4行，4句话。如此简短，以至于每次演唱都会从头反复一次。简单的歌，才会让每位团员都能快速学会。</li>
+<li>它足够耐唱：唱好它不容易，需要很好的气息控制和很高的声音融合度，常唱常有新体验。我想，这次演出唱了，下次就等明年年中8周年专场吧。</li>
+<li>它是我们首先唱响的歌：《红》由邓指改编，并且同《春天里》、《摇篮曲》等曲目一样由我们（或和其它团体在同一时期）率先唱出。</li>
+<li>它让我们记住我们的合唱理想：《青春痣》是迄今为止的一座高峰，成功进行的这场演出让我们知道我们希望并且应当“将合唱音乐视作一种文化去对待，在正确的路上追求自然、科学而和谐的可持续发展的‘合唱音色’。”3年过去了，老团员没有忘记，相信30年过去，我们也不会忘。我们也更希望，一代一代的新团员，不会忘记。</li>
+</ol>
+<p>合唱既视为文化，就不单单是技术而已，而是反映了我们的修养、道德和精神追求。这样一群能走在一起的人，具有某些共同的东西。</p>
+<p>回看歌词：</p>
+<blockquote>
+<p>一朵红的花，静静地开放。<br>生长在心中，花蕾都飘香。<br>为什么总在，红的血液里流淌。<br>无论在哪里，你我颜色都一样。</p>
+</blockquote>
+<p>从加入这个团体的一刻起，一颗合唱的种子在心中播种。我们在集体中成长，不知不觉越唱越好，这颗种子也长大开花。如果你要问，为什么我们都能生出红色的花朵？那是因为，我们都深藏着合唱理想，心怀这红色的梦想和激情。</p>
+<p>这是一种解读。我期待，小6们不同时期唱起这首歌，会有不一样的体验。</p>
+<p>当然我同样期待，咱们能努力创造出另一座高峰。或许是十周年时，我有信心，并愿意和你们一起为之努力。</p>
+<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161128_the_RED_song/red_performance.png" alt="青春痣演出《红》时场景"></p>
+]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>师生合唱团 cecm chorus</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2016土木建管系学生节合唱演出（二）——教训</title>
+    <url>/2016/11/2016_10_performance_in_student_festival_II/</url>
+    <content><![CDATA[<p>教训太多，这篇才是重点。</p>
+<span id="more"></span>
+
+<p>好话不多说，别人说太多。缺点很多：</p>
+<h1 id="队形"><a href="#队形" class="headerlink" title="队形"></a>队形</h1><p>往年台上除了器乐，供合唱队员使用的能有4个话筒，今年只有3个。<br>走台时发现声音小，虽然设计了话筒摆放位置和队形，然而演出时还是差点崩掉：</p>
+<ol>
+<li>实际演出在夜间，场暗时舞台很暗，慌乱中实际摆放出的定位和彩排稍有偏差。</li>
+<li>彩排时没和工作人员刻意强调<strong>话筒朝向</strong>，演出时话筒摆放内收，正好和外放的队形相反，现场也没能很敏感地留意到，使得话筒能收音的范围大大减小。</li>
+<li><strong>整体站位偏右</strong>，致使男高多名队员偏移出话筒收音区，音效上低声部浓烈，高声部（旋律声部）淡薄，合声感受影响。</li>
+</ol>
+<p>实际站位如下：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161125_performance_in_student_festival_II/position_in_the_performance.jpg" alt="实际站位"></p>
+<p>站位分析图：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161125_performance_in_student_festival_II/opsition_this_time.PNG" alt="站位分析图"></p>
+<p>摸摸可怜的团长、原妈、陆大腿、木林、雅祺、丁丁，以及俊宁、元标、傲天等超过一半的男高被团灭。</p>
+<p>彩排前团长就建议说，要不要尝试一下团簇式站位，现在看来，要想加强话筒收音可能还真得这样。</p>
+<ul>
+<li>队员按照3个话筒分为3簇，各簇前三后四，对着话筒站立（而非对着指挥）</li>
+<li>话筒尾对指挥，且适当拉开团员和指挥间的距离，使团员方便看指挥手势</li>
+<li>左右分别为高、低声部，中间为高低混合声部</li>
+<li>各簇前排靠中为女生（大腿），两边为女生及男生大腿，后排靠中为男生大腿</li>
+</ul>
+<p>改进后站位：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161125_performance_in_student_festival_II/position_optimize1.PNG" alt="改进后站位1"></p>
+<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161125_performance_in_student_festival_II/position_optimize2.PNG" alt="改进后站位2"></p>
+<p>一个美好的愿望：什么时候宝宝们发声能力增长，使得不需要依靠电声就能唱响礼堂的时候，话筒的问题算是可以彻底解决了 ：）</p>
+<h1 id="和谐"><a href="#和谐" class="headerlink" title="和谐"></a>和谐</h1><p>也有观众提到声音的和谐度。这是一个大问题，但心里还算有数。<br>一方面在于平时排练所听给予的信心，音准是历届以来最好的一届。话筒所对的倩倩和栋爷都是音准担当，才不至于在话筒bug的情况下造成演出翻车。<br>另一方面在于此前排练抓识谱和音准，发声并没过多强调，有这样的效果已经满意。接下来的学习会开始抓和谐度，比如音色的统一，咬字的统一，基本功一项一项来训练。也因此上周和本周选了《the road home》和《红》，两首歌共同的特点是：考验气息保持、咬字、合声感强，希望能在轻声演唱（而不是如春天里等习惯性嘶吼）中听到各声部间声音的融合。</p>
+<h1 id="磨合"><a href="#磨合" class="headerlink" title="磨合"></a>磨合</h1><p>这是比较头疼的一方面。包括队员（特别是大腿）、指挥、伴奏的磨合。<br>大腿有经验，唱得肯定，只要大腿对，小腿也就没问题。<br>彩排时清晰地感受到，由于没有返送，因此：</p>
+<ul>
+<li>台上只有靠近钢琴的队员能听到琴声</li>
+<li>队员都往前发声，台两侧的队员几乎听不到互相的声音，钢琴也听不见队员的声音</li>
+<li>只有指挥和观众因为同时面向钢琴和队员，所以能听到所有人的声音</li>
+</ul>
+<p>这时候，听从指挥的指导就显得尤为关键了。而这次演出暴露出三个问题：</p>
+<ol>
+<li>队员（包括大腿）对指挥的手势不敏感，尤其是进口、收口、延长音的地方</li>
+<li>指挥的手势可能还不够明确</li>
+<li>大腿对于bug的处理还不够娴熟，大家之间缺乏默契</li>
+</ol>
+<p>针对以上问题，是否可从以下方面努力：</p>
+<ol>
+<li>首先队员和指挥商议出能被队员准确无误地理解的表示不同处理的明确的手势（如进口、收口、延长音、合拍与分拍等），并贯穿于平时排练中尽可能地使用，让所有人习惯</li>
+<li>所有人对全曲及所有处理熟悉，并了解曲目中容易出bug的地方（如进口、收口、变节奏、延长音、转调）</li>
+<li>当个别人出现bug时，指挥给予相应的人以直接的眼神提示，相应的人有所反应</li>
+<li>由于大腿领悟力和影响力较大，因此可以和指挥提前和议出易错之处如果出错需要怎么处理。例如，由于各种原因，若该进的地方没进，那是选择按照正确的进口的方式唱下去，还是推迟进口再从头开始唱。大家商议好了，才会有默契</li>
+<li>排练时进行应急训练，大腿商议好来一次故意集体出错的模拟练习，以让新团员有所适应，并了解他们的反应</li>
+</ol>
+<h1 id="声乐和钢琴"><a href="#声乐和钢琴" class="headerlink" title="声乐和钢琴"></a>声乐和钢琴</h1><p>鉴于演出前的一次排练才给钢伴谱，在没有提前练习的情况下合了这一次，那钢伴和指挥的磨合程度可想而知，也由此导致了彩排现场没有指挥时的混乱以及彩排后钢伴和指挥紧急联系进行各处特殊处理的确认。<br>对此，文烨的建议很有道理：<br>在通常的排练中，由于没有伴奏，指挥只能代理钢琴，没有合唱手势，大家只有到临近演出带伴奏排练了，才知道指挥在各处的手势是怎样的，熟悉的时间很短。只有有了伴奏，指挥的双手才会解放出来。<br>因此，并不是要到演出前一次才请钢琴伴奏来合，而是提倡定期（如一月一次）来和大家合，只要排练了一定的新曲目量，就可以进行，不但解决了以上问题，也让伴奏尽早拿到谱子，熟悉了排练曲目。<br>由此也想到了声乐训练，并不是到演出前才临时抱佛脚，也可以和伴奏类似，排了一定的曲目量就请刘洋老师来进行指导。</p>
+<h1 id="感谢"><a href="#感谢" class="headerlink" title="感谢"></a>感谢</h1><p>说了这么多，虽然有bug，但不管是演员还是观众，还是很享受演出的，最后还得：</p>
+<ul>
+<li>感谢指挥和演出的宝宝们</li>
+<li>感谢钢琴伴奏文烨，打击伴奏华昕</li>
+<li>感谢声乐指导刘洋老师</li>
+<li>感谢ppt工作组团长、团嫂、前团长</li>
+<li>感谢两首曲目的词曲、编曲，特别感谢邓指</li>
+<li>感谢提供素材的李导、科导、帅导</li>
+<li>感谢摄影摄像的钧哥及好友</li>
+<li>感谢想来但是没能来演出的老团员们</li>
+<li>感谢一直关心团里的老朋友们和观众们</li>
+</ul>
+<p>预计12月底的新年演出，咱们再见！</p>
+]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>师生合唱团 cecm chorus</tag>
+        <tag>演出 performance</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>the sound of silence 寂静之声</title>
+    <url>/2016/12/2016_11_the_sound_of_silence/</url>
+    <content><![CDATA[<p>加班之余，为演出找点灵感。</p>
+<span id="more"></span>
+
+<p>西蒙和加芬克尔的这首歌让多少人沉醉，当然也包括我，尤其是在这无声的夜晚。</p>
+<p>歌词如下：</p>
+<blockquote>
+<p>1：<br>Hello darkness, my old friend / I’ve come to talk with you again<br>哈罗，黑夜，我的老朋友，我又来找你聊天了<br>Because a vision softly creeping / Left its seeds while I was sleeping<br>因为有个幻影无声无息的爬过，趁我熟睡时留下了种子<br>And the vision that was planted in my brain / still remain within the sound of silence<br>这幻影，灌输在我脑海里，依然存留着寂静无声的此刻</p>
+</blockquote>
+<blockquote>
+<p>2：<br>In restless dreams I walked alone / Narrow streets of cobblestone<br>在无数浮躁的梦中我独自前行在鹅卵石铺就的狭窄街道上<br>Neath the halo of a street lamp / I turned my collar to the cold and damp<br>头顶上街灯的光晕将我笼罩，我翻起衣领以抵御此夜的寒冷及潮湿<br>When my eyes were stabbed by the flash of a neon light that split the night / and touched the sound of silence<br>当我的眼睛被霓虹灯的闪烁刺通时，它也划破了夜空,打破了黑夜的沉静</p>
+</blockquote>
+<blockquote>
+<p>3：<br>And in the naked light I saw / Ten thousand people, maybe more<br>在裸露的光线下 我看到数以万计或许更多的人<br>People talking without speaking / People hearing without listening<br>有的人聊天而不谈心，有的人在漫不经心地听着别人说<br>People writing songs that voices never share / No one dare disturb the sound of silence<br>有人在写着从不会被传唱的歌，但没人敢于去打破这份静默</p>
+</blockquote>
+<blockquote>
+<p>4：<br>“Fools” said I, “You do not know silence like a cancer grows”<br>我说 愚蠢的人啊 你不知道寂静会像癌症一样扩散吗<br>Hear my words that I might teach you / Take my arms that I might reach to you<br>听我的话，我才会教导你；抓紧我的手，我才能救你<br>But my words like silent as raindrops fell / And echoed in the wells of silence<br>但是我的话却如寂静无声的雨点落下，回荡在这无声的天井中</p>
+</blockquote>
+<blockquote>
+<p>5：<br>And the people bowed and prayed to the neon god they made.<br>人们对着自制的神像顶礼膜拜<br>And the sign flashed out its warning / And the words that it was forming<br>霓虹灯突然闪烁出警兆，警告的语句渐渐成型<br>And the sign said: “The words of the prophets are written on the subway walls / And tenement halls<br>预兆显示 先知的预言都被写在地铁的墙上和廉价公寓的大厅中<br>And whispered in the sounds of silence.”<br>这告诫也在无声的静默中被轻声传送</p>
+</blockquote>
+<p>这是我在团里第一次正式演出里的一首歌。十分顺利地在团里请到了泽帅来吉他演奏，小朋友很主动很靠谱。昨晚加练又听了元标和胜寒的合声，比当年的我们好了许多。但还是想做得更多，突破多一些。<br>找了几个参考：</p>
+<h1 id="SBMP（santa-barbara-music-publishing）版-solo-TTBB"><a href="#SBMP（santa-barbara-music-publishing）版-solo-TTBB" class="headerlink" title="SBMP（santa barbara music publishing）版: solo+TTBB"></a>SBMP（santa barbara music publishing）版: solo+TTBB</h1><p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/music/20161209_the_sound_of_silence/ed1%20the%20sound%20of%20silence.mp3" controls="controls"></audio><br>网址：<a href="http://sbmp.com/STM.php?CatalogNumber=1367">http://sbmp.com/STM.php?CatalogNumber=1367</a><br>音频下载：<a href="http://of35dg2v1.bkt.clouddn.com/blog/music/20161209_the_sound_of_silence/ed1%20the%20sound%20of%20silence.mp3">ed1_the_sound_of_silence</a><br>这一版较规整，没有出现原版的低声部。：比较喜欢</p>
+<ul>
+<li>第二段前部的淡淡合声</li>
+<li>第三段前的逐次进入</li>
+<li>第四段前两句</li>
+<li>第五段(and the sign flashed那一句)的效果，合声有推动感</li>
+</ul>
+<h1 id="阿卡版1-JHU-AllNighters-ICCA"><a href="#阿卡版1-JHU-AllNighters-ICCA" class="headerlink" title="阿卡版1-JHU AllNighters - ICCA"></a>阿卡版1-JHU AllNighters - ICCA</h1><p>JHU: John Hopkins University，在美国华盛顿特区巴尔的摩，是邓指毕业的大学，膜拜一下<br>AllNighters是jhu内一个阿卡团体,感谢给我们分享这个视频的上传人wonderofchill，据说以前是北大外院的学长，看似在jhu念音乐。</p>
+<iframe height=498 width=100% src='http://player.youku.com/embed/XMzMzMzQwMTA0' frameborder=0 'allowfullscreen'></iframe>
+不说声音，这一版的动作值得学习，简单，幅度轻微，但有效果。
+一开始站两拨，随着演唱人慢慢活跃散开，注意散开时并不是所有人同一时间一齐散开，而是一个一个散开，移动时还类似《青春痣》中第三幕开场时演员进入时的走横平竖直的路线。最后一段段落开始做波浪，最后一句则收拢重归两拨，回到原始位置。
+此曲后还有几首阿卡，每首的动作各有不同，值得参考。
+
+<h1 id="阿卡版2-未知团体"><a href="#阿卡版2-未知团体" class="headerlink" title="阿卡版2-未知团体"></a>阿卡版2-未知团体</h1><iframe height=498 width=100% src='http://player.youku.com/embed/XNDgzODAzNzcy' frameborder=0 'allowfullscreen'></iframe>
+此版在合声编排上显得用心。原本silence五段歌词，若缺乏变化则容易沉闷。这版较好地解决了这个问题，各段之间均有变化，显得新意不断。
+- 第一段沉静缓慢，以此作为铺垫。
+- 通过段末转折，一人引领加快的节奏，使得第二段活泼，同时背景中模拟吉他的合声也带动了整个气氛。
+- 第三段中加了轻微的打击，背景合声相对不太明显，显得暗潮汹涌。
+- 第四段中打击加重，背景音中不断出现较大波浪，预示后来的高潮。
+- 第五段合声声部则放开，有声部间的交错，也有声部共同创造出的辉煌效果，并同样在最后迅速做了收的处理，回归到的吉他旋律也和前文做了很好的呼应。]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>师生合唱团 cecm chorus</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>张王家的往事</title>
+    <url>/2017/02/2017_01_homesick/</url>
+    <content><![CDATA[<p>每年春节回家，央视都会播放纪录片《记住乡愁》，今年已第三季。耳畔响起雷佳的《乡愁》，心中荡起浓浓的思乡情。片尾曲一直在变，而片头曲却始终如一。<br>今晚拜见外公，一起看完一集《记住乡愁》，看黄姚镇居民的乐善好德，听他们祖辈流传的祖训家规，突然迫切地想了解自己家族的历史。<br>父亲姓张，母亲姓王，张王两家的历史，我都想了解。我想探寻家族变迁的过程，以及在这漫漫历史长河中，传承家族文化、维持家族兴旺的魂。<br>于是在这间温暖的小屋里，今年89岁高寿的外公，雪白的头发，花白的眉毛，不紧不慢地向我讲述着，我从未听过的一些事。</p>
+<span id="more"></span>
+
+<p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/homesick_LeiJia.mp3" controls="controls" title="乡愁-雷佳" autoplay="autoplay"></audio></p>
+<h1 id="王氏"><a href="#王氏" class="headerlink" title="王氏"></a>王氏</h1><p>外公这一脉王氏的起源为某王姓丞相，大约为唐宋时期。</p>
+<blockquote>
+<p>名词“丞相”和“宰相”有区别，但估计外公并不区分。上网查询，唐宋时期的丞相/宰相，姓氏为“王”的有11位（唐5宋6，参见百度百科词条“<a href="http://baike.baidu.com/link?url=kzuB4_wfp3Ypy7YnKBofLkRKgIl9pF2tODCOhQYNNIGLuzHsJ6PIvYJ47q3JadYtnl8ec6gwMKshhkPwtPUT9wfPnxMvkiMJ3AU_TmTm5jG">丞相</a>”）。<br>外公说王氏起源在家谱里有记载。家谱写着字辈轮次的排列，写着家规家训，想必不管哪个家族，唯有由德高望重的人定下的规矩，才会在家族如此流传。这次回京仓促，但和外公做了约定，下次回家得借读一番以便细细了解。</p>
+</blockquote>
+<p>最初发于山西，后迁往湖北麻城孝感，后转至四川。</p>
+<blockquote>
+<p>此孝感非指目前湖北省孝感市，而是指湖北省麻城市古孝感乡，目前已并入其他乡镇。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/wuhan_xiaogan_macheng.jpg" alt="麻城孝感位置"><br>麻城是<a href="http://www.macheng.gov.cn/about/whmc/mcxgx.htm">中国古代‘八大移民发源地’之一，是‘湖广填四川’的起始地和集散地”</a>）。“要问祖籍在何方？湖广麻城孝感乡”（<a href="http://news.163.com/16/0403/04/BJMU84LL00014AED.html">《麻城孝感乡 究竟是怎么回事？》</a>）。<br>网上仍散落着寻找麻城孝感王氏宗族的帖子（如<a href="http://www.mala.cn/thread-6817032-1-1.html">《寻1650年湖北麻城迁入四川广安的王氏家族宗亲》</a>），可惜按外公的字辈和他们并不一致，不是同一分支。<br>重庆渝中区的<a href="http://baike.baidu.com/link?url=3ejDtUmIHfQsZ1O58tLdAmJYrCDGskfQlgia692JRG3d3Fv0_VBrxzQdudPjGXR-NqjPN8n37-Mr9zpVx3AT-f-tiTTO7Qc2g-s_7SnKSUlEj0u_5Teu3YXzmtbEXa5kbQIlFndZg-ELt9KxE2iUqq">湖广会馆</a>，现含一座湖广填四川移民博物馆，距离解放碑和朝天门并不太远，有机会去了解了解那段历史。</p>
+</blockquote>
+<p>外公出生于重庆璧山灯油坪（音）寨子，6岁多时母亲跑回了娘家，就剩他和父亲两人在家。8岁时迁往永川陈食，15岁时被父亲以三担谷子为交换给国民党当壮丁，编入国民革命军第三十二军一三九师四一五团一营炮一排，抗战时还在宜昌打过日本鬼子。</p>
+<blockquote>
+<p>当前正热播的电视剧《宜昌保卫战》，其中用相当的篇幅描写了国民党军队。外公对于国民党军队在抗日正面战场的贡献是认同的，并为当前国内越来越公开地讲述国共两党共同的抗战史表示肯定。<br>武汉失守后，以宜昌为中心的战场上,先后发生了随枣会战、枣宜会战、反攻宜昌战役、鄂西会战、常德会战等大规模正面作战（<a href="http://news.cn3x.com.cn/content/2015-01/20/content_656360.htm">《宜昌抗战在中国抗日战争中的重要地位》</a>，其中有胜有败，有英勇也有悲壮（<a href="http://www.360doc.com/content/14/0627/11/8102575_390205394.shtml">宜昌沦陷始末</a>），抗战时中国战区殉国的级别最高的将领张自忠就是在枣宜会战中牺牲。<br>从外公所讲述的战斗时间以及部队番号，推测参加的是1943年的<a href="http://baike.baidu.com/link?url=k6gBLNs0_YO9nFdlyxNYloOISAswcGcsC5Z1l3Lze5yacTPB2o2NHo1sduQjyzMrlOll_X68MLGF67RGfqhyR7EwWfd4P0CIfR3yebd3SXkiSJyrQMm3MG7RYzQIzK3-9sGq4jp7Ot44jLpjNFVUF06-3_VaE_b73nPy3p1zCUjBi_w9W6Sk1toD_f2rZ5Po6E-yPNblEvALauEqiS_Ud_">“鄂西会战”</a>，第32军军长宋肯唐，139师师长孙定超，他们后来都去了台湾。</p>
+</blockquote>
+<p>新兵每次吃饭时间不足5分钟，基本都喝含少量谷子稗子的米汤，也不管粥的滚烫。日本投降后一年多，国民党颓势已现，外公想要外逃，但被抓回，肩上被捅了一刀。</p>
+<blockquote>
+<p>外公会感叹始终没想明白一个问题：“以前中国只有不到4亿人口，尚且生活条件这么差，好多人吃不饱。而现在中国的人口有13亿多，生活条件却有如此大的改善。”中国盘子大，经得住折腾，但也不能有大折腾。和平稳定的环境对于中国的重要性不言而喻，只有这样，才有机会迎来发展机遇。</p>
+</blockquote>
+<p>一年后，部队被遣入河南新乡，准备调往北方，但中途被解放军阻击。阴差阳错，外公始得离开部队回到家乡，认识了外婆。</p>
+<blockquote>
+<p>这次和外公只聊到这，这次整理谈话内容的过程中发现所遗漏的细节，下次还待和外公确认。外公感叹现在的记忆力已不如前，以后访谈用录音的形式，估计较为妥当。<br>以上整理也参考了老妈的记录。本此次访谈老妈并不在场，回来整理过程中被老妈发现，给了我这张曾经和外公交谈时的记录，原来老妈一直记得了解外公的生活历程这件事，感动crying~<img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/mum_record.jpg" alt="老妈记录外公讲述"></p>
+</blockquote>
+<h1 id="张氏"><a href="#张氏" class="headerlink" title="张氏"></a>张氏</h1><p>爷爷在我来京上大学后不久去世，很遗憾我无法亲口向他求证，只能凭借我和父辈们的记忆。<br>爷爷姓张，出生于浙江湖州，后随家人到上海生活。小时候偶尔能听到爷爷用上海话和那边的亲戚通话，也知道爷爷喜欢吃酸甜口味的江浙口味。初三毕业时，爷爷带我和父亲去江浙，让我有机会见到上海的长辈亲戚们。</p>
+<blockquote>
+<p>浙江湖州临近太湖，介绍可见<a href="http://baike.baidu.com/link?url=dj5d5B8RigvgKzbLucv_-ddaHIyedZXUxIpPGK42ZJAZJHRjbEWYuAs_DAbqOQS3zYi0w7FcMdhNuqByL__zZsGIXs-sCpBk_YFLH03p7zS">百度百科词条“湖州”</a>。<img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_01_homesick/huzhou-shanghai.jpg" alt="湖州上海位置关系"><br>记得爷爷提到老家名称中带“兴”字，看地图湖州下辖吴兴区和长兴县，具体位置还待和知道的长辈们确认。</p>
+</blockquote>
+<p>抗战时，爷爷参加了“二野军大”，随刘邓大军挺近大西南，这才到了重庆。偶尔会听爷爷自豪地说起这四个字，记得相册中还保有爷爷参加战友聚会时的合影。</p>
+<blockquote>
+<p>二野军大的简介可见此（<a href="http://www.lbctzjng.com/html/mhhy/zzwz/15/02/630.html">《二野军大是我军最有特色的军校》</a>），可推测出爷爷17岁左右随军来到重庆。当时的革命青年们，为了祖国建设的前景远离故土，也是让人为之动容。</p>
+</blockquote>
+<p>说到张家家谱，我不记得曾见过，父亲也是，只有寄希望于上海的亲戚们了。听说上海的叔辈曾经寻访过湖州老家，那边还有亲戚健在。</p>
+<h2 id="……"><a href="#……" class="headerlink" title="……"></a>……</h2><p>有新的资料我会及时补充，希望构建起一大家人共同的回忆。</p>
+]]></content>
+      <categories>
+        <category>生活 life</category>
+      </categories>
+      <tags>
+        <tag>家庭 family</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>O ever youthful, o ever weeping - 写在2016年的最后一天</title>
+    <url>/2016/12/2016_12_O_ever_youthful_O_ever_weeping/</url>
+    <content><![CDATA[<p>戴上耳机，放大音量，生活中不能少了音乐。<br>前晚偶然听到《Tennesee》，一见倾心，想了很久该怎么形容，最贴切的还是——深情。<br>昨晚加完班回家，下了《Pearl Harbor》（珍珠港）电影和原声BGM，看完了，听完了，才知第一次听时的抓心，是仿佛心灵长上了眼睛和翅膀，像Rafe和Danny般飞向天空，一边俯瞰田纳西农场的金黄和太平洋海水的深蓝，一边自由呼喊。我爱这个世界的美好，纵使个人渺小，但有无限可能去创造。<br>2016的最后一天，不上班，收拾屋子，整理思绪，为一年的忙碌做结，盼来年的生活有新意。<br>同时一如既往的，愿我们永远年轻，永远热泪盈眶~</p>
+<span id="more"></span>
+
+<p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/life/2016_12_O_ever_youthful_O_ever_weeping/Pearl_Harbor-02+04.mp3" controls="controls" title="tennesee-the background music of the movie pearl harbor" autoplay="autoplay"></audio></p>
+<h1 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h1><p>工作上可选余地不多，新活儿接旧活儿，赶上什么是什么。<br>但今年是幸运的，工作多样而出新，是我想要的。于个性，喜欢适当的新挑战；于发展，需要全面锻炼。</p>
+<ul>
+<li>今年有1个项目投用，宁波；1个项目结构封顶，重庆；2个项目正在结构施工，金港、日照；若干项目设计中或刚完成设计，海东、长陵、龙岩、仙游、燕郊。</li>
+<li>今年有大半年待在外地，1-3月在重庆工地现场服务，4-8月在厦门机场驻场设计。</li>
+<li>不经意间，已经把主要结构部件都设计过一轮。前两年的模板、梁、板、基础、楼梯、坡道、挡土墙、消防水池，今年的预应力、钢结构、墙柱、人防。</li>
+<li>第一次做了一个项目的工种负责人，排名二，但仍会为之一振。更综合的设计过程，更强烈的设计参与感，和把每个设计要点弄透彻的畅快感。</li>
+<li>前几天得知去年参与的项目获得了院工程设计综合和结构的一等奖，这是年末惊喜。这么多人煎熬了这么久，慢慢到了开花结果的时候。</li>
+</ul>
+<p>于年末，在结构设计中有了上路的感觉。3年上路，完成了一个小目标。感谢和我一起经历的有担当的战友们（请自行对号入座哈:P），我很珍惜！<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2016_12_O_ever_youthful_O_ever_weeping/2016_work.jpg" alt="2016_work"></p>
+<p>对明年的工作预期：</p>
+<ul>
+<li>祝正在施工的项目顺利。尤其金港，项目不大，但最有设计感，也投入最多，期待明年上半年的结构封顶，一朵朵大蘑菇展开的样子，一定十分震撼。</li>
+<li>希望参与一个有设计特点的复杂项目，满足我尝鲜的愿望。</li>
+<li>老生常谈地，熟练设计技能，提高设计效率。设计师最宝贵的是时间，从小偷那抢回来。</li>
+</ul>
+<p>也有工作困惑：</p>
+<ul>
+<li>10月和同行学长取经，说到尚未在工作中找到属于自己的方向。公建、住宅、大跨、超高层、BIM，都有涉足，但我的发展方向在哪里？学长说常要看机遇。那我就在完善自己的基础上，努力把握每一个机会。</li>
+<li>如何鼓励复杂项目设计和创新？7月去深圳，邓指击中我心的话是，不管在哪行都要做不一样的事，只有创新才能确立自己的独立性。复杂项目费时费力，若图纸不出量。如何解决？以产值为导向的大棒，让设计人有顾虑。靠自己，进一步提高效率，挤出时间做复杂项目，减少个人产值损失。靠组织，进一步完善制度。今年是分配改革的第一年，如何平衡，大家都期待着。</li>
+</ul>
+<h1 id="合唱"><a href="#合唱" class="headerlink" title="合唱"></a>合唱</h1><p>入团3年时正好毕业，想过是否要继续留在这，转眼就又过了3年。临走时邓指的“合唱团最宝贵的财富是老团员”犹在耳边，毕业时自己许下的“要做点不一样的合唱”的愿望也时常记起。像两句信条，时常给我力量。<br>我和你们有同样的代号，6带来了最初的亲切感。初入时你们的吃力，让我觉得应该负担更多，才有了这半年在合唱中的很多第一次。快速识谱和发音咬字的专题讲座，时隔4年再次建立的有规律的加练制度，更特别的来自于主持和编曲经历。</p>
+<ul>
+<li>平生第一次主持献给了团里。站在台上最重要的体验是主持的节奏感。我有无尽的话，恨不得一股脑儿都告诉大家，有时候显得缺少了必要的连接和停顿。这和设计类似，并不是项目初期猛赶进度就最好，要根据项目特点找到节奏感，不快不慢，建立适当的项目穿插，保证必要的休息，才是最佳。主持时，如何应对突发状况，如何让观众有更多的参与感，如何安排托儿，全是经验。在非专业领域，从无到有的经历是最关键的，有机会让新团员多锻炼。</li>
+<li>第一次参与编曲。编制节目单时觉得少了一首歌，又想发挥新团员的乐器特长和培养新solo，就想起了silence，这是我10年入团第一次演出时唱的歌。为了扬长避短，于是有了几轮改编。得到了光哥和新哥对编曲的大力支持，又多亏泽帅、元标两位新团员的勇于承担以及全体男生的努力，有了现在的效果。不熟练，但两周创造出一首曲子从诞生到演出的全过程，蛮惊讶了。时光荏苒，时隔6年唱出的同一首曲子的两个版本，我们成长了。</li>
+</ul>
+<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2016_12_O_ever_youthful_O_ever_weeping/the%20sound%20of%20silence%20-%20%E6%8B%BC%E6%8E%A5.JPG" alt="choral - the sound of silence"><br>2010年的the sound of silence</p>
+<iframe height=300 width=400 src='http://player.youku.com/embed/XMTc2MTQ2NzYw' frameborder=0 'allowfullscreen'></iframe>
+2016年的the sound of silence
+<iframe height=300 width=400 src='http://player.youku.com/embed/XMTg5MzM0NTM5Mg==' frameborder=0 'allowfullscreen'></iframe>
+新年演出前，mym问我，“这一届合唱团是不是很不行？”我故意没有回答。学期结束了，可以说了：不是很不行，是太行。音准max、积极性max的一届，我们做点什么，都能迅速从你们身上得到积极反馈。之前说过的“黄金一代”，你们忘了么？
+群里对大家说还要努力提高，能力越大才能做更多好玩的事。学习也要加油，期末满意了才能在合唱中放心地投入更多。而对我，何不是如此？
+10年去HKUST访问时有幸得到了系主任Christopher Leung的接待，现在新哥成为了他的学生。梁老师坚持口琴社训练40年，每周五都回去排练，上个月还在音乐会上独奏。又想起澳洲求学时参加的MonUCS，有的团员拖家带口，有的团员唱白了发。把合唱当做另一项事业，新哥说，为什么要被人理解？也对。
+明年任务还很艰巨，团长出国，我备考，多发挥新生的自主性。小6们，就看你们的了。
+
+<h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>学习使我快乐，是生活中永恒的主题，不管何时何地。</p>
+<ul>
+<li>厦门驻场的7-8月，每周日早8点半，赶车前往厦图或思明区图占座，开始一天的自习。晚6点，在旁边的金逸影城小看一片，8点回营，周而复始，充实惬意。啃下两本预应力，两本考试书，重新发现专业学习的快乐所在。</li>
+<li>已经习惯于用surface看书做笔记。中秋3天，国庆5天，抱着小4勾勾画画，拿下两门课程。长假的时间是心无旁骛的。</li>
+<li>10月中，探索着，一点一点地，建立了这个博客，加了域名，改了代码，弃用了之前的微信号。在这里，不受微信的种种限制，自己创造的东西，能更好地把控，也更珍惜。</li>
+<li>11月底，当了工种，学习做专业技术汇报，每一页ppt上的内容都充分论证过，反复查阅了规范，复核了计算，厘清了以前模棱两可的概念。评审时的讲演不紧张。再一次感谢给我机会、带领我上路和伴我前行的大家（鞠躬）！</li>
+<li>12月底得知，今年接收的SCI已经在25日网络出版，将在17年1月正式出版（鼓掌）。研究是工作之外的创造，感谢冯老师和师弟师妹们。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2016_12_O_ever_youthful_O_ever_weeping/thin-walled.PNGThin-walled_SCI.JPG" alt="cover of sci"></li>
+</ul>
+<p>对学习的期待：</p>
+<ul>
+<li>错过了史上最容易的注结考试年，明年或许是最难的一年，但这个坎，过与不过，他都在那里。明年计划拿下。</li>
+<li>计算机是为数不多的能同时结合结构设计和合唱的领域，明年要再稍微走得远一点。和小明一起做的工作，或许我也可以参与。这项崇高而伟大的事业，从来不觉时间长了就没有了热情，会一直推动。</li>
+<li>回看博客上的内容，想加点专业技术相关的，毕竟叫“结构张”，这是今年的未竟之事，小遗憾。写一篇日志挺费心思，尤其是在加班之后，向老朱总学习：）</li>
+<li>发一篇工程论文。</li>
+</ul>
+<h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><ul>
+<li>在厦门时锻炼得好，几次跑步就环了大半个岛，回北京反而懈怠了。雾霾不是借口。看着小朋友们用阿甘跑步来打卡阳光长跑，自己也在旁边的首师大测了测3000米，比本科时慢了1分多，略无语。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2016_12_O_ever_youthful_O_ever_weeping/running_in_XM.JPG" alt="running_in_XM"></li>
+<li>11月初参加了万开和旭乔的婚礼，龙岩之行的无限感慨最终还是没有写下来，野田一直催促我要加快脚步，我也觉得是时候了。做婚礼视频时看到和回想到你们的一路历程，又有了新的感触。从享受一个人的状态，到开始憧憬两个人在一起时的样子，只是一念之差。生活，会慢慢起一点变化。</li>
+<li>定个小目标，今年找个春/秋时节，带父母出去旅游。能感觉到，有我在的时候，他们比较安心，我也如此。这种感情，在今年的团里也能找到。对于我在历届合唱团里倾注了最多感情的6字班来说，总有一天你们也会离去，我尚会不舍，而与父母从从小的每日相伴，到现在的聚少离多，对分离的感伤，更刻骨铭心。</li>
+<li>广义上讲，上面所有写的，包括工作，都是生活。看完《珍珠港》，了解了本·阿弗莱克和乔治·哈奈特的经历，生活很长，也很短。从20+到40+，人生兴许会发生很大的变化，可能向上，可能向下，可能是U形，也可能相反。但总常想起老妈说的话，“有多大能力，做多大事”，是要量力而行，也是要尽力而为。付出我所有的努力，去拥抱生活，热爱生命。</li>
+</ul>
+<h1 id="祝福"><a href="#祝福" class="headerlink" title="祝福"></a>祝福</h1><p>年末，我祝福，我的父母，身体健康，这是远方儿子最大的挂念。<br>我祝福，来到这里的，辛劳一年的你，以及你身边的人，我的亲人和朋友，以及有缘的陌生人，都平安，快乐，心想事成。<br>O ever youthful, o ever weeping. 永远年轻，永远热泪盈眶。</p>
+]]></content>
+      <categories>
+        <category>生活 life</category>
+      </categories>
+      <tags>
+        <tag>师生合唱团 cecm chorus</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>struct zhang 参与的第二个音乐作品《河》——（1）给父母的歌</title>
+    <url>/2017/05/2017_03_new_song-1/</url>
+    <content><![CDATA[<p>今年的母亲节，送给老妈（和老爸）一个特殊的礼物——一首参与作词、作曲的新歌，表达儿子对远方父母的思念和祝福。老妈说上次的视频里字太小看不清，今天上午拿到的原版视频，截出了这一版。好歹字基本能看清楚了。<br>上周水利系学生节的首演，紧接着郑州项目的超限沟通会，几天的紧张准备好在最终有了超出预期的结果。今天周六终于有时间总结下《河》的创作思路和过程，也算为上半年的音乐上的突破做一个小结。另外，创作和排演过程中也发现了很多艺术和工程上的联系，下一篇会写一写。之后，就可以放心地进入音乐修整期，全力投入下半年的设计工作了。</p>
+<span id="more"></span>
+
+<iframe height=450 width=100% src='http://player.youku.com/embed/XMjc3NTU0NzUyNA==' frameborder=0 'allowfullscreen'></iframe>
+
+<p>这首歌以4个段落分别代表了幼儿、少年、大学、放假回家四个时期的家庭往事，表现了子女从对家的依赖、疏离到最后回归的过程。取名为“河”，一方面呼应水利系学生节名字“有河不渴”，二来歌中选取了成长过程中和河有关的几个意向（手、笔迹、围脖、泪水），表达家庭中“爱的小河永不干涸”的主题。<br>全曲分为4段：</p>
+<h1 id="段1"><a href="#段1" class="headerlink" title="段1"></a>段1</h1><blockquote>
+<p>小时候爸爸的手 / 是一条宽广的河/承载我生命的躯壳 / 越过道路坎坷<br>小时候妈妈笑容 / 是一条温暖的河 / 赶走我黑夜的梦噩 / 抚平心中波折<br>当我饿了痛了累了 / 我的小河流淌 / （他们）为我湿了衣裳 / 也为我红了眼眶</p>
+</blockquote>
+<p>现在对幼儿时期的印象并不深了。现在想起来有这么几个场景：</p>
+<ul>
+<li>某天早晨我坐在“老小学”（不和爷爷奶奶合住之后，我们这个小小的三口之家搬到的一栋3层单位宿舍）的走廊上，爸爸上班前端来一碗醪糟汤圆，叮嘱我小心烫；</li>
+<li>某天晚饭后散步走累了，回家路上我骑在爸爸的脖子上（方言叫做“马马肩”），爸爸双手握住我的小脚让我保持平衡，而我在他头顶肆意地闹腾；</li>
+<li>某天妈妈自行车接我外出，她在前座唱着欢快的歌，我则在后座紧紧地靠住她，一路上风吹凉爽，娘俩也一路欢乐。现在还记得爸爸的自行车是厂里自己生产的五洲大轮28圈，妈妈是小轮26的凤凰自行车。</li>
+<li>以及难忘的每次感冒后被拖到厂里医务室打针的场景，一定有父母陪同，打针时紧紧抓住他们，才会心安。</li>
+</ul>
+<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/2017_03_river_1/01_part1.jpg" alt="段1：幼儿时期的家"></p>
+<h1 id="段2"><a href="#段2" class="headerlink" title="段2"></a>段2</h1><blockquote>
+<p>爸爸的笔迹 / 是条有学问的河 / 行云流水中 / 成为我最初的临摹<br>妈妈的围脖 / 是条有温度的河 / 可她说更温暖的 / 是有个贴心跟班呢<br>这时的我 / 是全家的开心果 / 阵阵的欢笑 / 是最纯真的河<br>多想 / 停在这个时刻 / 永远不分隔 / 时光的车辙却一瞬而过</p>
+</blockquote>
+<p>现在想来，和父母共处最多的就是小学初中了。一直在厂里的子弟校上学，离学校也就十分钟路程，放学按时回家，晚上晚饭后就和他们一起散步，不管冬夏。这确实是段最无忧无虑的时光，也给了我很多美好的回忆：</p>
+<ul>
+<li>散步最不能忍的就是口渴，每次口渴就会和父母叫唤，据说后来出了乐百氏和娃哈哈，我就开始除这两种不喝。一个“挑喝”的孩子。</li>
+<li>某年家乡开了第一家超市（本地品牌“名豪”，现在还在），从此散步的距离扩展到了超市，每天去超市，看有没有要买的生活品和零食，再回家。</li>
+<li>夏天最难忘的就是路边的大西瓜，一家三口都很喜欢吃，散步返程到楼下买一溜西瓜，回家放冰箱，全家人都洗漱完毕后再一起吃，解渴解馋。</li>
+<li>爸妈的厨艺都很好，妈妈也会不定期地做些新鲜的东西改善伙食。记得一年暑假妈妈第一次做冰粉和凉虾，由于太好吃，我连吃了三碗，晚上就发烧了。</li>
+<li>每天的午餐和爸爸都有很好的分工，我负责到楼下买榨菜，爸爸负责做汤，等我买好榨菜回来开始剥蒜，他再开始煮面，最后爷俩一边吃面一边看午间广东台的体育新闻。</li>
+<li>一次在小学操场扫地，旁边技校的学生踢球砸到耳朵，有点耳鸣。回家被爸爸问出原委后，他当时就带我到学校和那帮人理论。还好耳朵没有大碍，不过现在想起来都很温暖。</li>
+</ul>
+<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/2017_03_river_1/02_part2.jpg" alt="段2：少年时期的家"></p>
+<h1 id="段3"><a href="#段3" class="headerlink" title="段3"></a>段3</h1><blockquote>
+<p>告别故乡的家 / 陌生的我孤单害怕 / 电话的倾诉里欲言又止啊<br>家书的笔迹没有父亲痕迹 / 寒冷的夜里爱的围脖在哪里 / 在哪里<br>我找到了新的家 / 兄弟姐妹一起长大 / 为自由 / 为梦想 / 要勇敢地去飞翔<br>记忆中童年小河渐渐干涸 / 离开爱的河港 / 我能否 / 还能否 / 返航</p>
+</blockquote>
+<p>高中之后离家住读，第一次感受到了和家的距离。有了学校的集体生活，在新的地方找到自己的位置，和大家一起成长，不可避免地相对减少了对父母的依赖。虽然每周都和家里电话联系，但只是惯例性的询问和回答最近的学习情况和餐食冷暖。没有了我的家，高中三年里也出了一些动荡，毕业之后才逐渐了解。即使这样，他们也每个月来一次重庆主城，带我去心心念的解放碑看高楼大厦，带我吃喜欢的火锅。高考前夜，他们都搬到这边陪我一起度过这个重要的时刻，高考完，再和我一起庆祝。每一个重要的时刻，都有他们在一起。<br>大学到北京之后，我又到了更广阔的天地，从空间以及心理上，和家的距离感更加明显。心中迅速被新集体和新事物所占据，想必好多人都有这个过程。以至于现在回想起来，大学期间和父母的回忆，似乎还没有小时候朝夕相处时印象深刻。因此就在歌里提出了“离开了家的港湾，久了，还能否找到从前家的感觉？”这样的疑问。</p>
+<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/2017_03_river_1/03_part3.jpg" alt="段3：大学时期的家"></p>
+<h1 id="段4"><a href="#段4" class="headerlink" title="段4"></a>段4</h1><blockquote>
+<p>当我回到了家 / 爸爸双手接过行李啊 / 妈妈脸上美丽的笑容 / 是否还和童年一样<br>他们不一样 / 他们不一样<br>爸爸双手岁月留痕 / 妈妈笑声沙哑蒙尘 / 挡不住时光的年轮 / 一圈一圈兵不血刃啊<br>字帖藏在抽屉中 / 围脖压在衣橱中 / 还是这个家 / 我要更珍惜啊<br>爱的小河啊 / 永远不干涸</p>
+</blockquote>
+<p>最后一段则是解答。“失去了才会懂得珍惜”，真是一句真言。<br>大学时爸爸出差出车祸，而研三快毕业的那个春天，生日前夕得知妈妈生病，过了最难过的一年生日。好在几经波折爸爸妈妈都完全康复。但从此，家里人都互相倍加珍惜彼此。直到现在，隔一两天就会和他们通话，也从此体会到了什么叫“甜蜜的唠叨”。<br>家里的真实生活中，倒不会出现歌词里写的因为发现爸妈老了而伤感，而是直接到了最后一个阶段，我们都互相看开了，人的自然生命历程一定是逐渐衰老，阻挡不了，而我们这个小家里的彼此都知道互相关爱着对方，互相包容和体贴，珍惜每次相聚，这就够了。偶尔回家，我会打趣地让老爸老妈帮我看有没有白头发，他们则大笑着取笑我还这么年轻。但他们却会主动叫我不要老“仰望星空”，因为一抬头额头上就会出现“抬头纹”。这些都成为了现在每次回家晚上和他们外出散步的谈资，仿佛又回到了小时候每天晚饭后一家人欢乐地散步的时光。</p>
+<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/2017_03_river_1/04_part4.jpg" alt="段4：现在的家"></p>
+<h1 id="创作过程"><a href="#创作过程" class="headerlink" title="创作过程"></a>创作过程</h1><p>真实地体验了艺术来源于生活。曾经尝试过其他主题，但直到回到这个关于家的主题，下笔才觉自然。如朋友圈所写，得到了小时候写十年作文都从未感受到的“我手写我心”的深刻体验。经历了一次主题的重大调整，经历了灵感闪现时的兴奋，也和大家一起经历了ddl后的仿若重生。整个过程、最终的作品和演出都有遗憾，但朱总老说，遗憾让人进步，那就让我们期待下一次的进步。<br>在此记下此次创作的全过程：<br><strong>【02.27】</strong>学期初声部长会，决定争取参加水利系学生节，雅祺帮忙联系；<br><strong>【03.31】</strong>突然听说4月9日二审，考虑时间紧张，想用一首学过的曲子（当时以《下一生》为范本）填词进行再创作。为配合活泼的主题，想到了前年的《李霸天》，遂有了“学民”的构思。<br><strong>【04.05】</strong>《学民》初成稿，段四仍为蓝精灵创意；<br><strong>【04.08】</strong>排练完回家路上灵感第1次爆发，哼唱录音回家整理出学民的副歌，完成整曲填词，遂有信心第二天的二审上台；<br><strong>【04.09】</strong>上午和天行、原妈完成排练并添加小段合声和打击（1个多小时完成确实高效），12点走台得到学生会认可；<br><strong>【04.14】</strong>在给钧哥看完《学民》后，得到主题和歌词违和的反馈，自己也赞同，遂打算调换主题。当晚灵感第2次爆发，完成《河》的整体构思，得到钧哥肯定；<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/2017_03_river_1/05_lyrics.jpg" alt="初版歌词"><br><strong>【04.21】</strong>灵感第3次爆发，完成段1和4的旋律，配合学民的副歌到现在的2、3段中，整曲旋律基本完整。晚上去国音院和斯指的第一次接触，斯指开始写合声和配器；<br><strong>【04.26】</strong>在18日女声排练后，反应曲子不如《学民》欢快，主题显沉重，是否考虑要换回学民？而三审时间表此时已排出，斯指也开始写合声，时间紧，需尽早完成决策。晚和旭乔沟通作词中的不足，给了许多中肯的意见。<br><strong>【04.27】</strong>去学校聆听天行的意见。我最倾心的还是《河》，但也做好了全情听取天行意见的准备。我相信他的音乐感觉。那是难忘的一晚。我清晰地记得，起初我没有告诉他我的想法，只让他看了两版谱子，然后问他会选择哪版？我俩足足安静了一分钟，不动也不说话，然后他告诉我，觉得《河》更好，因为我们唱歌固然需要带给大家欢乐，但如果能让大家记住点什么，那会是更好的歌。当时真是百感交集，知音难觅。<br><strong>【04.28】</strong>一大早，天行很霸气地扔给我一段极有乐感的旋律（听说熬夜到4点），听后觉得非常适合段3的主题，正好当时的段3和段2共用类似的旋律，替换掉之后可以使整曲更丰富。而我则在当晚就很顺利地完成了段3的填词；<br><strong>【05.01】</strong>和天行尝试写合声，发现绩点不够；<br> <strong>【05.03 &amp; 05.05】</strong>劳动节假期的2次排练，人数不太齐，特别第2次排练没有女生到场。斯指各种课程大作业，晚上还要编曲，发现他非常疲惫。开始担心5.6的三审。当晚和众位男生声部长仔细地分析了现状，决定只由声部长去三审，但一定要争取到杨老师的支持。杨老师毫不犹豫地说可以来，大石头落地，开始放心地招呼大家部署如何准备第二天的走台。<br><strong>【05.06】</strong>晚声部长排练1小时上三审，反响不错，我仿佛看到了最后演出成功的雏形。<br><strong>【05.10】</strong>斯指完成全曲的合声及大提琴配器， 并邀请喻作加入钢琴配器。<br><strong>【05.11】</strong>最后一次排练，第一次感受到了段4钢琴伴奏带来的感动。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/2017_03_river_1/06_rehersal.jpg" alt="最后一次排练"><br><strong>【05.12】</strong>演出前彩排时，趁斯指还没到学校，体会了一下作为指挥的幸福，如此清晰和平衡地听到各声部的合声。晚9点半，演出，小bug不断，但也有惊喜。演出完走到楼下，安静地坐着望着明亮的星空，认真地听了一遍录音，心想：终于结束了。</p>
+<h1 id="致谢"><a href="#致谢" class="headerlink" title="致谢"></a>致谢</h1><p>这是宝宝团建团以来第一首完全由宝宝团成员自己作词、作曲、编曲、配器并完成首演的作品，很荣幸能参与其中贡献力量。讲真，正式的排练只有3次，大家还是蛮高效的。当然最后的作品和演出都有各种遗憾，只有下一次演出再改进了。在此感谢父母，并感谢为词曲创作和演出付出的大家。</p>
+<ul>
+<li><strong>感谢斯指和喻作的编曲和配器。</strong>没有你们的这些工作，这首歌一定达不到如此超出预想的效果。但希望你们不要怪我这么迟才定下词曲，而后又不停地催稿。记得5.5晚合排时斯指不停地揉眼睛打哈欠，但还在坚持。同时也感谢你们的鼓励，以后有机会，一定会再次尝试“我手写我心”，这个创作的过程是享受的，不断惊喜地发现突破了自己。</li>
+<li><strong>感谢天行的合作作曲以及拍板。</strong>在同年级团员中有着最好的乐理和乐感，有着不输于其他人的责任心和热情。这也是为什么，我会在二审前找你和原妈一起去走台，又会在之后做出是否要改变主题的决定之前，专程去学校认真地听取你的看法。你作的段3旋律非常棒，用到3/4之间的大提琴尤其感人，真是“后生可畏”。</li>
+<li><strong>感谢原妈和杨老师的大力支持。</strong>原妈一直说感觉自己似乎帮不上什么，但反复和你说过，你最好的技能是合作技，我们能做好的，你不一定能做好，反过来你能做好的，我们不一定能。原妈提供了超一流的后勤保证，提供了最好的备谱服务，招呼得了男低众干将，得到了一个有凝聚力的小集体。你每次排练都等到最后我们走完了才走，更是在二审时主动说想一起去，你的打击让我和天行不孤单，让走台增色不少；杨老师则发挥了一如既往的定海神针的作用，排练和演出自不必说，最感动的是上一节说到的三审前夜。不过还是祝愿来年女生增色，减小您的压力。</li>
+<li><strong>感谢雅祺、元标、雨桥以及水利系众友人。</strong>有了元标和雅祺的沟通才有了这次演出的机会，才有了给力的大提雨桥演奏，以及为完善最后的演出效果所做的ppt的提升。希望下学期招新能如愿有水利系新团员加入壮大宝宝团。</li>
+<li><strong>感谢钧哥和旭乔对主题把握和作词上的意见。</strong>你们的质疑很有艺术水准，让我思考如何改进，也确实让曲子更完整、有可唱性和可听性。虽然目前的版本远没有完全解决你们的疑问，但也是迫于时间和我的学识所限，恳请包容谅解。</li>
+<li><strong>感谢冠杰、胜寒、茜姐在现场的见证。</strong>没有冠杰关键时刻的出现，就没有如此流畅的ppt播放。没有两位即将毕业老团员的见证，演出的夜晚似乎会少了什么。</li>
+<li><strong>感谢所有上台演出的合唱团宝宝。</strong>有4位第一次在这里演出的宝宝，剩下除了我和杨老师，也才是第2次站上这个舞台。一年的合唱团经历，你们创造了这一波团里的上升期，未来的路，咱们还要加油一起走过，期待创造新的历史。</li>
+<li><strong>最后感谢邓指。</strong>致敬！没有您埋下的合唱的种子，也不会有创作此曲的原始土壤和勇气。</li>
+</ul>
+<p>放一张演出镇楼图，祝<a href="http://of35dg2v1.bkt.clouddn.com/blog/music/2017_03_river_1/score.jpg">宝宝团</a>越来越好。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/2017_03_river_1/06_after_perform.jpg" alt="演出后的合影"></p>
+]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>合唱 chorus</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>struct zhang 参与的第二个音乐作品《河》——（2）创作感悟</title>
+    <url>/2017/06/2017_04_new_song-2/</url>
+    <content><![CDATA[<p>学生节演出后紧接着郑州项目的超限沟通会，几天的紧张准备好在最终有了不错的结果。端午放假再说《河》，为上半年的艺术上的任性作结，记下创作中的感悟。</p>
+<span id="more"></span>
+
+<p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/music/2017_03_river_1/accompany.mp3" controls="controls" title="河-伴奏" autoplay="autoplay"></audio></p>
+<h1 id="关于创新"><a href="#关于创新" class="headerlink" title="关于创新"></a>关于创新</h1><p>去年7月去深圳拜见邓指，记住了一句话：不管做什么，创新最重要。<br>寒假回家和创业的表姐聊了一下午，记住的也是：人不要自我设限，没那么多不成之事，事在人为。<br>这些话时常记起。当我遇到选择，会自然地以此为标准。<br>宝宝团今年8岁，有13年《青春痣》的鼎盛，也有谷底。人生起伏是常态，组织的发展必不总是一帆风顺，当平稳心态。总结经验，建章立制，让发展有迹可循，算是防守；而创新发展形式，则是进攻。所以这次走出土木演出，是扩大宣传，丰富团员来源渠道；所以这次要自己写歌，让表达的情感更贴近生活，让音域和表演形式更适合团员特点。去年底对《silence》的改编开了小头，今年想要突破，从起初打算在《lilies》重新填中文词演唱，到后来索性步子迈大一些，从头写新作品，激励我的，就是上面两句。没填过词，没作过曲，没试试怎知不行？人生中的第一次多了去了。没创作过，不要紧，也唱了那么多年了，好歌还是能分辨的。现在想，多亏了这次的实践，为以后的艺术创作和工作生活都打开了一扇窗。那些看似很理想化的话，有时觉得站着说话不腰疼，但真的努力，就可能成真。<br>三月设计郑州项目的大跨转换时，脑中想的就是“不怕创新，不怕麻烦”。从单向梁式转换到变截面双向梁式转换，从斜柱转换再做到现在的桁架转换，还是有很大的好奇心去尝试没做过的方案。搜集论文，反复计算，争取把每种方案都推进到相对深入的层次，从而更准确地把握设计细节。去年年中总结的文章里就说过，希望今年做一个有特点的项目。郑州项目，最有特点的就是这个转换，当然要珍惜机会。不怕做出花，有底气的创新才显示出成长。怕做得平庸，怕毫无设计感，那才是对项目的巨大浪费。在消化院总及领导们的意见后，桁架方案逐渐成熟，在上周得到了超限专家组的认可，我想这也会成为对工作中继续坚持创新的激励。</p>
+<h1 id="关于灵感"><a href="#关于灵感" class="headerlink" title="关于灵感"></a>关于灵感</h1><p>以前听说，艺术创作需要灵感，觉得很抽象。实践之后，感到的则是灵感闪现时的无比兴奋。</p>
+<ul>
+<li>曾经，《学民》的段2始终写不出满意的旋律，而第二天就是二审节点。周六排练完回单位加班路上，随口哼出的旋律居然让我从午间困意清醒，于是真的出现这一幕——停下单车，用手机录下唱出的旋律。我明白了，灵感（机会）可能不经意出现，要随时准备好抓住它。</li>
+<li>在得到钧哥的“《学民》主题欠妥”的反馈后，很快就想到了家的主题。一晚上写出《河》的故事框架和主要歌词。如何表达对家庭的情感，是我一直在思考的一件事，往年的学生节也想过唱有关家的主题的合唱作品，这次正好实现。我明白了，我们要有一些想要实现的事。即使长期没有付诸实践，但只要时机合适，推进速度可能比想象中快很多。</li>
+<li>起初创作《河》段1的旋律也很纠结。和斯指约定写合声的前一天，忙乱抓瞎之际在网上胡乱搜索“如何快速作曲”的字眼。尝试着科普贴里的“鱼咬尾”、“音符要有一定起伏”等原则，在钢琴上随机地敲击着键盘，突然惊喜地捕捉到一个合适的片段，演化成了一个让我能想起《父亲的草原母亲的河》的片段，最终顺利地发展出了整段旋律。</li>
+</ul>
+<p>我又明白了，门外汉所说的灵感有时会是一门成熟的技术。觉得是灵感，只是因为对规律的乏识。掌握得越多，产生“灵感”的几率也就越大。所以也在反思，为什么起初给施院汇报转换的时候，施院很自然地会问有没有试过桁架转换？为什么总院评审过后，猛哥很自然地会问有没有试过变截面双向转换？设计是个何等靠经验的行当，积累越多，不是说灵感的空间越少，而是产生的灵感会越来越变得常人难以想到，而这就是独创。</p>
+<h1 id="关于积淀"><a href="#关于积淀" class="headerlink" title="关于积淀"></a>关于积淀</h1><p>出于对彩虹合唱团进行学习的初衷，创作前期曾反复聆听了他们几首大热作品，作品的创作和演绎确实很有讲究，曲子的变化和各段落想要表达的情感相得益彰。也发现一些有趣的东西——金大师的几个作品之间存在着联系，比如“快意飞马”这个词被多次使用，《掏空》里有《士超》的旋律，最近的《美凯龙》也有《指南》的旋律。可以说，做出了一个好作品，以后在合适的地方可以多次“致敬”。PS: 最近看了网评很高的音乐剧《汉密尔顿》，发现《美凯龙》、《指南》共有的那段和《汉》里的某段有相似的动机，也是有趣。看来大热的东西，有其共通之处。<br>想到郑州项目，老外的建筑方案为什么会被甲方看重？因为人家是几十年积累沉淀的结果。这次的方案，和大连城堡、珠海横琴湾有诸多相似之处，但外方就是这样小改小改，讨着甲方的欢心。像中国制造，学习国外的多快，高铁发展多块，但建筑设计领域，为什么国外方案还如此吃香？想来还是，国内的积淀不够。什么火做什么，老调整发展方向，不够专业不够坚持。院里鼓励专业化发展，我觉得很对，初期需要上层多协调支持，但长久会走得通畅。选定好方向，一定要坚持，别内耗。<br>忧心之处还在于设计行业的发展。从前年开始，各方开始看衰，到去年不断听闻有人离开，再到今年周围的人开始离开。我不认为这个领域没有专业人才的用武之地，但设计行业在现有设计模式下，其本身已经承载不了这么多专业人才，而大家也用各自的方式实现了对专业知识的再利用。洗牌的过程可能很长。21世纪初期计算机行业由热转衰再到现在的大热，靠的是其能渗透进各行各业广泛而深刻地创造价值，而我们仍在自己封闭的圈子里“等待”着外界的革新。要主动拥抱其它领域，依靠新技术，实现自我的蜕变，甚至主动渗透入其它领域，才能创造出高一量级的价值。</p>
+<h1 id="关于总监的角色"><a href="#关于总监的角色" class="headerlink" title="关于总监的角色"></a>关于总监的角色</h1><p>一个音乐作品完成演出，需要作词、作曲、编曲、配器、指挥、伴奏、演员等角色的共同努力，就像建筑作品的诞生，离不开建筑、结构、水、暖、电等专业的通力合作。术业有专攻，大家在自己的领域做着擅长的事，达到各自部分的最优，而制片人/艺术总监/设计总监则可凭借他们的全局把控来达到整体最优。<br>《河》的创作，让我从专业外体会到了建筑领域设总的辛劳和重要性。要公允，要讲求工作能力的全面性，思考判断重于处处实干，该妥协的要妥协，该坚持的要坚持。<br>进度上，在学生会、斯指、喻作、天行、团员之间进行协调，只有我一个人清楚各方的进度要求和大家的实际进度，只有我一个人能在所有人之间建立联系，那么我就必须承担起这个责任。提前一天让天行和原妈准备二审，提前一天让杨老师和声部长们准备三审，提前一周给指挥定稿的旋律而一周之后就要合声和配器，非常压迫大家，但从我的角度来看，只能这样安排，才能刚好让这支队伍有惊无险地度过每个节点。好在大家太给力，也没计划之外的突发情况。所以在这之后我知道了，为了整体的利益，有时候需要暂时牺牲团队中个别成员的利益，或者那个人就是我。如果是别人，我会让他们在付出汗水的同时，看清咱们共同前进的方向和最终的目标，明白付出的意义，同时在事后给予他应得的利益和荣誉。如果是我，则反过来试着理解，而后至少给自己一个大大的奖励。<br>质量上，主题构思在我，那我也就有责任向参与创作的大家清晰地解释段落划分和情节发展。相比于自己写出好的词、曲、合声、配器，我更重要的工作是向其他人描绘好各自的创作目标，并判断其他人写出的部分是否都能为设定的主题氛围服务。当不能满足要求时，我要想办法让当事人明白这部分为什么不能满足整体要求，并且怎样才算是满足要求。当我经历了天行的段3的惊人创作，并现场感受了斯指和喻作对作曲的信手拈来，我真的对十周年信心倍增，因为大家的理解能力和相互间的默契配合已经得到了验证。缺少的只是一个蓝图。虽说蓝图难觅，但至少比各方面都心里没底要靠谱得多啊。<br>有时候会觉得，有人带是幸福的啊，跟着指引向前走，承担自己的小责任，而享受团体成功的欢乐。而现在觉得，做一个能力、品行和职责相称的负责人，真是幸福啊。自己得到最大的锻炼，感受别人感受不到的酸甜苦辣，同时也看到每一个人在奋斗中成长，并在最后各自分享团体成功的喜悦。<br>以后在多一些领域争取一些做总监的机会吧：）</p>
+<p>先写这么多，找机会再补充吧。</p>
+]]></content>
+      <categories>
+        <category>音乐 music</category>
+      </categories>
+      <tags>
+        <tag>合唱 chorus</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于外公的故事</title>
+    <url>/2017/11/2017_05_grandfather/</url>
+    <content><![CDATA[<p>老妈曾说，她最爱听刘和刚的《父亲》，也曾听过她动情地演唱。而直到现在我终于完全了解其中的原因，完全体会到了老妈的情感，那是作为小女儿对父亲的依恋和敬佩。<br>断断续续地，为老妈整理出这篇访谈记录 ，看着老人们过去几十年走过的路，感叹现时的珍贵。<br>珍惜时光，珍惜家人……</p>
+<span id="more"></span>
+
+<p><audio src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/%E5%88%98%E5%92%8C%E5%88%9A-%E7%88%B6%E4%BA%B2.mp3" controls="controls" title="乡愁-雷佳" autoplay="autoplay"></audio></p>
+<h1 id="我的父亲"><a href="#我的父亲" class="headerlink" title="我的父亲"></a>我的父亲</h1><p>一九二八年二月十八日，我父亲王钦海出生在璧山县广普村登右坪寨子一个很普通的家庭。登右坪寨子是一座约有两个半村子大小的城堡，璧山和江津两县境内的城堡面积各占一半，有近二十个寨门和四千多人口。寨子和山下的村庄没有区别，有学校、商店，各种生活设施应有尽有。</p>
+<p>从寨底山脚往上大约五里路程，有座大庙叫枇罗寺，人们常在这儿烧香拜佛，祈求平安，盼望来年有个好收成。关于枇罗寺还流传了一个典故。父亲听爷爷说：维修寺庙的工人在翻新房顶瓦片时，曾发现瓦片上写有一首诗：</p>
+<blockquote>
+<p>枇罗遍地开花<br>乾坤二九加八<br>但看龙蛇走马<br>八洋大闹中华</p>
+</blockquote>
+<p>这位匠人预测将要发生的事情，过后都一一应验。人们都说这是一位高人，有远见，是位了不起的匠人。<br>就是这样一个有故事的地方，我的父亲在这里出生了，并且生活了九年。</p>
+<hr>
+<p>我父亲排行老三，头上有大姐王钦玉，二哥王钦汉，还有弟弟王钦臣。从我父亲记事起就听奶奶说，爷爷王显庭常年在贵州做布匹生意，但在动荡的年代生意惨淡，爷爷只能偶尔拿些钱回家来补贴家用。虽然勉强度日，但一家人在一起，也感觉到无比的温暖和快乐。后来，爷爷做布匹生意越发艰难，家里经常吃了上顿没下顿。为了减轻家里负担，我那还不满十八岁的大娘早早地就嫁人了。</p>
+<p>一天，在贵州和爷爷一起经商的人带信回来说，爷爷做生意亏得连回家的路费都没有了。虽然奶奶在家务农，种了一小块萝卜和牛皮菜地，但卖不了几个钱，换回的口粮远远不够全家老小度日。眼见家里日子实在过不下去，奶奶毅然决定把我二伯送到大娘那去。回来后的第二天早上，吃过早饭后，奶奶一边收拾东西，一边擦着眼泪把我父亲叫到身边说：“三娃啊，家里实在是吃不起饭了，一家人在一起只有等饿死。你也不小了都快满七岁了，要学会自己照顾自己，你就在家把家照看好，我要带着你弟弟到你外婆那里一段时间。你如果饿了，土里种有萝卜和牛皮菜，如果晚上害怕，就去叫邻居叶宝宝（叶兰宣）来给你搭个伴。”就这样，奶奶提着行李，背着年幼的幺爸，含着眼泪无助地走在回娘家的路上。可怜我那还不满七岁的父亲，只能眼睁睁地望着自己母亲和弟弟远去的背影。回头望望空空如也、空无一人的破旧的房子，父亲当时就恐惧得嚎啕大哭，只觉天昏地暗、天旋地转。不知何时父亲醒来，只觉肚里饥肠辘辘。寒冷和饥饿迫使父亲在这残酷的现实面前，为了生存，不得不面对现实。于是踉踉跄跄地拖着那瘦小的身躯，走到种有萝卜的土里，扯起一根萝卜就狼吞虎咽地吃了起来。我父亲还是个懵懂少年，就在这样饥寒交迫的日子里坚强地度过了三个多月。</p>
+<p>三个月过后的一天，奶奶带着我幺爸回来了。父亲听奶奶说，她在娘家的那段日子里学会了织布的手艺。回家后，奶奶就帮别人织布。万幸的是，后来爷爷也回到了家，家里有能力种起了更多的农作物，父亲这才能上了小学。</p>
+<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/2017%E5%A4%96%E5%85%AC%E7%85%A7123.jpg">占位文字：无图片时显示</a></p>
+<p>父亲八岁那年，爷爷又先后两次带着父亲一起到贵州土城去做生意。当时交通不便，只能走路，父亲跟着爷爷走了六、七天的路程才最后到了那里。爷爷给父亲找了个帮别人卖米粑的活儿，包吃包住，就又到别处做生意去了。过了一段日子，因为生意不好做，爷爷又带着父亲一起回家了。</p>
+<p>父亲九岁那年，爷爷的两个弟弟（即二爷三爷，他们都住永川陈食场）过来叫爷爷一家人搬到了陈食场。陈食场有一条大约两里路长的街道，住着几千人口，每逢赶场日都很热闹。爷爷一家就在陈食场租了一套房子，父亲也继续上起了小学。家里做起了生意，炸油条、麻花，收入还不错。有了一定积蓄后，家里改行奶奶织布、爷爷弹棉花，日子越过越红火。那是父亲感觉最幸福和快乐的一段时光。</p>
+<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/01%E5%85%A8%E5%AE%B6%E7%A6%8F1.jpg">占位文字：无图片时显示</a></p>
+<p>可好景不长，爷爷儿时的伙伴在贵州做生意回来，打听到爷爷做生意赚了钱，就千方百计地向爷爷吹嘘，说现在贵州的生意是如何的好做。爷爷经不住诱惑，不顾奶奶的反对再次前往贵州，并把几年积攒下来的积蓄全都投入了进去。过了一年多，爷爷回来了，听说他被合伙人算计，本钱全赔了进去。那时家里连房租都交不上了，父亲一家人只能搬到乡下的苏家院子去住。那年父亲已经十三岁。经人介绍，以包吃包住和一年另送一匹布的条件，父亲被叫到双河口一家中农人家放牛。父亲十五岁那年，国民党在陈食场抓壮丁，每家每户“三丁抽一、五丁抽二”。那时家里的实际情况是：二伯被送到了大娘家，父亲在双河口放牛，而幺爷还小，所以家里没男丁可抓。邻居了解到爷爷家吃了上顿没下顿的窘迫状况，就和爷爷商量，他有个条件比较好的亲戚家这次被抓了一个壮丁，想用三担谷子换我父亲去顶替他的位置。爷爷同意后，就到双河口把父亲叫回来，用三担谷子作为交换，把父亲卖给国民党当兵去了。</p>
+<p>父亲才进部队就去了宜昌桃坪村的一座山上作为新兵训练了半年，那里距离宜昌还有十多里路程。父亲当时在那里是年龄最小的，才去时很不习惯，每天五点出操训练，吃的是又稀又烫、里面掺杂着谷子、稗子和沙子的稀饭，还必须在五分钟之内吃完。父亲常常吃不饱，一天到晚训练却又累又饿，但却开始思念那生他养他的那个家，即使在家会过着朝不保夕的生活，即使家人用三担谷子卖了他。常言道，儿不嫌母丑狗不嫌家贫，亲情和血缘怎么也割舍不断母子之情。我父亲就这样日思夜想，终于有一天再也撑不住了，一头栽倒在地上昏死过去。战友们都以为父亲死去了。父亲的班长曹辉成是松溉人（和父亲一个县），叫了两个兵，把父亲抬到后山上，挖了一个坑，就把他扔了进去。然而，在落下去的一刹那，班长看见父亲动了一下，于是叫两个兵赶紧把父亲又抬了回去。经过这次生死的转变，父亲竟一天天恢复了精力，逐渐好转起来。</p>
+<p>后来父亲去了宜昌军队一三九师四一五团一营炮一排（迫击炮排），当兵就打日本人。部队驻扎在宜昌桃坪，一打就是一年多，一直和日本人对着干。四四年日本兵投降后，部队准备迁往北京，但到新乡后，就和八路军打起来了，每天从白天打到黑夜。父亲当时就不明白，日本侵略我国领土时，我国军民团结一心全民抗日，把日本人赶出了我国领土，而现在却是自己人打自己人，还不知何时是个头。于是父亲又开始想家，开始逃跑，但被其它国民党部队抓回去就是一顿毒打，几次被打后还是想家，于是又跑。一次被抓后，父亲被吊在楼梯上一顿毒打，还惨无人道地在右后肩被刺刀捅了一个洞。父亲惨叫一声，当时就昏迷过去了。由于伤口感染化脓，到现在还留下很大一块疤痕。</p>
+<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/%E5%A4%96%E5%85%AC%E7%9A%84%E4%BC%A4%E7%96%A4.jpg">占位文字：无图片时显示</a></p>
+<p>后来国民党部队撤退到西安驻防，解放军打过来后，部队辗转到四川绵竹。终于，父亲所在的部队在中江起义，叫父亲去开整编会。当时父亲并不了解解放军和国民党部队的性质是完全不一样的，由于四川离家近，父亲又思乡心切，便又往家跑。而这次，父亲轻松地就跑回了家。</p>
+<hr>
+<p>五零年九月回家后，由参加了地下党的二爸介绍，父亲当上了税务局的交易员，并于五一年二月正式转为财税局干部。后来财税分家后，父亲在财政局上班，工作稳定后结婚生子，养育了我们四个女儿。我们四姐妹出生在陈食场街上，从我记事以来就知道父亲每逢双休、节假日都要回家帮做家务。那个年代每家每户都是烧柴火，有一次父亲叫上大姐二姐，拿了几个生红苕，一人背了一个背筐，就到二郎山上找柴火。因路途遥远，天黑之后，他们才汗流浃背地拖着疲惫的身躯回到家里。又有时，父亲到作坊式的煤厂去挑煤，同样路途遥远，爬坡上坎都很是辛苦。</p>
+<p>在我十六岁那年，考虑到我们家庭成员分散，父亲单位的王局长就想办法帮忙让我们全家搬到永川县城，终于我们又能每天生活在一起，一直至今。</p>
+<p>父亲一直教导我们，要脚踏实地地做人，要成为一个正直、勤劳、善良的人。而他自己更是以身作则，工作认真负责，有着一丝不苟的工作态度。那时，父亲是单位企财股股长，管理着县里所有的国有企业。当时五金公司的自行车、缝纫机都需要他手上发放的票证才能买到，而我们家就需要这样的工具。母亲和姐姐们给他做工作想拿到票证，但他怎么都不给。他说，我是党员，国家有制度，有比我们家更需要的人，只有他们才能得到。</p>
+<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/2017%E5%A4%96%E5%85%AC%E7%85%A712.jpg">占位文字：无图片时显示</a></p>
+<p>我父亲现在已是九十高龄，还每天坚持锻炼，也喜欢观看新闻，关心国家大事。同时，他也对女儿们关怀备至，呵护有加，每个子女都是他老人家的心头肉。在我五十岁那年，我生了一场大病，我知道，我就是父亲最心疼、最牵挂的人。常言道，“皇帝爱长子，百姓爱幺儿”，他鼓励我要坚强，教会了我他多年来积累下来的战胜病魔有丰富经验的养生之道，让我受用至今。最最让我感动的是他跟我说的一句简单而朴实的话：“你健康比我强”。</p>
+<p><a href="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_06_grandpa/2017%E5%A4%96%E5%85%AC%E7%85%A754.jpg">占位文字：无图片时显示</a></p>
+<p>这就是我那无私奉献的父亲。有老有小你手里捧着孝顺，再苦再累你脸上挂着温馨。生活的苦涩有三分，你却吃了十分。这辈子做你的女儿我没有做够，央求你下辈子还做我的父亲。</p>
+<p>小女儿：王次娟<br>2017年10月1日</p>
+]]></content>
+      <categories>
+        <category>生活 life</category>
+      </categories>
+      <tags>
+        <tag>家庭 family</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2017年终总结</title>
+    <url>/2018/01/2017_12_at_the_end_of_2017/</url>
+    <content><![CDATA[<p>前天和小伙伴们看了《芳华》，旁边的90后小伙伴哭得稀里哗啦，可能不同年龄的人都会在里面找到不同的代入感。<br>回家的路上，碰巧在微信群里碰见姑爹一家，我说姑爹姑姑可以一看，因为他俩相识于知青路上，都是在那个年代有过故事的人。但我建议他们可以选在节后，因为怕看完心里沉重。<br>姑爹告诉我：“欢欢，旧与新总是相向而行的哟。[微笑.jpg]”<br>我说：“这是不是就像每当到了快过年的时候，大家都喜欢总结和回忆过去？”<br>姑爹答到：“就是的啊。”<br>恍然大悟。<br>事物的发生与发展总是伴随着两面，有白既有黑，有悲伤就有欢乐，没有沉重作为对比，大概就不知道什么是释然。只有坦然地接受生活中的一切，才会平静地面对过去看似不如意的人生。过去的不如意，衬托着现在的幸福。而现在的不如意，恰似等待来日厚积薄发。反之亦然。<br>感谢姑爹的年末点拨。<br>也因此，年末要写点什么，如往年。</p>
+<span id="more"></span>
+<h2 id=""><a href="#" class="headerlink" title=""></a><audio src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_07/at_the_end_of_2017/youth%E8%8A%B3%E5%8D%8E.mp3" controls="controls" title="fanghua" autoplay="autoplay"></audio></h2><p>《芳华》中打动我的场景之一，是舞蹈出身的何小萍在精神失常后，在观看曾经所在的文工团演出熟悉的《沂蒙颂》时，不由自主地走向门外，以宽广的草坪为舞台，在月光下陶醉地独舞，投入且感人。她是热爱舞蹈的，虽由于各种原因不能继续从事下去，但相伴多年的东西磨灭不了。同样处于美好年华的我们，是否找到了自己所钟爱的事业？是否足够地投入其中？是否多年之后能留下点什么，不管是在世间还是在自己身上，从而当我们向别人说起现在的自己的时候，能无愧地说我对得起这段青春岁月？</p>
+<iframe height=450 width=100% src='https://v.youku.com/v_show/id_XMzk2NDAyNDUyNA==.html?spm=a2h0c.8166622.PhoneSokuUgc_1.dtitle' frameborder=0 'allowfullscreen'></iframe>
+
+<p>对旁边的小伙伴说，如果以后我有个什么了，听着合唱团唱歌，我一定会有反应。<br>小伙伴言：“画图画疯了。”“大家都年轻，前面的路还长着了。”<br>人生是还长着了，但也许不久之后路就不同了。《芳华》里刘峰和何小萍在文工团的时间也就仅仅几年，而后被迫纷纷去了别的地方，伐木工或是上战场。对我，前年、去年和今年所从事的不同的设计项目，合作的小伙伴离开了一个又一个，大家的发展道路不都一直在变化么？没有永恒的不变。变与不变，就像旧与新的交织，总是相伴相生。所以人生苦短，珍惜现在所拥有的，或者勇敢地去追求渴望得到的。<br>坐火车时，喜欢看着旁边的铁轨，不断地分岔、交会、再分岔、再交会，自然而流畅。我永远盯着的是窗户旁的那一段，不知道何时会遇到下一个分岔口和交会口，而正在乘坐的列车也不知道何时就会转弯，只是在每一段直行的铁轨上，火车都快速向前奔着，最后到达终点。同样，在每一段人生道路上，纵使看不清漫漫长路归于何处，但我们都尽力前行，终有一天会到达人生的目的地。</p>
+<p><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2016_12_O_ever_youthful_O_ever_weeping/2016_work.jpg" alt="railway"></p>
+<h1 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h1><p>这一年主要做了郑州项目，附带其它项目中的部分工作和施工配合。经历了中庭大跨转换结构的方案比选、结构超限、结构优化，被边改方案边设计边报审边施工所烦扰，也经历着各方面均衡的锻炼。<br>印象最深的几个场面：</p>
+<ul>
+<li>8月中第一次把大模型拼完整，负责人发的一条票圈，激动又略显无奈。当时还不能完全理解这种心情，现在想来，可能是项目前期承受着巨大的压力后再看到成果时得到的释放吧。早晚，我应该也会有这样的时候。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2016_12_O_ever_youthful_O_ever_weeping/2016_work.jpg" alt="yinji"></li>
+<li>向实习生和新员工传授结构计算和制图方法，遇到模型或图纸反复出错时自己会心烦，但若想起当年的自己，就释然了。设计行业近年行情低迷，我问他们为何选择做结构设计，答案都似曾相识。既已选择，都很勇敢，那就好好干，祝你们早一天出人头地。这个行业需要高等级人才，多想让他们快些成长，那自己就再多点耐心吧。</li>
+<li>8月底第一次出图，项目组4人在12点打完图后，楼下偶遇建筑专业小伙伴也正忙活完，一行人开心地合了个影，场面令人难忘。不管是小到设计项目组，还是大到公司，只要看到共处的大家都朝一个方向努力，不计较小的得失，都有同样的干劲，心里就觉温暖。这种感觉以前不觉得，大概是才入职时加班太多，导致缺乏和人接触时的敏感性。现在能更好地掌握工作的节奏了，多了些生活的洞察和思考，也就能领悟到了。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_07/at_the_end_of_2017/03workdone.jpg" alt="vivo&amp;jingang"></li>
+</ul>
+<h1 id="专业兴趣"><a href="#专业兴趣" class="headerlink" title="专业兴趣"></a>专业兴趣</h1><ul>
+<li>除了工作，第一次有资格参加注册考试。半年前的备考经历现在仍然难忘，那些加班后回家就开始乐呵呵看书的日子，那些周六日回学校自习室乐呵呵做题的日子。乐呵呵这个词当真不假，每当看到的东西能联系上以前的工程，就像发现了新大陆般兴奋。虽然出成绩还要等待半个多月，但不管如何，这段经历都对我产生了积极影响，重建了对专业的兴趣。考后仍然保持着看书的习惯，从程懋堃大师的大作，到后来参数化设计的书，从前人经验的积累，到后人新技术的创新，都让我感到专业能力的匮乏。继续补齐专业能力的缺陷，是今后要长期努力的方向。</li>
+<li>结识小i是本年度中的一个小惊喜。年中时看到朋友分享的istructure的文章，回看了几篇，专业又有系统性，以为是挂靠某组织（如建筑结构）的公众号。直到7月偶然加了鼓手，才发现公众号全由3位结构工程师运营，且全凭个人兴趣和对专业的追求。我很汗颜，也惊喜于在工作之外遇到这样有追求的同龄人。三位志同道合的设计师共事于一处，周围想必有着很好的合作氛围和顺畅的发展空间，这不容易。鼓手给了我介绍FRP材料的机会。考完注册后的第二周，完成了推送稿。那个周末，我看到了好友的转载和领导的赞助，也看到了读者的致谢；11月，鼓手告诉我，阅读量破万；三天前，看到了小i的年度总结，每周一篇干货，总共52篇，不食言，是真爱。坚信，以后会有合作，下次去上海，一定相见。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_07/at_the_end_of_2017/08istructure.jpg" alt="istructure"></li>
+</ul>
+<h1 id="合唱"><a href="#合唱" class="headerlink" title="合唱"></a>合唱</h1><ul>
+<li>5月的演出是团里新开辟的战场。踏出土木系学生节的第一次亮相，既想满足主办方对主题的要求，又想传递我们的价值观，便开始了曲目创作，即使团员当中没人有过如此经历。初生牛犊不怕虎？为了团队需要，干一票又何妨。<br>《河》是一首写出从小到大经历的歌，对家的依赖、疏离和回归，得到了强烈的“我手写我心”的体验。现在看来，和天行作词作曲，由斯指、喻作进行编排的创作团队，以及整个创作过程和结果都很难得。虽有小遗憾，但如朱总老说的“遗憾让人进步”，那就期待下一次的进步。<br>还是要说，创新是属于我们的永不过时的能力，它能让我们区别于其它团体，被大家记住。因此次演出而与几位合唱爱好者相识，下半年团里多了好几位优秀成员，明年继续在这里演出也有了保障，这些都是上半年的奋斗所换来的。这样的主动出击，充斥着青春的热血，曾经的深夜创作，也都化为了热血的标记，我会记住这段时光。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/music/2017_03_river_1/05_lyrics.jpg" alt="初版歌词"><br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_07/at_the_end_of_2017/06river.jpg" alt="river"></li>
+<li>下半年，钧哥即位，几位骨干也更加成熟，优秀新团员的大量加入，带来了团里的高速成长。感谢的话说得太多，在这里说点别的。<br>如何长期维持团队成员的稳定性？这是个主观题。比如优秀的指挥、比如好的选曲，都是让团员留下来的理由。但我觉得最本质的，是不断给予团员成长感。让他们见识到略微超出他们现有视野范围所及的事物，或是承担略微超过他们能力范围的任务，团队组织者要有能力、有意识，甚至是刻意地，为成员提供这种锻炼的机会，让他们时刻从本次活动中得到收获，同时形成对下一次活动的新鲜感。<br>也因此，本学期团里有针对性地对团员进行培养，从参与电影片尾曲录音、参加电影开机仪式演出、联合北大附中举办音乐会，到培养学生指挥、尝试小合演唱、增加box人声伴奏，都是这样的尝试。看到每一次活动后的夜里，朋友圈被刷屏，想，骨干们一定也都看到了，大家的付出，都是值得的。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_07/at_the_end_of_2017/05chorus.jpg" alt="chorus"></li>
+</ul>
+<h1 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h1><ul>
+<li>春夏秋三季的锻炼卓有成果，跑步成绩从14分45秒提高到了12分56秒，打破了本科最好成绩。冬季归于休养，更待来年重启。</li>
+<li>年末赴温暖的南方参加了阿秘的婚礼，头一次为同学做伴郎，怕不是因为周围同龄人都成家，伴郎不好找？[偷笑.jpg]吃了最地道的柳州螺蛳粉，也见到了许久未见的同学和师兄师弟，同一桌中还有3位在做结构设计，其余都在地产。做设计的大家，心都算坚定，未来看我们的。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/life/2017_07/at_the_end_of_2017/07wedding.jpg" alt="wedding"></li>
+<li>今年为家人做的最自豪的事有两件。一是添置了冰箱、手机、放音机、皮带等众多物件，并且成功让父母感受到网购的物美价廉，为以后继续为父母网购打下了良好的基础[偷笑.jpg]儿子游于远方，能为父母尽量做点什么，都是幸福的。二是长久以来怂恿老妈记录下外公往事的行为终于有了实质性收获，经过老妈的多次采访和总结，形成了《关于父亲的故事》手稿。考完注册后，我将其整理上网，让其他亲人们也能看到。老妈说，姨们是不能多看的，因为小时候家里苦，看时会想起年少时的经历，想起小时候父母们为自己所做的一切。倒是外公，讲起这些经历时，尤为平淡。这是他和他们那辈人的青春岁月，无论苦痛或是欢乐，如今都成为心中不可磨灭的一部分，时光让他们已经能坦然面对。就像《芳华》结束后，大厅回荡着片尾曲《绒花》，眼角出现一对老人，面带微笑地等待着字幕结束，不急不慌。</li>
+</ul>
+<p>愿现在的我们，心中能涌起激流；愿多年后的我们，能毫不费力地拾起如今这段芳华。</p>
+]]></content>
+      <categories>
+        <category>生活 life</category>
+      </categories>
+      <tags>
+        <tag>家庭 family</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2022春节提笔</title>
+    <url>/2022/02/2022_01_spring%20festival/</url>
+    <content><![CDATA[<p>时常记起8年前的组内聚餐。那时的我刚工作半年，焦头烂额于一个颇有难度的项目，想请托不参加，又被好兄弟拉了过去。饭终了，导师的寄语是，“希望你们每一年都有一点新变化”。此后，每年年末我都会想，过去一年我的变化是什么，来年又希望发生什么变化。<br>回看去年年初拟定的2021全年计划，完成度大概40%，剩下的30%有惊喜，余下的30%留给来年改进。生活不全是规划出来的，甚至可能一多半都不是，有惊喜也有遗憾，总是如此。<br>2021年成长和伤痛并存，有很多想要感谢的人，也会想起一些平时不会想起的人。<br>2022年未知与期待同在，希望能做到真诚勇敢，爱我所爱。</p>
+<p><audio autoplay controls loop src="/audios/2022_01 道别是一件难事-rainbow.mp3"></audio></p>
+<span id="more"></span>
+
+<h1 id="2021年2月"><a href="#2021年2月" class="headerlink" title="2021年2月"></a>2021年2月</h1><p>2021从正月初一讲起。<br>因为疫情，21年春节没回家，趁此，初一去售楼处讨个好彩头，2月底就签了合同。<br>表面看，买房是件大事，如今回想，最大的收获在于买房后的转变。自己会主动关心区域的现状和发展，会对衣食住行更为在意，会开始策划父母来北京，也会想是不是可以腾一间房来听音乐/读书/运动/做模型/…。孟子说“有恒产者有恒心”，买房成为一个锚点，让我在工作之外多了对美好生活的感知和向往。这就像，从以前吃到美食，到现在想以后能做出美食与人分享，从以前想把父母接来北京旅游，到现在计划以后每年接父母来北京住一段时间，让彼此直接存在于对方的生活，这两种幸福层级的差异是不言而喻。也在想，会有哪些可能成为“锚点”的转变思维方式或者关注点的事，2022会主动设定或被动遇到什么锚点，充满期待。      </p>
+<h1 id="2021年3月"><a href="#2021年3月" class="headerlink" title="2021年3月"></a>2021年3月</h1><p>3月底，做完了工体的超限。<br>工体是一个难得的项目，难得在于带来的思考。<br>这是一个曾被称为“建国十周年献礼工程”、首届“北京十大建筑”和首届“20世纪中国建筑遗产”的建筑，也是而今大家都倾注了情感的项目。经常看到公众号关于工体的推送下，球迷们满怀期待的大段留言，也会听到老工程师们在多个场合说到“这是北京人民乃至全国人民的工体，当年的工体是全国工人的工会会费改起来的，我们怎么能不做好”。两年的建造过程中，多位老工程师经历了或即将经历退休，这或许是他们几十年工作历程中直接负责的最后一个项目，他们把自己毕生所积累的宝贵经验和早已不比年轻人的精力都奉献给这个项目。作为年轻的后辈，满怀敬意。</p>
+<p><strong>关于遗憾</strong>。在中国院时，朱总常跟我说，设计是一门遗憾的艺术，设计完成后要有反思，看到了遗憾才会有收获。这次的工体设计，让我对遗憾又有了新的理解。在59年老工体设计论文的末尾写到了结构设计的3个遗憾，在91年的老工体改造的论文里，也提到那些遗憾确实为使用带来了不便。时代发展了，这些遗憾在新工体设计中可以被弥补，所以我们努力去推动并最终实现。似乎我们通过这篇文章与六十多年前的前辈进行了一次对话，他们告诉我们一些他们想要实现的愿望，我们向他们承诺这次一定做好，并一起等待新工体落成后的检验。我会发现老前辈们的真实，他们会将工程不足之处非常清晰地写在论文中，更未因这是当时全国知名的重点工程而有所顾忌，在那个政治挂帅的年代。求真务实，是我还要好好去学习的。<br><img src="https://s2.loli.net/2022/02/02/qrTDBeCLZvudinj.jpg" alt="2022_01_老工体论文2.jpg"><br><strong>关于妥协、坚持</strong>。工体罩棚结构方案选型时，柔性结构体系是被优先考虑的，它直接关乎着用钢量的节省，和同行们眼中的“技术性”。但专业配合后，柔性结构方案被认为与造型有严重冲突，那我们是否还要坚持？充分的沟通和换位思考是必须的，在确保大家相互明确对方所想之后，大家都跳出本专业的视角，形成统一方向的过程或许并不难。还记得那个大家都在加班的晚上，上去10楼，建筑向我解释为什么会有现在的方案，它代表了什么。后来，我们服从了全局的利益，我们信任团队的伙伴，也高兴地看到在大家的一致努力下，方案在逐步深化过程中实现了越来越好的建筑效果。这种欣喜，从球迷们对每一阶段效果图的评价中也能看到。<br><img src="https://s2.loli.net/2022/02/02/pBIVRkcnLl4AJ6x.jpg" alt="2022_02_新工体最新进展2.jpg"><br>回想这2年时间里，多个团队都希望获得方案设计权，有国内的，也有国外的，有建筑的，也有结构的，甚至在我们小范围进入施工图阶段后，还有国外知名设计公司向业主提出多个新方案。在这些“争斗”中，我们据理力争，经受住了考验。现在还印象深刻的，一是得知设计权尘埃落定时的喜悦和自豪感，二是项目组聚餐时盛总动情地寄语我们要努力再努力，提高国内设计师的地位和话语权。打铁还需自身硬，这样的竞争以后还会有。往后，希望能与大家一起合作，不止迎击来敌，也去主动出击。</p>
+<h1 id="2021年4月"><a href="#2021年4月" class="headerlink" title="2021年4月"></a>2021年4月</h1><p>4月底，听导师说清华新土木馆连桥要做结构方案，电话里立马应了下来，但内心略有紧张。上学7年，毕业后常回来参加合唱，对这里太熟悉了。工作8年，从未想过会遇到与自己生活如此有关的项目，即使只有50平米。方案1出来得很快，方案3也在2天后诞生，方案2直到约定交稿的4.30前夜才来了灵感，凌晨3点收工。<br>这次经历让我体会到了建筑同事投标过程的辛苦，收获则是：得到了诸多建筑同事的专业指点，非常感激大家的热心帮助；尝试将建筑、结构、机电和内外装设计进行整合，力求让方案能够落地，技术上得到了精进；感受到不自我设限的畅快感，突破自己的过程充盈着源源不断的福流。会想以后，工程中创新的成果如何产生？要主动。问得多一点，想得多一点，走得远一点，我会努力去做。<br>也在此感谢导师给予的机会，以及志远后期的诸多辛劳。工程在落地阶段总有无数繁琐的事儿都要解决，无关创意，但总关安全，要给志远点赞！<br><img src="https://s2.loli.net/2022/02/02/N1k5rcebhxHEtCK.jpg" alt="2022_03_清华土木连桥.jpg"></p>
+<h1 id="2021年8月"><a href="#2021年8月" class="headerlink" title="2021年8月"></a>2021年8月</h1><p>8月底做了个手术。<br>故事很长了。18年听力下降，19年初确诊听神经瘤，今年初开始有所长大，所以准备开颅取出。小家伙不太听话长在了内耳道接近小脑，所以不算小手术，失聪是正常的，差一点则伴随面瘫或行动受阻，更差的也可能有。最挂念的是父母，6月中端午回家见了父母，之后告诉了父亲，再之后是母亲，7月初就和医生以及家人确认好了手术安排。<br>也有其它挂念。在6月7月陆续见了一些小伙伴，留下了一些开心的合影，也想好了如果有状况，希望还以别的形式为系里的合唱事业长期做点事儿。爸妈提前来了北京，一家人开心地在北京相见，聊了许多以前没聊过的天。<br><img src="https://s2.loli.net/2022/02/02/QtvfusHiXa3c4k5.jpg" alt="2022_04_手术前合影2.jpg"><br>提前一周进了301，进来就安心了。专业人士做专业事，把自己全身心交给这里的医生护士，全力配合他们对自己的救治。也和病友李叔以及同龄的黄老师聊得投机，大家来自全国各地，相互鼓励并祝福着彼此。剃头前的照片发量还算浓密，2分钟后成了光头，与参加术前谈话的父亲照了合影，管床大夫告诉我们说不顺利的话手术可能要从早上做到晚上10点，还可能要进ICU。但实际上，照片上我们一脸轻松，好像真的没什么好需要特别准备的，准备手术的时光与工作时的忙碌相比，好像真的是种放松。<br>8月25日8点半进手术室，躺在手术台时还问医生手臂流过凉凉感觉的东西是不是麻醉剂，几秒之后就没有了知觉，再醒来则是下午2点半。医生小哥推着我见到了上电梯的父亲，一路上我跟随医生的指示做着闭眼鼓气嘟嘴等动作，联想到知乎网友分享的经验，欣喜地意识到面瘫大概率是不会发生了。几分钟后被推回熟悉的病房，也经历了传说中的术后反应，呕吐还好，一睁眼就天旋地转相对让人难以适应，但和面瘫相比，这些已经能让我接受了。<br>要感谢的是主刀韩东一大夫以及所带领的医护团队，他们的精湛技艺和悉心照料让我术后少受了诸多痛苦。第二天韩大夫来查房，兴奋地让父亲拿出提前买好的韩大夫的医学专著请韩大夫提笔寄语。后几天躺在病床上的我，一边康复，一边立志，要锤炼自己的设计本领和做人品格，才对得起如今全新的体魄。9月1日，顺利出院。<br><img src="https://s2.loli.net/2022/02/02/JfqF3Ulj2ZEAIs5.jpg" alt="2022_05_手术期间4.jpg"><br>手术期间有朋友想来探望，我大都婉拒。一方面不想麻烦诸多好友，线上的关心已经很感激，更重要的，我觉得这段时光应该更多地留给家人。家人的陪伴让我有了小时候将全部身心托付于父母的安全感，自己也希望通过这段时间的朝夕相处，让他们看到我在逐渐恢复，用我的无惧和坚强让他们安心。往年，一家人总是聚少离多；如今，我们在一个半月里相濡以沫；往后，许愿和父母的团聚不再是因为病痛。除了节假日，多安排一些没有任何原因的说见就见，就很好。</p>
+<h1 id="2021年10月"><a href="#2021年10月" class="headerlink" title="2021年10月"></a>2021年10月</h1><h2 id="关于合唱"><a href="#关于合唱" class="headerlink" title="关于合唱"></a>关于合唱</h2><p>因为手术，左耳没了听力，幸运的是还能参加合唱。曾想换到时常坐在左侧的男低声部，这样正常的右耳还能弥补左耳的缺失，还好是我多虑了。<br>2011是我参加咏恒的第11年，有两件事让我尤其欣慰，一是在相团的带领和大家的共同努力下，团里克服重重困难组织活动，即使只有年末一场演出，却有很难得的团队感。二是小合的演绎很成功，唱了这么多年小合，这次是难得的尽兴，真的非常感谢大家帮我弥补了先前演出的巨大的遗憾。<br><img src="https://s2.loli.net/2022/02/02/xtNpuVJzagBjhWP.jpg" alt="2022_07_咏恒小合影2.jpg"><br>听一位港科大师弟说，他的导师从二三十年前接触口琴开始到现在，每周五固定参加社团的排练，定期在城市音乐厅举办专场演出，他的幸福我是感同身受的。毫无功利原因聚在一起的团队，时常能给人以巨大的心灵抚慰，是因为合声浸润之美，是因为合作创造的极致体验，是因为和而不同。凭心而论，团里每人独唱都会有明显的缺陷，却能相互弥补缺失唱出和谐之声，这比多人唱出同一个声音更具有感染力；团里每人也都有不同的性格特点和行事风格，但会为达到同样目标提出各种方案进行各种尝试，这比单一背景的团队更具有生命力。“和”能包容“不同”，因为“不同”才达到更高程度的“和”。<br><img src="https://s2.loli.net/2022/02/02/Kbd26EfgLCNTeRj.jpg" alt="2022_06_咏恒大合影.jpg"><br>由此，可以通过“和而不同”给出对工作中“内卷”问题的一种解答。内卷的一个原因是大家对有限资源的无序争夺，因此，形成多元化的评价指标，合理地引导大家在不同方向上发展并通过合作为共同的目标而努力，可以避免无序竞争，缓解大家的焦虑感。可以做守正的匠人，也可以做创新的破壁人。每人在不同的方向上建立个体优势后，则可进一步形成两种团队优势：通过差异化个体优势的集成达到团队整体竞争力的增强，或通过支持个体优势方向在团队外部形成影响力以更好地争取外部资源，形成团队在本方向的新的利益增长点。</p>
+<h1 id="2022年1月"><a href="#2022年1月" class="headerlink" title="2022年1月"></a>2022年1月</h1><p>同样的“和而不同”也体现在工程博士的学习中。6月得知被录取，从10月中正式上课到1月初结束本学期的课程学习，不止一次地对好友和家人说，这个项目太适合我了，就好像是量身定制，我所需要的它都能给，甚至超过我的预期。<br>由于是横向编班，班里汇聚了不同专业背景、岗位背景和年龄段的同学，因此会发现，信息行业的同学普遍偏年轻，在他们那里能了解到很多新技术及其在传统行业的应用方式；政府和军工背景的同学则对政策的解读非常到位，有时也会分享国家大事件背后的小故事；与老大哥们的相处则总是如沐春风，他们看问题角度独到而直击要害，待人接物也尤其成熟老练。在数字化转型课程中，老师让我身处于传统行业也要站在上帝视角用数据思维考虑问题；在深圳的实践课上，看着多个传统行业的创新发展，想着唯有创新才能立于不败。要技术创新，也要管理创新，整合智慧资源支撑创新成果的产生，是需要着力的方向。<br><img src="https://s2.loli.net/2022/02/02/bFT7Vgi4HUfaIL5.jpg" alt="2022_08_工博.jpg"><br>回想当初为什么报工博，直接原因是考完一注评完高工后想寻找下一个目标，根本原因是自己没丢失那颗还算上进和渴望突破的心。沉浸科研过程时的时光飞逝，应用科研成果时的内心满足，两者都足够吸引我。对每一项科研成果的应用，自己都有细致评估，有显著收益者一定力推，略有收益者也倾向于应用，使其作为以后的技术储备。<br>而毕业总是一件需要刻意去关注的事情。感触很深的是，科研中特别需要“积小胜为大胜”，有时候找不到方向或没有灵感，可能是因为积累不够，可能是因为只想不做，勇敢迈出一小步，就会有新的积累，从而带来更新的想法，推动科研前进。科研之于工程，最大的好处就是其长期性，可以让我们相对充分地思考各种解决问题的方法，只要敢迈出第一步，第二步，一步又一步，小问题的解决汇集成大的科研成果，这就是我今年科研的最大心得。<br>工博申请时ppt的倒数第三页，我写上了我读工博的初心与梦想：其一，做对得起良心的建筑；其二，让复材用得其所；其三，找到平凡人过上更好生活的途径。这是我在申请时深思熟虑后写上的话，希望等到毕业的一刻，多一些愿望都能开花结果，也希望以后自己在做每一个重大人生选择时，都能想想初心是什么，多问几个为什么，不掺杂功利因素，其实答案不难找到。<br><img src="https://s2.loli.net/2022/02/02/LWJTbiYhxaf6wus.jpg" alt="2022_09_工博PPT.jpg"></p>
+<p>按照过生日的许愿规则，许3个愿望说出2个，咱这次过年许愿也按照这个规则吧。我的愿望一是希望保有健康的体魄，二是希望可以许更多的愿望，第三个保密。最后再放上一些整理出来的2021的图片吧，感谢遇到的大家，感谢生活，并呼应这篇日志文首的话，希望能做到真诚勇敢，爱我所爱。</p>
+<p><img src="https://s2.loli.net/2022/02/02/lKpPuy8NneYaUqM.jpg" alt="2022_09_合图.jpg"></p>
+]]></content>
+      <categories>
+        <category>生活 life</category>
+      </categories>
+      <tags>
+        <tag>家庭 family</tag>
+        <tag>工作 work</tag>
+        <tag>学习 study</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021春节提笔-家的回忆</title>
+    <url>/2021/02/2021_01_spring%20festival/</url>
+    <content><![CDATA[<p>离上次发日志，已经三年。<br>每年年末，都有小伙伴催更，现在可以继续写写什么了。平时基本不看电影，但用一部电影作为宣告年终结束的仪式成为了惯例。16年是《珍珠港》，17年是《芳华》，今年是《阳光普照》。喜欢这部电影没有特别复杂的原因，只因为看到一个家庭的命运起伏。大家从不知道如何表达爱，到在经历种种曲折后逐渐相互理解，到最后互相搀扶着勇敢生活，让我有代入感。往年阖家团圆，今年身在异地，由此，也更加的想家。</p>
+<span id="more"></span>
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="https://music.163.com/outchain/player?type=1&id=82922082&auto=1&height=32"></iframe>
+
+<p>现存最早的记忆大概2-3岁，在矮破的“老小学”职工宿舍2楼，一个黑魆魆的小屋，房屋结构早已没有了印象。那时的事，还记得两个场景。<br>一个是在门外走廊，爸爸在上班前做好一碗醪糟汤圆放在我身前的小桌上，很烫，而我坐在小凳上，大口哈着气，一边吃一边目送父亲远去。对南方人，汤圆是比饺子更有家的寓意的存在，毕竟团团圆圆。小时候多做醪糟汤圆，因为白面搓条掐块后直接下锅煮，省事，但过节总会吃包心汤圆，外婆每年精心制作完汤圆馅儿后分给各家，那种味道至今怀念。<br><img src="https://i.loli.net/2021/02/15/vfn6gSTP2REorZ3.jpg" alt="01_阳台.jpg"><br>另一个是妈妈给我唱童谣。记忆最早的一首叫《宝贝》。之前一直不知道这首歌的确切名字，只记得旋律和一部分歌词。去年底某天跑步时突然想起了这首歌，给妈妈发微信询问，妈妈唱了出来，熟悉、亲切、又让我激动。上网查，是一首印尼童谣。原版歌词是一位母亲唱给孩子等待参军的父亲归来：<br><em><code>“宝贝，你爸爸正在过着动荡的生活，他参加游击队打击敌人哪我的宝贝，他参加游击队打击敌人哪我的宝贝……”</code></em><br>妈妈唱出来的歌词更接地气，可能因此我才能依稀记到现在。<br><em><code>“宝贝，你爸爸正在工厂上班班，你妈妈正在家里给你做饭饭，你妈妈正在家里给你做饭饭……”</code></em><br>温柔朴实的歌，应该传唱下去，是吧 [微笑.jpg]<br><img src="https://i.loli.net/2021/02/15/ShZFLDBGRMuklgE.jpg" alt="02_100天合影.jpg"><br>没住多久，我们搬到了一栋60多平米的家属楼，和婆婆（北方叫“奶奶”）爷爷生活在一起。婆婆以前是小学教师，我从小的家庭知识教育大部分来自于她。<br>家里留存着小时候婆婆辅导我练字的方格本，一天一篇小楷，我写完后她会用红色笔在字旁批改，画一个圈表示写得好，两个圈就是非常好，最多是三个圈。打完圈后，婆婆会让我把每天的圈加和，看看是不是比之前的圈多，以此鼓励我不断进步。家里也有一块小黑板，藏在进门的门后，那是属于我的写字和画画的地方，擦擦写写画画，凝聚了我童年的快乐。<br><img src="https://i.loli.net/2021/02/15/zxknDqyd1J47b9B.jpg" alt="03_小黑板.jpg"><br>婆婆爷爷也教我劳作。每周休息日，我们会把家里整个打扫一遍，他们教我门缝要如何擦干净，凳子不要只擦表面还要擦平常看不见的底部，等等。待我长大一些，则教我如何用火花枪点燃灶火，如何做蛋炒饭、番茄炒蛋，而后则是如何用电饭锅、高压锅。每天放学后等到6点爸妈下班，我会从米桶里蒯出2小盅生米，用水淘过之后倒进电饭锅，而后小心翼翼地一边加水一边用手指触及米粒顶部，通过指节的深度来度量水量是否合适，等到电饭锅跳膛保温5分钟之后再拔插头，以防变硬烧糊。<br>后来我到市区读高中，有的生活技能用得少了，但每每想起，还是会感念家应该是什么样子。<br><img src="https://i.loli.net/2021/02/15/yCDWTijlceFBKa9.jpg" alt="04_全家福.jpg"><br>好几次朋友们问我，小时候家里人对我是不是很严厉？认真回忆后，记起来几件：<br>一次小学期中考试，爸爸说如果我考到98分就带我去歌乐山烈士陵园参观，但我语文只考了95分。回家找爸爸签字，爸爸严厉地批评我，参观的事儿自然没了着落，我豆大的泪珠立马流了下来。<br>一次小学交作业，身为自然课代表的我在报作业时错把数学作业本交了上去，导致数学作业无法上交，回家也没有找到作业本，于是得到了爸爸的毛巾伺候。<br>还有一次听妈妈和叔姨们说，爸爸为了让我喝粥，拿着针管状物对我说“吃饭还是打针？”当然我又流下了豆大的泪珠，而后含泪喝下了一碗滚烫的粥。他们说，从此以后我就不喜欢喝粥了，确实直到现在也是如此。<br>大致上了初中，那时我们已和婆婆爷爷分开住，每周六日我都会过去看望他们。有次市里的野生动物世界开园，我没有向婆婆爷爷请假就和大人去玩了，回来受到了批评：人不能言而无信，约定的事就要照做。婆婆爷爷平时对人和蔼，但这次非常严厉，让我印象很深。</p>
+<p>温暖的时候也很多。<br>小学时，爸妈偶然间发现我喜欢音乐，据说，邻居小姐姐在弹钢琴时，我会站在邻家门前仔细地听，所以某一天，妈妈给我带回一架玩具电子琴以满足我的好奇心。等妈妈做完饭后，听到的却是我靠记忆中的旋律摸索着弹出的《世上只有妈妈好》。这事我是记不得了，但听起来挺幸福的。<br><img src="https://i.loli.net/2021/02/15/YOlrRJwgxabi1yk.jpg" alt="05_电子琴.jpg"><br>家里有一台大录音机，当时叶倩文的《潇洒走一回》很火，我也学着在唱，爸爸妈妈就帮我录了下来，录着录着还全家一起唱。那是我小时候录下的第一首歌，录歌的欢乐场景现在还依稀记得。<br>南方很难下雪。难得有一年家乡下雪，下班回来的妈妈把小菜板拿下楼，拿上来时菜板上居然立着一个小雪人，我万分惊喜。我还说要不把雪人冻在冰箱里怕化掉，真傻，哪能一直冻着。<br>记忆中，我喜欢跨坐在爸爸肩背被举高高，这样就能看到更远的地方；也喜欢坐在爸爸妈妈自行车后座，靠在他们后背看旁边移动的风景。所以到《阳光普照》结尾的镜头，我会很喜欢：小时候是妈妈载小儿子，而小儿子长大后载着妈妈沿着小路穿行，看着阳光透过树缝洒下的斑驳光影，一切是久别重逢，又透着对重生后的未来生活的希望。<br><img src="https://i.loli.net/2021/02/15/S3ZEpwOjldBrF6I.jpg" alt="06_抱高.jpg"><br>上了高中，和家的物理距离远了，和家里的心理距离也确实远了。这段时间，家里发生了一些变化，有着清晰印象的场景不多。我知道妈妈身体有恙，后来不经营服装了。我知道爸爸每月会抽空到学校带我吃喜欢的鱼火锅或者干锅，又带我去解放碑看正在修建的摩天楼。后来爸爸在重庆开了一家小饭馆，我去过一次，香气扑面。爸爸挺忙碌，我没待多久。<br><img src="https://i.loli.net/2021/02/15/M6gTq2AiKV1YSZX.jpg" alt="07_高考后.jpg"><br>高考前，爸爸妈妈带着鸡汤过来我在学校外的出租房，陪我度过了考前最后的一夜，而后有一天班主任打电话说我的分数，爸爸妈妈都挺高兴，因为可以上清华了，只有爷爷还是想我去同济，因为上海是他几十年前生活过的地方，那里还有兄弟姐妹。爷爷离家几十年，还是切不断和家乡的联系，现在我很能理解。再过3年，我在北京待的年份就要超过家乡，但家乡还有那么多亲人，那么多熟悉的街道和场景，那么亲切的乡音，怎么能割舍，怎么会忘记。<br>某年回家，突然发现家搬到了城市新区，妈妈说，前一年全家散步路过这里时听我说这栋房子好看，正好家里也打算搬离原来的地方，就过来了。对我而言，除了居住环境的改善，也象征着走出了生活了20年的厂区家属院。最近几年，厂区经历了城市改造，曾经和婆婆爷爷一起住过的楼已经拆除，不见了阳台上栽种的云竹、兰草、昙花、金桔、朱顶红、蟹爪兰；曾经从学前班到初中就读十年的厂区子弟校被划归地方，那条上学放学的路，距离不远但总是走得很长，只因为路边的三角粑、炸土豆、烤豆干、锅巴虾条和干脆面。可能下一代不会立即理解我们对于这些事物的情感，就像我当年也不理解老一辈人说到建厂时在主干道两旁栽下的参天大树时的自豪，而现在的我，已经完全理解了。<br><img src="https://i.loli.net/2021/02/15/UIte17yZTv3gWQ5.jpg" alt="08_花花草草.jpg"><br>和父母关系的重新拉近是从研三下学期开始。那时，妈妈病情有了反复，我忧心忡忡，后来病情得到了控制，但每隔一两天通一次的亲情电话，我不再觉得枯燥。几年里每次通话，爸妈无非是问“晚饭是在食堂吃的么”、“最近工作忙不忙”、“有没有吃水果”，而我则是问“家里晚饭吃的啥”、“今晚吃完饭出不出去走路”。说到生活，妈妈会跟我分享她与各种人相处时感到的舒服或者不自然的地方，要我真诚对人；说到工作，爸爸则经常说画图要仔细，钢筋稍微多配几根，安全系数留大一些，要我认真做事；说到健康，我则总是提醒他们要注意荤素搭配，吃东西不要太节俭，喜欢吃什么就去买什么。给妈妈买手机时，选的是和我同款，想的是如果有什么妈妈不懂的操作，我能更方便地告诉她。买电扇时，考虑的是力求静音，这样妈妈睡觉就更不会被噪音打扰，哪怕能多一刻入睡也值得。发现用手环监测身体数据很方便，就给爸爸也买了一个，却阴差阳错地让他在不骑自行车十几年后重新捡起了这个技能，有时周六日骑行几十公里好不惬意，然后把手环记录的路线发上朋友圈，我能感受到他的成就感。上次回家跟着爸爸上山和绕城一圈，也骑过了他上班时的路线。大多数时候都是他带路，我跟在他后面，好像和小时候那个坐在他身后的小男孩一样，被稳稳地载向前方。<br>在亲情里，没有三年之痛，没有七年止痒。诚然，我习惯了报喜不报忧，谁又能说他们不是如此。只是在大事上，我们沟通充分，一家人共同进退，就好。等过阵子爸爸退休了，看他们意愿，如果不想搬来北京，至少也要每年过来一段时间，以北京为中心，一家人在周边逛逛。18年在北京游览的情景还历历在目，那是多么开心和温暖的时光。我们许过去内蒙看美景的愿望，夏天一望无际的碧绿的草原，或是秋天漫山遍野的金黄的胡杨林。不同于小时候散步时我常走在中间，此时我会畅想，草原上的一家子，妈妈在中间，左手挽着爸爸，右手挽着我，在柔和的夕阳的微光下，一起憧憬着更美好的未来。<br><img src="https://i.loli.net/2021/02/15/mbwIJDrQl3ocBhk.jpg" alt="09_游览北京.jpg"><br>今年春节没有回家，记忆中以前只有研一去澳洲访学时有过这样的经历。我在北京，大年初一一早，依然如往常在家，一碗汤圆加一个半熟的鸡蛋，然后出门。今年不能和他们一起去乡下和陵园里拜祭逝去的亲人，只能由父母代我向先祖们汇报过往一年的成绩，再许下对新的一年的愿望。今年的生活预计会有挺多新变化，多了蛮多新愿望，最近也得到了很多亲人、朋友的帮助，很感谢帮助我们实现愿望的各位亲友们。相信这些愿望都会实现，相信生活一定会过得越来越好，也祝愿所有的家庭，新的一年里都万事顺意，幸福平安！</p>
+<p>2021.2.15 firework @ Beijing</p>
+]]></content>
+      <categories>
+        <category>生活 life</category>
+      </categories>
+      <tags>
+        <tag>家庭 family</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>春节返乡结构设计考察——永川体育中心</title>
+    <url>/2017/02/2017_02_yongchuan_stadium/</url>
+    <content><![CDATA[<p>没设计过体育场。春节期间路过永川体育中心，觉得蛮新鲜。场外转了一圈，做了一次体育场钢结构设计的考察，在此整理记录。</p>
+<span id="more"></span>
+<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>以下摘自<a href="http://yc.cq.gov.cn/art/2012/12/26/art_227_27879.html">永川区人民政府网站</a>：</p>
+<blockquote>
+<p> 永川区体育中心位于永川区红河大道539号，于2007年12月建成投入使用。该中心占地面积165亩，建筑高度为34米，建筑面积44000平方米。建有一个能容纳3万人观看的国家级体育赛事的中心体育场和一个能容纳500人观看赛事的室内游泳馆；另建有天然草坪足球场1块，人工草坪足球场1块，风雨门球场6块。</p>
+</blockquote>
+<p>以下摘自百度百科词条<a href="http://baike.baidu.com/link?url=FuTnssJQLgmLNuksHREedlIQZ3ptrizh_dmo8oiVGuGuHz7kHXQfED58cPEGRiQnQjk1azzo9ni-fTGv7iyiDgzrAettunNSB-y1U31iILCHNF0idD4ucL2fClUdNcSDcc49pz-q0ce4iRdFVDRZ3K">“永川体育中心”</a>：</p>
+<blockquote>
+<p>永川体育中心占地面积19.47公顷，工程总投资约1.39亿元，是一座规模较大、功能合理、档次较高、环境优美的大型综合体育场馆，体育中心分为公园前区、体育运动区、公园生态区，建有一个可承接国家级体育赛事的2.5万人中心体育场和一个标准游泳馆，配套6块网球场、6块篮球场、4块门球场及相关设施。</p>
+</blockquote>
+<p>此次考察的行进路线按下图（为后文描述方便，命名为“图0”）中1<del>6顺序进行，其中1</del>3环绕游泳馆，4为游泳馆和体育场的分界处，5~6环绕体育场。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/0-path.jpg" alt="行进路线"></p>
+<h1 id="设计参数辨识"><a href="#设计参数辨识" class="headerlink" title="设计参数辨识"></a>设计参数辨识</h1><p>这次考察的对象，是体育场和游泳馆，它们的钢结构屋面形似一条舞动的飘带，是整个体育中心外形上的亮点。<br>从简介中可以看出：</p>
+<ol>
+<li>体育中心建筑高度为34m，为高层建筑；</li>
+<li>永川体育中心“体育场”（非“体育馆”）并无异议。《体规》根据室内室外对游泳场（池）/游泳馆进行划分，永川体育中心游泳设施四周并未封闭，但考虑到整个泳池有屋盖覆盖，暂列为“游泳馆”。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/05_swimming_indor_outdoor.jpg" alt="游泳馆和游泳池"></li>
+<li>对于体育馆建筑等级：永川体育中心从2011年开始连续承办国际女足邀请赛（国际A级赛事）（百度百科词条<a href="http://baike.baidu.com/link?url=tVmT7Fz6VQOk2sEfJM68yPjTAmL7agm6JbmfvzbwqxYRmvlnVqC0MVBaNlKli9LfvlAdkBcc9cwpNAQSTDJfVxCQdQcFmoM4QXdk496wi6afiVvlFuj35gZTh4odClBsCGBluwkY2lJdh72XIjWz2-5Qj7WUGyVMTm8Jpcw_oBpKWR9LTr8MrL8p5BvjMrax">“永川国际女足邀请赛”</a>），可推测其定位至少是“举办全国性和单项国际比赛”，根据<a href="http://wenku.baidu.com/link?url=m6nAK0qKWmXfaeFPyRMt5XuU40HmgIhcaqbml9f4M49qTqoq88TAy9Ugnkd7EkegJwxof4VKSEJQmWgGp4Tbwy6888Tukw_DK5hJgsKIe_m">《体育建筑设计规范 JGJ31-2003》</a>（以下简称《体规》）1.0.7，为甲级体育建筑，根据1.0.8，主体结构设计使用年限为50~100年，耐火等级≥二级。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/01_stadium_grade.jpg" alt="市级体育设施规模"></li>
+<li>对于体育场能容纳观众数，两处描述有差异，但这正是结构设计的关键点。目前永川城市人口为73万（<a href="http://yc.cq.gov.cn/art/2017/1/26/art_1169_168969.html">《2017年重庆市永川区人民政府工作报告》</a>），按《体规》3.0.3，适合的体育场规模为2~3万座，游泳馆规模为2-3千座。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/02_population.jpg" alt="永川人口"><br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/06_stadium_area_limit.jpg" alt="体育设施用地规模限制"></li>
+<li><ol>
+<li>3条中体育场座位约数和报道相符。根据<a href="http://wenku.baidu.com/view/b096c5e39b89680203d82516.html?re=view">《建筑工程抗震设防分类标准 GB50223-2008》</a>（以下简称《设防标》）6.0.3条文说明，“观众座位容量不少于30000人或每个结构区段的座位容量5000人”为人员密集，需确定为乙类建筑。查阅其它<a href="http://cq.cqnews.net/cqqx/html/2015-10/16/content_35531647.htm">新闻报道</a>，推测永川体育中心的“3万人”为约数（新闻报道中为“近3万人”，和2.5万人相符），实际座位数在3万以下，因此以下分析暂不按乙类建筑考虑。按《体规》5.1.1，为中型体育场。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/03_grade_II_stadium.jpg" alt="抗规对人员密集体育建筑的规定"></li>
+</ol>
+</li>
+<li><ol start="2">
+<li>3条中的游泳馆座位约数和报道不符。目前未找到其余报道能说明游泳馆座位数，但根据当日现场拍摄照片（在图0的位置3观察，下图黄色高亮四边形区域约20x10=200座），座位数远超过500座，和2-3千座接近。根据《设防标》6.0.3条文说明（上图），“观众座位很多的大型体育馆（含游泳馆）指观众座位容量不少于4500人”，因此游泳馆为丙类建筑。按《体规》7.1.1，为中型游泳馆。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/04_swmming_gym.jpg" alt="游泳馆实景图"></li>
+</ol>
+</li>
+<li>永川区抗震设防参数为6度0.05g第一组，由《抗规》表8.1.3及条文说明可知钢结构抗震等级为小于四级，“其‘作用效应调整系数’和‘抗震构造措施’可按非抗震设计执行”。</li>
+</ol>
+<h1 id="游泳馆"><a href="#游泳馆" class="headerlink" title="游泳馆"></a>游泳馆</h1><p>在图0的位置1仰视，可见：</p>
+<ol>
+<li>采用正放四角锥网架。识别：双层，上层（红色）和下层（橙色）均为正放正方形，四根斜杆汇聚到一点。又因上下层正方形大小一致，因此为正方四角锥（否则可能为抽空四角锥）。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-1-top_Ink_LI.jpg" alt="1位置仰视图"></li>
+<li>双向网架尽可能让柱与柱直接相连以使传力直接（上图中蓝、紫色虚线），最直接的受力单元则为垂直飘带方向的柱间连接（图0中的绿色粗实线，上图蓝色虚线）；</li>
+<li>为屋面造型需求，网架略有上拱（上图蓝色虚线示意）。若造型为平面，大跨结构施工时也应预留适度上拱。另外，《空间网格结构技术规程 JGJ7-2010》（以下简称《网规》）规定了当有排水找坡需求时的处理办法：改变上弦节点小立柱高度、网架变厚度、网架整体结构找坡。</li>
+<li>由于柱位布置受限，角柱并未和边柱布置于一条直线（下图紫色虚线），此时网架并未随角柱发生弯折，仍随大面的正交方向布置。</li>
+<li>屋面覆膜固定于钢条上，钢条与网架间通过球节点上安放的立杆进行焊接（下图红框区域放大）。网架杆件间通过螺栓球节点进行连接。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-2-cantilever_Ink_LI.jpg" alt="悬挑角部网架布置"></li>
+</ol>
+<p>在图0的位置2观察：<br>飘带一角下沉，双向网格逐渐在此处交汇收于一点，并通过平板压力支座与混凝土矮墩相连。矮墩下大上小，其中一个斜面与网架面平行，利于将网架推力直接传递至基础。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-3-connet_earth_Ink_LI.jpg" alt="网架落地连接"><br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-4-joint.jpg" alt="螺栓球节点及压力支座"></p>
+<p>在图0的位置4观察：<br>分缝处可见游泳馆与体育场屋盖采用了不同的结构形式。想说的是：<strong>要分缝就分彻底</strong>。分缝处横穿的圆管为落水管，从体育场屋面引水至游泳馆最近的混凝土柱处下落。而在主结构上方用于架设屋面的钢条为薄壁型钢，连接刚度小，忽略其对分缝的影响。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-4-fenfeng_Ink_LI.jpg" alt="游泳馆和体育场间的分缝"></p>
+<h1 id="体育场"><a href="#体育场" class="headerlink" title="体育场"></a>体育场</h1><p>图0的位置4分缝处的另一侧为体育场，形式和游泳馆完全不同。<br>图0的位置5为体育场区域分缝处，在此处能观察到体育场结构的两种基本构成形式：以单混凝土柱+钢斜杆为竖向构件的悬挑桁架（下图右）；以双混凝土柱+钢斜杆为竖向构件的悬挑桁架（下图左）。再利用布置于内悬挑端部、柱顶、和大悬挑中部的环向桁架将各单榀结构进行连接，形成双向抗震体系，从而构成完整的体育场屋面。下图中：</p>
+<ul>
+<li>红色为钢筋混凝土柱，从下方混凝土看台升起；</li>
+<li>绿色为悬挑钢桁架，中部铰接于柱顶，根部铰接于钢斜杆顶；</li>
+<li>蓝色为钢斜杆，上下均为铰接，下部直接与基础相连。</li>
+</ul>
+<p>注：以上及以下在字面上不区分悬挑根部的钢斜杆为受压的钢柱/撑或是受拉的钢拉杆，统一称作“钢斜杆”。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-1-fenfeng_Ink_LI.jpg" alt="两种基本单榀结构"><br>设计要点如下：</p>
+<ol>
+<li>对悬挑桁架，上杆受拉而下杆受压，若采用单上杆+双下杆方案可以使杆件截面均匀。但双下杆不便于和柱连接（柱截面小于两杆间距），因此采用了单下杆+双上杆的方案。为何没采用单上杆+单下杆？估计是三角形截面较稳定吧。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-3-single_double_column_Ink_LI.jpg" alt="单柱受力分析"></li>
+<li>对悬挑单榀，无论悬挑大小及根柱远近，中柱始终受压，中柱可保持钢筋混凝土柱。</li>
+<li>体育场绝大部分区域均布置看台座位，为保持视线不受柱遮挡，中柱需布置于看台区域外围，此时屋面悬挑很大且根部竖向构件距离中柱较近，悬挑根部上翘使得竖向构件受拉，因此采用钢斜杆。</li>
+<li>少量无看台的消防通道出入口（平面位置见图0中A、B两处）可将中柱前移，减小悬挑长度的同时也增大了和根柱的距离，此时可考虑采用双混凝土柱。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-2-stairs.jpg" alt="消防通道口的双柱"></li>
+<li>从结构设计上看，设置双混凝土柱的地方似无必要再设置外侧钢斜杆。抑或为保持外观的一致性，是否所有区域都应采用单混凝土柱+钢斜杆方案？可参考的解释为：能加双混凝土柱的消防通道处同时正好是钢屋面的分缝位置，分缝两端通常位移较大，需要加强，做成双混凝土柱+钢斜杆，增加了超静定次数，刚度更大。</li>
+<li>由于屋面覆膜且看台开敞，因此风力在屋面内外两侧产生压-吸力的叠加导致吸力增大，这在《荷载规范》中有所体现（下图）。当风力产生的吸力大于悬挑重力时，可能导致桁架上下拉压杆及柱所受内力反号。因此在屋面悬挑侧设置拉索以抵抗可能的风吸力（上上图）。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-4-wind_pressure.jpg" alt="开敞式结构的风吸力增大"></li>
+<li>学习一下钢斜杆顶部和底部的<strong>单向铰接节点</strong>做法。根据加工的便利程度来决定各连接处哪一侧做单板哪一侧做双板。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-5-connection.jpg" alt="钢斜杆顶底连接做法"></li>
+<li>关于<strong>结构伸缩缝</strong>，钢结构和混凝土结构有不同的要求，可见混凝土限制较严。下图（可点击放大）：左-高层混凝土结构设计规程，右-钢结构设计规范。更多阅读可见此文<a href="http://blog.163.com/clq_1998/blog/static/304564172008111103151743/">《结构缝分类和设置 》</a>。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-6-fenfeng.jpg" alt="高规和钢规对伸缩缝的规定"><br>在图0中位置4及5两处可见钢结构分缝（照片见前所示），而混凝土分缝更加常见（未统计各处位置，以后有机会补上平面示意图）。可见分缝处为双柱，双柱顶共同托起一榀悬挑桁架。但<strong>双柱顶和桁架如何连接？</strong><br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-7-RC-fenfeng.jpg" alt="混凝土结构分缝"></li>
+<li>关于钢斜杆角度：环绕体育场一周，能见到不同倾斜程度的钢斜杆（下图为图0中位置6处），有何因素影响倾斜程度？结合下图手绘示意图尝试解释如下：</li>
+</ol>
+<ul>
+<li>钢斜杆与混凝土柱共用基础，可利用斜杆拉力减小中柱对基础的压力，减小基础尺寸；</li>
+<li>当钢屋面外围突出混凝土看台边界不多时（左示意图），拉杆力F1小，拉杆截面尺寸小，同时拉杆力的水平分量H1小，基础抗侧设计容易满足。</li>
+<li>当钢屋面外围突出混凝土看台边界较多时（右示意图），为满足悬挑要求V2=V1，此时若仍将斜杆底部与柱底相连，则倾斜角度变大，H2&gt;H1且F2&gt;F1，对基础抗侧不利，且可能增加斜拉杆、基础及节点的材料用量和设计难度。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-8-steel_angle_Ink_LI.jpg" alt="不同角度的钢斜杆"></li>
+</ul>
+<h1 id="两处bug的处理方式"><a href="#两处bug的处理方式" class="headerlink" title="两处bug的处理方式"></a>两处bug的处理方式</h1><p>以下两处似乎是设计时的遗憾，然而也能将错就错学到新东西。</p>
+<ul>
+<li>左：斜杆穿过玻璃挑檐，可见即使有防水处理，密封性也不好。可学到和周边整块玻璃不一样的架设方式。</li>
+<li>右：近处斜杆穿过消防楼梯边缘，远处斜杆位于楼梯内部。居然这样也能做？！？虽然侧边有障碍，但将梯梁设置于避开障碍物，周边做成翻边遮蔽梯梁，也能满足要求。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/stadium-9-bug.jpg" alt="两处bug"></li>
+</ul>
+<h1 id="《网规》学习要点摘录"><a href="#《网规》学习要点摘录" class="headerlink" title="《网规》学习要点摘录"></a>《网规》学习要点摘录</h1><p>除前几节所述涉及《网规》的部分内容外，此次学习到的以下内容也属于空间网格结构设计需要掌握的基本点，摘录如下：</p>
+<ol>
+<li>不同形式的网架示意图如下（yjk软件自带图片）。更直观的立体图片见《网规》附录A/B。<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/swim-2-grid.jpg" alt="不同种类的网架结构形式"></li>
+<li>《网规》2.1.2、2.1.7：平面或略微上拱的空间网格结构称为“网架”，主要承受弯曲内力，而对曲面弧度较大的空间网格结构则称为“网壳”，主要承受整体薄膜内力。</li>
+<li>《网规》3.1.8：<strong>单层网壳必须采用刚接节点。</strong></li>
+<li>《网规》1.0.2条文说明：**&gt;60m时为大跨度，30~60m为中跨度，&lt;30m为小跨度。**</li>
+<li>《网规》规定了如下要点：网架分类（3.1.2<del>3.1.6）；不同平面形状、长宽比和支承情况的适宜选型（3.2.1</del>3.2.4）；矢跨比（3.2.5、3.3.1<del>3.3.4、3.4.1</del>3.4.3）。</li>
+<li><strong>矢跨比及厚度经验取值</strong>：网架矢跨比1/10<del>1/18；网壳矢跨比1/2</del>1/9不等，厚度可取宽度的1/20<del>1/60不等；立体桁架矢跨比1/12</del>1/16；立体拱架矢跨比1/3<del>1/6，厚度可取跨度的1/20</del>1/30；张弦立体拱架……</li>
+<li>《网规》3.5.1：<strong>容许挠度及预起拱</strong>要求：<br><img src="http://of35dg2v1.bkt.clouddn.com/blog/struct/2017_02_yongchuan/grid-2-deflection.jpg" alt="容许挠度及预起拱"></li>
+<li>《网规》4.2.4：可不考虑<strong>温度应力</strong>的条件：构造允许足够的侧移值、周边独立柱支承且跨度&lt;40m、柱顶水平位移较大。</li>
+<li>《网规》4.3：需进行<strong>稳定性计算</strong>的情况：单层网壳及厚度小于跨度的1/50的双层网壳。初始缺陷分布采用一阶屈曲模态，数值取跨度的1/300。安全系数K根据弹/弹塑性计算机跨度和结构形式的不同可取2~4.2，特定的小跨度网壳可按附录E的允许应力法进行稳定性设计）。</li>
+<li>《网规》4.4：需进行<strong>抗震验算</strong>的情况：8度周边支承的小跨度网架需竖震，其余≥8度的网架需水震+竖震。7度矢跨比≥1/5的网壳需水震，其余≥7度的网壳需水震+竖震。阻尼比取0.02<del>0.03（4.4.10），振型至少10</del>15（网架）/25~30（网壳）。</li>
+<li>《网规》6.3~6.9：<strong>安装方法</strong>：高空散装法、分条或分块安装法、滑移法、整体吊装法、整体提升法、整体顶升法、折叠展开式整体提升法。</li>
+<li>《网规》5.2~5.8：杆件的<strong>连接节点</strong>可分为：</li>
+</ol>
+<ul>
+<li>焊接空心球节点</li>
+<li>螺栓球节点：连接网架和双层网壳的圆钢管</li>
+<li>嵌入式毂节点：跨度不大的单层球、柱面网壳</li>
+<li>铸钢节点：汇交密集、受力复杂且可靠性要求高的关键部位</li>
+<li>销轴式节点：约束线位移、放松角位移</li>
+<li>组合结构的节点</li>
+<li>预应力索节点</li>
+<li>支座节点：分为压/拉力支座节点、可滑移与转动的弹性支座节点、兼受轴力、弯矩与剪力的刚性支座节点</li>
+</ul>
+]]></content>
+      <categories>
+        <category>结构 struct</category>
+      </categories>
+      <tags>
+        <tag>永川 yongchuan</tag>
+      </tags>
+  </entry>
+</search>
